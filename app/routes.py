@@ -10,6 +10,12 @@ from data.money_heist import MONEY_HEIST_QUOTES
 
 SERIES = ["breakingbad", "dark", "gameofthrones", "moneyheist"]
 ALL = BREAKING_BAD_QUOTES + DARK_QUOTES + GAME_OF_THRONES_QUOTES + MONEY_HEIST_QUOTES
+SERIES_URL = [
+    "https://web-series-quotes.herokuapp.com/breakingbad",
+    "https://web-series-quotes.herokuapp.com/dark",
+    "https://web-series-quotes.herokuapp.com/gameofthrones",
+    "https://web-series-quotes.herokuapp.com/moneyheist"
+]
 
 
 def finder(query):
@@ -39,7 +45,7 @@ def not_found(error):
 
 @app.route("/")
 def index():
-    return jsonify(SERIES)
+    return jsonify(SERIES_URL)
 
 
 @app.route("/random/<series>/")
