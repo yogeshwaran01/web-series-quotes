@@ -1,6 +1,8 @@
 # Web-Series-Quotes-Api
 
-Free Api for Quotes of various web-series run in Heroku Server
+![web-series-quotes-title](web-series-quotes-title.png)
+
+Api for Quotes of various web-series
 
 ## Available Web-Series
 
