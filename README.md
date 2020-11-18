@@ -1,6 +1,6 @@
-# Web-Series-Quotes-Api
-
 ![web-series-quotes-title](web-series-quotes-title.png)
+
+# Web-Series-Quotes-Api
 
 Api for Quotes of various web-series
 
@@ -50,3 +50,11 @@ Api for Quotes of various web-series
 ```/gameofthrones/{id}```
 
 ```/moneyheist/4/```
+
+### Contributing
+- Add other your favourite webseries quotes in ```data``` folder 
+- Add route path in ```routes.py```
+- Make PR
+
+### Credits
+Inspired from [shevabam](https://github.com/shevabam/breaking-bad-quotes)
