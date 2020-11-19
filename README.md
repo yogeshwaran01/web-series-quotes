@@ -94,70 +94,11 @@ https://web-series-quotes.herokuapp.com/generate/blank?text=Hello+I'am+Python
 
 ![image](https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello%20world)
 
-
 ## API
 
-### All Quotes
-
-```url
-/breakingbad
-```
-
-```url
-/dark/
-```
-
-```url
-/gameofthrones
-```
-
-```url
-/moneyheist/
-```
-
-### Random Quotes
-
-```url
-/random/breakingbad/
-```
-
-```url
-/random/breakingbad/{number_of_quotes}
-```
-
-```url
-/random/dark/
-```
-
-```url
-/random/dark/10
-```
-
-```url
-/random/gameofthrones/
-```
-
-```url
-/random/moneyheist
-```
-
-### Quote Id
-
-```url
-/breakingbad/{id}/
-```
-
-```url
-/dark/23
-```
-
-```url
-/gameofthrones/{id}
-```
-
-```url
-/moneyheist/4/
-```
+- [Get all Quotes]([https:](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/all_quote.md))
+- [Get Random Quotes]([https:](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/random_quote.md))
+- [Get Quotes by Id]([https:](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/quote_by_id.md))
 
 ### Contributing
 
