@@ -52,9 +52,11 @@ Api for Quotes of various web-series
 ```/moneyheist/4/```
 
 ### Contributing
-- Add other your favourite webseries quotes in ```data``` folder 
+
+- Add other your favourite webseries quotes in ```data``` folder
 - Add route path in ```routes.py```
 - Make PR
 
 ### Credits
+
 Inspired from [shevabam](https://github.com/shevabam/breaking-bad-quotes)

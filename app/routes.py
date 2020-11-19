@@ -1,12 +1,13 @@
 from random import choice, choices
 
-from flask import jsonify
+from flask import jsonify, request
 
 from app import app
 from data.breaking_bad import BREAKING_BAD_QUOTES
 from data.dark import DARK_QUOTES
 from data.game_of_thrones import GAME_OF_THRONES_QUOTES
 from data.money_heist import MONEY_HEIST_QUOTES
+from .image_processing import colored_back, image_back, in_build_image_back
 
 SERIES = ["breakingbad", "dark", "gameofthrones", "moneyheist"]
 ALL = BREAKING_BAD_QUOTES + DARK_QUOTES + GAME_OF_THRONES_QUOTES + MONEY_HEIST_QUOTES
@@ -14,11 +15,12 @@ SERIES_URL = [
     "https://web-series-quotes.herokuapp.com/breakingbad",
     "https://web-series-quotes.herokuapp.com/dark",
     "https://web-series-quotes.herokuapp.com/gameofthrones",
-    "https://web-series-quotes.herokuapp.com/moneyheist"
+    "https://web-series-quotes.herokuapp.com/moneyheist",
 ]
 
+IN_BUILD_IMAGES = ["breakingbad", "dark", "gameofthrones", "moneyheist"]
 
-def finder(query):
+def finder(query: str) -> list:
     if query == "breakingbad":
         return BREAKING_BAD_QUOTES
     elif query == "dark":
@@ -29,14 +31,15 @@ def finder(query):
         return MONEY_HEIST_QUOTES
     else:
         pass
-    
-def get_by_id(query, id_):
+
+
+def get_by_id(query: str, id_: int) -> dict:
     result_ = None
     for i in finder(query):
-        if i['id'] == id_:
+        if i["id"] == id_:
             result_ = i
     return result_
-        
+
 
 @app.errorhandler(404)
 def not_found(error):
@@ -44,6 +47,7 @@ def not_found(error):
 
 
 @app.route("/")
+@app.route("/api")
 def index():
     return jsonify(SERIES_URL)
 
@@ -88,3 +92,63 @@ def get_quote_all(series):
 @app.route("/<series>/<int:id_>")
 def by_id(series, id_):
     return jsonify(get_by_id(series, id_))
+
+
+@app.route("/generate/<series>/<int:id_>/blank")
+def generate_quotes_blank(series, id_):
+    text = get_by_id(series, id_)["quote"]
+    back = request.args.get("back")
+    fore = request.args.get("fore")
+    try:
+        size = int(request.args.get("size"))
+    except TypeError:
+        size = 300
+    return colored_back(back, text, fore, size)
+
+
+@app.route("/generate/<series>/<int:id_>/image")
+def generate_quotes_image(series, id_):
+    text = get_by_id(series, id_)["quote"]
+    path = request.args.get("src")
+    color = request.args.get("color")
+    try:
+        size = int(request.args.get("size"))
+    except TypeError:
+        size = 300
+    if path is None:
+        return colored_back(b_color="white", text=text, f_color="black", font_size=size)
+    if path in IN_BUILD_IMAGES:
+        return in_build_image_back(path, text, color, font_size=size)
+    return image_back(path, text, color, font_size=size)
+
+
+@app.route("/generate/blank")
+def generate_blank():
+    text = request.args.get("text")
+    if text is None:
+        text = "Add Text in Query"
+    back = request.args.get("back")
+    fore = request.args.get("fore")
+    try:
+        size = int(request.args.get("size"))
+    except TypeError:
+        size = 300
+    return colored_back(back, text, fore, size)
+
+
+@app.route("/generate/image")
+def generate_image():
+    text = request.args.get("text")
+    if text is None:
+        text = "Add Text in Query"
+    path = request.args.get("src")
+    color = request.args.get("color")
+    try:
+        size = int(request.args.get("size"))
+    except TypeError:
+        size = 300
+    if path is None:
+        return colored_back(b_color="white", text=text, f_color="black", font_size=size)
+    if path in SERIES:
+        return in_build_image_back(path, text, color, font_size=size)
+    return image_back(path, text, color, font_size=size)
