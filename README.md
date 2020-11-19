@@ -96,9 +96,9 @@ https://web-series-quotes.herokuapp.com/generate/blank?text=Hello+I'am+Python
 
 ## API
 
-- [Get all Quotes]([https:](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/all_quote.md))
-- [Get Random Quotes]([https:](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/random_quote.md))
-- [Get Quotes by Id]([https:](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/quote_by_id.md))
+- [Get all Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/all_quote.md)
+- [Get Random Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/random_quote.md)
+- [Get Quotes by Id](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/quote_by_id.md)
 
 ### Contributing
 
