@@ -22,7 +22,7 @@ https://web-series-quotes.herokuapp.com
 There are four method to Generate Quotes
 
 - Generating Quotes with in-build images
-- Generating Quotes with in your own images
+- Generating Quotes with your own images
 - Generating Quotes with blank colored Backgroud
 - Generating Quaotes of your own quote and own image
 
@@ -48,7 +48,7 @@ https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakin
 
 ![image](https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink)
 
-### Generating Quotes with in your own images
+### Generating Quotes with your own images
 
 ```url
 /generate/{series_name}/{quote_id}/image?src={url_of_your_image}&color={font_color}&size={font_size}
