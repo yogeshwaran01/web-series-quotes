@@ -21,12 +21,12 @@ https://web-series-quotes.herokuapp.com
 
 There are four method to Generate Quotes
 
-- Generating Quotes with in build images
+- Generating Quotes with in-build images
 - Generating Quotes with in your own images
 - Generating Quotes with blank colored Backgroud
 - Generating Quaotes of your own quote and own image
 
-### Generating Quotes with in build images
+### Generating Quotes with in-build images
 
 Presently there is four images are in build
 | **Name of images** |
