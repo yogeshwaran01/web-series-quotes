@@ -20,7 +20,11 @@ SERIES_URL = [
 
 IN_BUILD_IMAGES = ["breakingbad", "dark", "gameofthrones", "moneyheist"]
 
+
 def finder(query: str) -> list:
+    """
+    Function find the user query and return requires list
+    """
     if query == "breakingbad":
         return BREAKING_BAD_QUOTES
     elif query == "dark":
@@ -30,10 +34,13 @@ def finder(query: str) -> list:
     elif query == "moneyheist":
         return MONEY_HEIST_QUOTES
     else:
-        pass
+        return None
 
 
-def get_by_id(query: str, id_: int) -> dict:
+def get_by_id(query: str, id_: int):
+    """
+    Function serach the data by id
+    """
     result_ = None
     for i in finder(query):
         if i["id"] == id_:

@@ -5,13 +5,20 @@ from PIL import Image, ImageDraw, ImageFont
 from flask import make_response
 
 
-def create_background(color):
+def create_background(color: str):
+    """
+    Function Create image of given color
+    """
     img = Image.new("RGB", (3000, 2005), color=color)
     return img
 
 
 class ImageProcessing:
-    def __init__(self, filepath, text, size, color):
+    """
+    Class Processes the image and make response
+    """
+
+    def __init__(self, filepath: str, text: str, size: int, color: str):
         try:
             self.image = Image.open(filepath)
         except AttributeError:
@@ -59,14 +66,26 @@ class ImageProcessing:
         return res
 
 
-def colored_back(b_color, text, f_color, font_size=300):
+def colored_back(b_color: str, text: str, f_color: str, font_size=300):
+    """
+    Function return the response of text added image of given color
+    """
     return ImageProcessing(
         create_background(b_color), text, size=font_size, color=f_color
     ).response()
 
 
-def image_back(path, text, color, font_size=300):
+def image_back(path: str, text: str, color: str, font_size=300):
+    """
+    Function return the response of text added given image
+    """
     return ImageProcessing(path, text, size=font_size, color=color).response()
 
-def in_build_image_back(name, text, color, font_size=300):
-    return ImageProcessing(f"images/{name}.jpg", text, size=font_size, color=color).response()
+
+def in_build_image_back(name: str, text: str, color: str, font_size=300):
+    """
+    Function similar to image_back specially for build in images
+    """
+    return ImageProcessing(
+        f"images/{name}.jpg", text, size=font_size, color=color
+    ).response()

@@ -2,7 +2,7 @@
 
 # Web-Series-Quotes-Api
 
-Api for Quotes of various web-series
+Api for Quotes of various web-series. Api automatically generate quotes with background image. Api also returns the Quotes and its author as json.
 
 ## Available Web-Series
 
@@ -14,6 +14,74 @@ Api for Quotes of various web-series
 ## URI
 
 ```https://web-series-quotes.herokuapp.com```
+
+## Generating Quotes with images
+
+There are four method to Generate Quotes
+
+- Generating Quotes with in build images
+- Generating Quotes with in your own images
+- Generating Quotes with blank colored Backgroud
+- Generating Quaotes of your own quote and own image
+
+### Generating Quotes with in build images
+
+Presently there is four images are in build
+| **Name of images** |
+| ------------------ |
+| breakingbad        |
+| dark               |
+| moneyheist         |
+| gameofthrones      |
+
+```/generate/{series_name}/{quote_id}/image?src={name_of_image}&size={font_size}&color={font_color}```
+
+#### Example
+
+```https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink```
+
+![image](https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink)
+
+### Generating Quotes with in your own images
+
+```/generate/{series_name}/{quote_id}/image?src={url_of_your_image}&color={font_color}&size={font_size}```
+
+#### Example
+
+```url
+https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://www.gstatic.com/webp/gallery/3.png&color=yellow&size=100
+```
+
+![image](https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://www.gstatic.com/webp/gallery/3.png&color=yellow&size=100)
+
+### Generating Quotes with blank colored Backgroud
+
+```/generate/{series_name}/{quote_id}/blank?fore={foreground}&back={background}&size={font_size}```
+
+#### Example
+
+```url
+https://web-series-quotes.herokuapp.com/generate/breakingbad/10/blank?fore=red&back=yellow&size=300
+```
+
+![image](https://web-series-quotes.herokuapp.com/generate/breakingbad/10/blank?fore=black&back=yellow&size=300)
+
+### Generating Quote of your own quote and image
+
+```/generate/image?src={url_of_image}&color={font_color}&size={font_size}&text={your_text}```
+
+#### Example
+
+```url
+https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello+world
+```
+
+```url
+https://web-series-quotes.herokuapp.com/generate/blank?text=Hello+I'am+Python
+```
+
+![image](https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello%20world)
+
 
 ## API
 
@@ -56,7 +124,3 @@ Api for Quotes of various web-series
 - Add other your favourite webseries quotes in ```data``` folder
 - Add route path in ```routes.py```
 - Make PR
-
-### Credits
-
-Inspired from [shevabam](https://github.com/shevabam/breaking-bad-quotes)
