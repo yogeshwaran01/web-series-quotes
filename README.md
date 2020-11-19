@@ -13,7 +13,9 @@ Api for Quotes of various web-series. Api automatically generate quotes with bac
 
 ## URI
 
-```https://web-series-quotes.herokuapp.com```
+```url
+https://web-series-quotes.herokuapp.com
+```
 
 ## Generating Quotes with images
 
@@ -34,17 +36,23 @@ Presently there is four images are in build
 | moneyheist         |
 | gameofthrones      |
 
-```/generate/{series_name}/{quote_id}/image?src={name_of_image}&size={font_size}&color={font_color}```
+```url
+/generate/{series_name}/{quote_id}/image?src={name_of_image}&size={font_size}&color={font_color}
+```
 
 #### Example
 
-```https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink```
+```url
+https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink
+```
 
 ![image](https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink)
 
 ### Generating Quotes with in your own images
 
-```/generate/{series_name}/{quote_id}/image?src={url_of_your_image}&color={font_color}&size={font_size}```
+```url
+/generate/{series_name}/{quote_id}/image?src={url_of_your_image}&color={font_color}&size={font_size}
+```
 
 #### Example
 
@@ -56,7 +64,9 @@ https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://
 
 ### Generating Quotes with blank colored Backgroud
 
-```/generate/{series_name}/{quote_id}/blank?fore={foreground}&back={background}&size={font_size}```
+```url
+/generate/{series_name}/{quote_id}/blank?fore={foreground}&back={background}&size={font_size}
+```
 
 #### Example
 
@@ -68,7 +78,9 @@ https://web-series-quotes.herokuapp.com/generate/breakingbad/10/blank?fore=red&b
 
 ### Generating Quote of your own quote and image
 
-```/generate/image?src={url_of_image}&color={font_color}&size={font_size}&text={your_text}```
+```url
+/generate/image?src={url_of_image}&color={font_color}&size={font_size}&text={your_text}
+```
 
 #### Example
 
@@ -87,37 +99,65 @@ https://web-series-quotes.herokuapp.com/generate/blank?text=Hello+I'am+Python
 
 ### All Quotes
 
-```/breakingbad```
+```url
+/breakingbad
+```
 
-```/dark/```
+```url
+/dark/
+```
 
-```/gameofthrones```
+```url
+/gameofthrones
+```
 
-```/moneyheist/```
+```url
+/moneyheist/
+```
 
 ### Random Quotes
 
-```/random/breakingbad/```
+```url
+/random/breakingbad/
+```
 
-```/random/breakingbad/{number_of_quotes}```
+```url
+/random/breakingbad/{number_of_quotes}
+```
 
-```/random/dark/```
+```url
+/random/dark/
+```
 
-```/random/dark/10```
+```url
+/random/dark/10
+```
 
-```/random/gameofthrones/```
+```url
+/random/gameofthrones/
+```
 
-```/random/moneyheist```
+```url
+/random/moneyheist
+```
 
 ### Quote Id
 
-```/breakingbad/{id}/```
+```url
+/breakingbad/{id}/
+```
 
-```/dark/23```
+```url
+/dark/23
+```
 
-```/gameofthrones/{id}```
+```url
+/gameofthrones/{id}
+```
 
-```/moneyheist/4/```
+```url
+/moneyheist/4/
+```
 
 ### Contributing
 
