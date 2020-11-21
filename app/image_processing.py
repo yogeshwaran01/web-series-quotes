@@ -1,11 +1,12 @@
 import io
+from typing import Callable
 import requests
 
 from PIL import Image, ImageDraw, ImageFont
 from flask import make_response
 
 
-def create_background(color: str):
+def create_background(color: str) -> Image.new:
     """
     Function Create image of given color
     """
@@ -31,7 +32,7 @@ class ImageProcessing:
         self.text = self.wrap_text(text)
         self.color = color
 
-    def wrap_text(self, text):
+    def wrap_text(self, text: str) -> str:
         new_text = ""
         new_sentence = ""
         for word in text.split(" "):
@@ -43,7 +44,7 @@ class ImageProcessing:
         new_text += "\n" + new_sentence
         return new_text
 
-    def texted_image(self):
+    def texted_image(self) -> Image.Image:
         texted_img = self.image
         darw = ImageDraw.Draw(texted_img)
         w, h = texted_img.size
@@ -51,13 +52,11 @@ class ImageProcessing:
         w_, h_ = darw.multiline_textsize(self.text, font=self.font, spacing=3)
         x -= w_ / 2
         y -= h_ / 2
-        darw.multiline_text(
-            align="center", xy=(x, y), text=self.text, fill=self.color, font=self.font
-        )
+        darw.multiline_text(align="center", xy=(x, y), text=self.text, fill=self.color, font=self.font)
 
         return texted_img
 
-    def response(self):
+    def response(self) -> Callable:
         buffer = io.BytesIO()
         self.texted_image().save(buffer, format="png")
         buffer.seek(0)
@@ -66,26 +65,22 @@ class ImageProcessing:
         return res
 
 
-def colored_back(b_color: str, text: str, f_color: str, font_size=300):
+def colored_back(b_color: str, text: str, f_color: str, font_size=300) -> Callable:
     """
     Function return the response of text added image of given color
     """
-    return ImageProcessing(
-        create_background(b_color), text, size=font_size, color=f_color
-    ).response()
+    return ImageProcessing(create_background(b_color), text, size=font_size, color=f_color).response()
 
 
-def image_back(path: str, text: str, color: str, font_size=300):
+def image_back(path: str, text: str, color: str, font_size=300) -> Callable:
     """
     Function return the response of text added given image
     """
     return ImageProcessing(path, text, size=font_size, color=color).response()
 
 
-def in_build_image_back(name: str, text: str, color: str, font_size=300):
+def in_build_image_back(name: str, text: str, color: str, font_size=300) -> Callable:
     """
     Function similar to image_back specially for build in images
     """
-    return ImageProcessing(
-        f"images/{name}.jpg", text, size=font_size, color=color
-    ).response()
+    return ImageProcessing(f"images/{name}.jpg", text, size=font_size, color=color).response()

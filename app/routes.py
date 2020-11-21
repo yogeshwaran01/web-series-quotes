@@ -1,4 +1,5 @@
 from random import choice, choices
+from typing import Any, Optional
 
 from flask import jsonify, request
 
@@ -34,12 +35,12 @@ def finder(query: str) -> list:
     elif query == "moneyheist":
         return MONEY_HEIST_QUOTES
     else:
-        return None
+        return []
 
 
-def get_by_id(query: str, id_: int):
+def get_by_id(query: str, id_: int) -> Optional[Any]:
     """
-    Function serach the data by id
+    Function search the data by id
     """
     result_ = None
     for i in finder(query):
