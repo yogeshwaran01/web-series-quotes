@@ -280,7 +280,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 59,
         "author": " Dolorous Edd and Grenn",
-        "quote": '"I never win anything.  The gods always smiled on Watt, though.  When the wildlings knocked him off the Bridge of Skulls, somehow he landed in a nice deep pool of water.  How lucky was that, missing all those rocks?"  "Was it a long fall?  Did landing in the pool of water save his life?"  "No.  He was dead already, from that axe in his head.  Stil, it was pretty lucky, missing the rocks." ',
+        "quote": '"I never win anything.  The gods always smiled on Watt, though.  When the wildlings knocked him off the Bridge of Skulls, somehow he landed in a nice deep pool of water.  How lucky was that, missing all those rocks?"  "Was it a long fall?  Did landing in the pool of water save his life?"  "No.  He was dead already, from that axe in his head.  Still, it was pretty lucky, missing the rocks." ',
     },
     {
         "id": 60,
@@ -340,7 +340,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 71,
         "author": " Oberyn Martell",
-        "quote": "If you die before you say her name, Ser, I will hunt you through the seven hells. ",
+        "quote": "If you die before you say her name, Set, I will hunt you through the seven hells. ",
     },
     {
         "id": 72,
@@ -495,7 +495,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 102,
         "author": " Jaime Lannister",
-        "quote": "I learned form Ser Arthur Dayne, the Sword of the Morning, who could have slain all five of you with his left hand while he was taking a piss with the right. ",
+        "quote": "I learned form Set Arthur Dayne, the Sword of the Morning, who could have slain all five of you with his left hand while he was taking a piss with the right. ",
     },
     {
         "id": 103,
@@ -735,7 +735,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 150,
         "author": " Balon Greyjoy",
-        "quote": "Did Ned Stark dress you like that?  Was it his pleasure to garb you in velvets and silks and make you his own sweet daughter? ",
+        "quote": "Did Need Stark dress you like that?  Was it his pleasure to garb you in velvets and silks and make you his own sweet daughter? ",
     },
     {
         "id": 151,
@@ -1070,7 +1070,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 217,
         "author": " Catelyn Stark",
-        "quote": "Robb, if that sword could bring him back, I should never let you sheathe it until Ned stood at my side once more... but he is gone, and a hundred Whispering Woods will not change that. ",
+        "quote": "Robb, if that sword could bring him back, I should never let you sheathe it until Need stood at my side once more... but he is gone, and a hundred Whispering Woods will not change that. ",
     },
     {
         "id": 218,
@@ -1089,7 +1089,7 @@ GAME_OF_THRONES_QUOTES = [
     },
     {
         "id": 221,
-        "author": " Ser Hyle Hunt",
+        "author": " Set Hyle Hunt",
         "quote": "And there's this other band, led by this woman Stoneheart... Lord Beric's lover, according to one tale.  Supposedly she was hanged by the Freys, but Dondarrion kissed her and brought her back to life, and now she cannot die, no more than he. ",
     },
     {
@@ -1160,7 +1160,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 235,
         "author": " Arya Stark",
-        "quote": "Yes, it's you who ought to run, you and Lord Tywin and the Mountain and Ser Addam and Ser Amory and stupid Ser Lyonel whoever he is, all of you better run or my brother will kill you, he's a Stark, he's more wolf than man, and so am I. ",
+        "quote": "Yes, it's you who ought to run, you and Lord Tywin and the Mountain and Set Addam and Set Amory and stupid Set Lyonel whoever he is, all of you better run or my brother will kill you, he's a Stark, he's more wolf than man, and so am I. ",
     },
     {
         "id": 236,
@@ -1180,7 +1180,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 239,
         "author": " Theon Greyjoy",
-        "quote": "You're wrong.  Ned Stark was my gaoler, but my blood is still salt and iron. ",
+        "quote": "You're wrong.  Need Stark was my gaoler, but my blood is still salt and iron. ",
     },
     {
         "id": 240,
@@ -1230,7 +1230,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 249,
         "author": " Wyman Manderly",
-        "quote": "Was snow ever so black?  Ramsay took Lord Hornwood's lands by forcibly wedding his widow, then locked her in a tower and forgot her.  It is said she ate her own fingers in her extremity... and the Lannister notion of king's justice is to reward her killer with Ned Stark's little girl. ",
+        "quote": "Was snow ever so black?  Ramsay took Lord Hornwood's lands by forcibly wedding his widow, then locked her in a tower and forgot her.  It is said she ate her own fingers in her extremity... and the Lannister notion of king's justice is to reward her killer with Need Stark's little girl. ",
     },
     {
         "id": 250,
@@ -1380,7 +1380,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 279,
         "author": " Cersei Lannister",
-        "quote": "I waited, and so can he.  I waited half my life.  She had played the dutiful daughter, the blushing bride, the pliant wife.  She had suffered Robert's drunken groping, Jaime's jealousy, Renly's mockery, Varys with his titters, Stannis endlessly grinding his teeth.  She had contended with Jon Arryn, Ned Stark, and her vile, treacherous, murderous dwarf brother, all the while promising herself that one day it would be her turn.  If Margaery Tyrell thinks to cheat me of my hour in the sun, she had bloody well think again. ",
+        "quote": "I waited, and so can he.  I waited half my life.  She had played the dutiful daughter, the blushing bride, the pliant wife.  She had suffered Robert's drunken groping, Jaime's jealousy, Renly's mockery, Varys with his titters, Stannis endlessly grinding his teeth.  She had contended with Jon Arryn, Need Stark, and her vile, treacherous, murderous dwarf brother, all the while promising herself that one day it would be her turn.  If Margaery Tyrell thinks to cheat me of my hour in the sun, she had bloody well think again. ",
     },
     {
         "id": 280,
@@ -1400,7 +1400,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 283,
         "author": " Varys",
-        "quote": "They are knights now, all three, and your sister has promised them further advancement.  And the eldest, Ser Osmund of the Kingsguard, dreams of certain other... favors... as well.  You can match the queen coin for coin, I have no doubt, but she has a second purse that is quite inexhaustible. ",
+        "quote": "They are knights now, all three, and your sister has promised them further advancement.  And the eldest, Set Osmund of the Kingsguard, dreams of certain other... favors... as well.  You can match the queen coin for coin, I have no doubt, but she has a second purse that is quite inexhaustible. ",
     },
     {
         "id": 284,
@@ -1410,7 +1410,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 285,
         "author": " Stannis Baratheon",
-        "quote": "It is not a question of wanting.  The throne is mine, as Robert's heir.  That is law.  After me, it must pass to my daughter, unless Selyse should finally give me a son.  I am king.  Wants do not enter into it.  I have a duty to my daughter.  To the realm.  Even to Robert.  He loved me but little, I know, yet he was my brother.  The Lannister woman gave him horns and made a motley fool of him.  She may have murdered him as well, as she murdered Jon Arryn and Ned Stark.  For such crimes there must be justice.  Starting with Cersei and her abominations.  But only starting.  I mean to scour that court clean.  As Robert should have done after the Trident. ",
+        "quote": "It is not a question of wanting.  The throne is mine, as Robert's heir.  That is law.  After me, it must pass to my daughter, unless Selyse should finally give me a son.  I am king.  Wants do not enter into it.  I have a duty to my daughter.  To the realm.  Even to Robert.  He loved me but little, I know, yet he was my brother.  The Lannister woman gave him horns and made a motley fool of him.  She may have murdered him as well, as she murdered Jon Arryn and Need Stark.  For such crimes there must be justice.  Starting with Cersei and her abominations.  But only starting.  I mean to scour that court clean.  As Robert should have done after the Trident. ",
     },
     {
         "id": 286,
@@ -1420,7 +1420,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 287,
         "author": " Eddard Stark",
-        "quote": "Ned found it hard to imagine what could frighten Stannis Baratheon, who had once held Storm's End through a year of siege, surviving on rats and boot leather while the Lords Tyrell and Redwyne sat outside with their hosts, banqueting in sight of his walls. ",
+        "quote": "Need found it hard to imagine what could frighten Stannis Baratheon, who had once held Storm's End through a year of siege, surviving on rats and boot leather while the Lords Tyrell and Redwyne sat outside with their hosts, banqueting in sight of his walls. ",
     },
     {
         "id": 288,
@@ -1480,7 +1480,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 299,
         "author": " Arys Oakheart",
-        "quote": "I will not be remembered as Ser Arys the Unworthy.  I will not soil my cloak. ",
+        "quote": "I will not be remembered as Set Arys the Unworthy.  I will not soil my cloak. ",
     },
     {
         "id": 300,
@@ -1510,7 +1510,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 305,
         "author": " Jaime Lannister",
-        "quote": "She had made the mistake of speaking when Ser Gregor wanted quiet, so the Mountain had smashed her teeth to splinters with a mailed fist and broken her pretty little nose as well.  He would have done worse, no doubt, if Cersei had not called him down to King's Landing to face the Red Viper's spear.  Jaime would not mourn him. ",
+        "quote": "She had made the mistake of speaking when Set Gregor wanted quiet, so the Mountain had smashed her teeth to splinters with a mailed fist and broken her pretty little nose as well.  He would have done worse, no doubt, if Cersei had not called him down to King's Landing to face the Red Viper's spear.  Jaime would not mourn him. ",
     },
     {
         "id": 306,
@@ -1760,7 +1760,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 355,
         "author": " Maester Cressen",
-        "quote": "When a maester donned his collar, he put aside the hope of children, yet Cressen had oft felt a father nontheless.  Robert, Stannis, Renly: three sons he had raised after the angry sea claimed Lord Steffon. ",
+        "quote": "When a maester donned his collar, he put aside the hope of children, yet Cressen had oft felt a father nonetheless.  Robert, Stannis, Renly: three sons he had raised after the angry sea claimed Lord Steffon. ",
     },
     {
         "id": 356,
@@ -1785,7 +1785,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 360,
         "author": " Robert Baratheon",
-        "quote": "The gods be damned.  It was a hollow victory they gave me.  A crown... it was the girl I prayed them for.  Your sister, safe... and mine again, as she was meant to be.  I ask you, Ned, what good is it to wear a crown?  The gods mock the prayers of kings and cowherds alike. ",
+        "quote": "The gods be damned.  It was a hollow victory they gave me.  A crown... it was the girl I prayed them for.  Your sister, safe... and mine again, as she was meant to be.  I ask you, Need, what good is it to wear a crown?  The gods mock the prayers of kings and cowherds alike. ",
     },
     {
         "id": 361,
@@ -1820,7 +1820,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 367,
         "author": " Maester Pylos",
-        "quote": "Ser Ryam Redwyne was the greatest knight of his day, and one of the worst Hands ever to serve a king.  Septon Murmison's prayers worked miracles, but as Hand he soon had the whole realm praying for his death.  Lord Butterwell was renowned for wit, Myles Smallwood for courage, Ser Otto Hightower for learning, yet they failed as hands, every one.  As for birth, the dragonkings oft chose Hands from amongst their own blood, with results as various as Baelor Breakspear and Maegor the Cruel.  Against this, you have Septon Barth, the blacksmith's son the Old King plucked from the Red Keep's library, who gave the realm forty years of peace and plenty.  Read your history, Lord Davos, and you will see that your doubts are groundless. ",
+        "quote": "Set Ryam Redwyne was the greatest knight of his day, and one of the worst Hands ever to serve a king.  Septon Murmison's prayers worked miracles, but as Hand he soon had the whole realm praying for his death.  Lord Butterwell was renowned for with, Myles Smallwood for courage, Set Otto Hightower for learning, yet they failed as hands, every one.  As for birth, the dragonkings oft chose Hands from amongst their own blood, with results as various as Baelor Breakspear and Maegor the Cruel.  Against this, you have Septon Barth, the blacksmith's son the Old King plucked from the Red Keep's library, who gave the realm forty years of peace and plenty.  Read your history, Lord Davos, and you will see that your doubts are groundless. ",
     },
     {
         "id": 368,
@@ -1910,7 +1910,7 @@ GAME_OF_THRONES_QUOTES = [
     {
         "id": 385,
         "author": " Brynden Tully",
-        "quote": "You must be blind as well as maimed, Ser.  Lift your eyes, and you will see the direwolf still flies above our walls. ",
+        "quote": "You must be blind as well as maimed, Set.  Lift your eyes, and you will see the direwolf still flies above our walls. ",
     },
     {
         "id": 386,
