@@ -23,7 +23,7 @@ There are four method to Generate Quotes
 
 - Generating Quotes with in-build images
 - Generating Quotes with your own images
-- Generating Quotes with blank colored Backgroud
+- Generating Quotes with blank colored Background
 - Generating Quaotes of your own quote and own image
 
 ### Generating Quotes with in-build images
@@ -62,7 +62,7 @@ https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://
 
 ![image](https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://www.gstatic.com/webp/gallery/3.png&color=yellow&size=100)
 
-### Generating Quotes with blank colored Backgroud
+### Generating Quotes with blank colored Background
 
 ```url
 /generate/{series_name}/{quote_id}/blank?fore={foreground}&back={background}&size={font_size}
