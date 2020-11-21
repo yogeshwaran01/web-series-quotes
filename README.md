@@ -1,3 +1,5 @@
+[![alt text](https://img.shields.io/travis/yogeshwaran01/web-series-quotes/main.svg?logo=travis "Travis CI")](https://travis-ci.org/github/yogeshwaran01/web-series-quotes/)
+
 ![web-series-quotes-title](web-series-quotes-title.png)
 
 # Web-Series-Quotes-Api
