@@ -1,13 +1,14 @@
 from random import choice, choices
 from typing import Any, Optional
 
-from flask import jsonify, request
+from flask import jsonify, request, redirect
 
 from app import app
 from data.breaking_bad import BREAKING_BAD_QUOTES
 from data.dark import DARK_QUOTES
 from data.game_of_thrones import GAME_OF_THRONES_QUOTES
 from data.money_heist import MONEY_HEIST_QUOTES
+from .image_processing import SUPPORTED_COLORS
 from .image_processing import colored_back, image_back, in_build_image_back
 
 SERIES = ["breakingbad", "dark", "gameofthrones", "moneyheist"]
@@ -58,6 +59,22 @@ def not_found(error):
 @app.route("/api")
 def index():
     return jsonify(SERIES_URL)
+
+
+@app.route("/help")
+@app.route("/docs")
+def help():
+    return redirect("https://github.com/yogeshwaran01/web-series-quotes")
+
+
+@app.route("/colors")
+def color_supported():
+    return jsonify(SUPPORTED_COLORS)
+
+
+@app.route("/images")
+def in_build_image():
+    return jsonify(IN_BUILD_IMAGES)
 
 
 @app.route("/random/<series>/")
