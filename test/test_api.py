@@ -2,7 +2,8 @@ import pytest
 from flask import request
 
 from app import app
-from app.routes import SERIES_URL, get_by_id, SERIES, finder
+from app.routes import SERIES_URL, SERIES, SUPPORTED_COLORS, IN_BUILD_IMAGES
+from app.routes import get_by_id, finder
 
 
 @pytest.fixture
@@ -88,3 +89,14 @@ def test_image(client):
     assert request.args["text"] == "hello world"
     assert response.status_code == 200
     assert response.headers["Content-Type"] == "image/png"
+
+
+def test_color(client):
+    """ Test case for supported colors """
+    response = client.get("/colors")
+    assert SUPPORTED_COLORS == response.get_json()
+
+
+def test_in_buld_images(client):
+    response = client.get("/images")
+    assert IN_BUILD_IMAGES == response.get_json()
