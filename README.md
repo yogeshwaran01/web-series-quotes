@@ -1,8 +1,8 @@
+# Web-Series-Quotes-Api
+
 [![alt text](https://img.shields.io/travis/yogeshwaran01/web-series-quotes/main.svg?logo=travis "Travis CI")](https://travis-ci.org/github/yogeshwaran01/web-series-quotes/)
 
 ![web-series-quotes-title](web-series-quotes-title.png)
-
-# Web-Series-Quotes-Api
 
 Api for Quotes of various web-series. Api automatically generate quotes with background image. Api also returns the Quotes and its author as json.
 
@@ -19,6 +19,12 @@ Api for Quotes of various web-series. Api automatically generate quotes with bac
 https://web-series-quotes.herokuapp.com
 ```
 
+## API
+
+- [Get all Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/all_quote.md)
+- [Get Random Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/random_quote.md)
+- [Get Quotes by Id](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/quote_by_id.md)
+  
 ## Generating Quotes with images
 
 There are four method to Generate Quotes
@@ -30,19 +36,14 @@ There are four method to Generate Quotes
 
 ### Generating Quotes with in-build images
 
-Presently there is four images are in build
-| **Name of images** |
-| ------------------ |
-| breakingbad        |
-| dark               |
-| moneyheist         |
-| gameofthrones      |
+- [Available In-Build images](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/in_build_images.md)
+- [Available Colors](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/colors.md)
 
 ```url
 /generate/{series_name}/{quote_id}/image?src={name_of_image}&size={font_size}&color={font_color}
 ```
 
-#### Example
+Example
 
 ```url
 https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink
@@ -56,7 +57,7 @@ https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakin
 /generate/{series_name}/{quote_id}/image?src={url_of_your_image}&color={font_color}&size={font_size}
 ```
 
-#### Example
+Example
 
 ```url
 https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://www.gstatic.com/webp/gallery/3.png&color=yellow&size=100
@@ -70,7 +71,7 @@ https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://
 /generate/{series_name}/{quote_id}/blank?fore={foreground}&back={background}&size={font_size}
 ```
 
-#### Example
+Example
 
 ```url
 https://web-series-quotes.herokuapp.com/generate/breakingbad/10/blank?fore=red&back=yellow&size=300
@@ -84,7 +85,7 @@ https://web-series-quotes.herokuapp.com/generate/breakingbad/10/blank?fore=red&b
 /generate/image?src={url_of_image}&color={font_color}&size={font_size}&text={your_text}
 ```
 
-#### Example
+Example
 
 ```url
 https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello+world
@@ -95,12 +96,6 @@ https://web-series-quotes.herokuapp.com/generate/blank?text=Hello+I'am+Python
 ```
 
 ![image](https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello%20world)
-
-## API
-
-- [Get all Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/all_quote.md)
-- [Get Random Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/random_quote.md)
-- [Get Quotes by Id](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/quote_by_id.md)
 
 ### Contributing
 
