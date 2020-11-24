@@ -55,12 +55,15 @@ def test_quote_generator(client):
 
 def test_quote_generator_with_in_build_images(client):
     """ Testcase for quote image generator with image background """
-    response = client.get("/generate/moneyheist/2/image?src=dark&color=yellow&size=150")
-    assert request.args["src"] == "dark"
-    assert request.args["color"] == "yellow"
-    assert request.args["size"] == "150"
-    assert response.status_code == 200
-    assert response.headers["Content-Type"] == "image/png"
+    for image in IN_BUILD_IMAGES:
+        response = client.get(
+            f"/generate/moneyheist/2/image?src={image}&color=yellow&size=150"
+        )
+        assert request.args["src"] == image
+        assert request.args["color"] == "yellow"
+        assert request.args["size"] == "150"
+        assert response.status_code == 200
+        assert response.headers["Content-Type"] == "image/png"
 
 
 def test_quote_generator_with_user_image(client):
@@ -98,5 +101,6 @@ def test_color(client):
 
 
 def test_in_buld_images(client):
+    """ Test case for buid-in images """
     response = client.get("/images")
     assert IN_BUILD_IMAGES == response.get_json()

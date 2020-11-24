@@ -11,3 +11,7 @@ install:
 script:
   - flake8 -v
   - pytest -v
+  - mypy --ignore-missing-imports test/. -v
+  - mypy --ignore-missing-imports data/. -v
+  - mypy --ignore-missing-imports app/. -v
+  

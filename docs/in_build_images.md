@@ -15,6 +15,9 @@
   "breakingbad",
   "dark",
   "gameofthrones",
-  "moneyheist"
+  "moneyheist",
+  "carboard",
+  "rainbowmountain",
+  "joker"
 ]
 ```

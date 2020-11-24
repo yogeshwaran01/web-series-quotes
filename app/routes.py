@@ -20,7 +20,15 @@ SERIES_URL = [
     "https://web-series-quotes.herokuapp.com/moneyheist",
 ]
 
-IN_BUILD_IMAGES = ["breakingbad", "dark", "gameofthrones", "moneyheist"]
+IN_BUILD_IMAGES = [
+    "breakingbad",
+    "dark",
+    "gameofthrones",
+    "moneyheist",
+    "cardboard",
+    "rainbowmountain",
+    "joker",
+]
 
 
 def finder(query: str) -> list:
