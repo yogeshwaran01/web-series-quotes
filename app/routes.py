@@ -132,10 +132,14 @@ def generate_quotes_blank(series, id_):
     text = get_by_id(series, id_)["quote"]
     back = request.args.get("back")
     fore = request.args.get("fore")
+    x = request.args.get("x")
+    y = request.args.get("y")
     try:
         size = int(request.args.get("size"))
     except TypeError:
         size = 300
+    if x and y is not None:
+        return colored_back(back, text, fore, size, x=int(x), y=int(y))
     return colored_back(back, text, fore, size)
 
 
@@ -162,10 +166,14 @@ def generate_blank():
         text = "Add Text in Query"
     back = request.args.get("back")
     fore = request.args.get("fore")
+    x = request.args.get("x")
+    y = request.args.get("y")
     try:
         size = int(request.args.get("size"))
     except TypeError:
         size = 300
+    if x and y is not None:
+        return colored_back(back, text, fore, size, x=int(x), y=int(y))
     return colored_back(back, text, fore, size)
 
 
