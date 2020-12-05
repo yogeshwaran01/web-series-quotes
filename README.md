@@ -1,104 +1,129 @@
-# Web-Series-Quotes-Api
+<p align='center'>
+    <img width="400px" src="https://raw.githubusercontent.com/yogeshwaran01/web-series-quotes/main/web-series-quotes-title.png" align="center" alt="Logo">
+    <h2 align="center">Web Series Quotes Api</h2>
+    <p align="center">Api for Quotes of various web-series. Api automatically generate quotes with background image. Api also returns the Quotes and its author as json.</p>
+</p>
+<p align="center">
+    <a href="https://travis-ci.org/github/yogeshwaran01/web-series-quotes/">
+    <img alt="test passing" src="https://img.shields.io/travis/yogeshwaran01/web-series-quotes/main.svg?logo=travis"/>
+    </a>
+</p>
 
-[![alt text](https://img.shields.io/travis/yogeshwaran01/web-series-quotes/main.svg?logo=travis "Travis CI")](https://travis-ci.org/github/yogeshwaran01/web-series-quotes/)
 
-![web-series-quotes-title](web-series-quotes-title.png)
-
-Api for Quotes of various web-series. Api automatically generate quotes with background image. Api also returns the Quotes and its author as json.
-
-## Available Web-Series
-
-- [Breaking Bad](https://web-series-quotes.herokuapp.com/breakingbad)
-- [Dark](https://web-series-quotes.herokuapp.com/dark)
-- [Game Of Thrones](https://web-series-quotes.herokuapp.com/gameofthrones)
-- [Money Heist](https://web-series-quotes.herokuapp.com/moneyheist)
-
-## URI
+## URL
+This API is currently hosted Heroku.
 
 ```url
 https://web-series-quotes.herokuapp.com
 ```
 
-## API
+## Features
 
-- [Get all Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/all_quote.md)
-- [Get Random Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/random_quote.md)
-- [Get Quotes by Id](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/quote_by_id.md)
-  
-## Generating Quotes with images
+- Available Various Web-Series
+  - [Breaking Bad](https://web-series-quotes.herokuapp.com/breakingbad)
+  - [Dark](https://web-series-quotes.herokuapp.com/dark)
+  - [Game Of Thrones](https://web-series-quotes.herokuapp.com/gameofthrones)
+  - [Money Heist](https://web-series-quotes.herokuapp.com/moneyheist)
+- Quotes data as json API
+  - [Get all Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/all_quote.md)
+  - [Get Random Quotes](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/random_quote.md)
+  - [Get Quotes by Id](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/quote_by_id.md)
+- Generates Quote images
+  - [Generating Quotes with in-build images](#generating-quotes-with-in-build-images)
+  - [Generating Quotes with your own images](#generating-quotes-with-your-own-images)
+  - [Generating Quotes with blank colored Background](#generating-quotes-with-blank-colored-background)
+  - [Generating Quote of your own quote and image](#generating-quote-of-your-own-quote-and-image)
 
-There are four method to Generate Quotes
+## Parameters of Endpoints
 
-- Generating Quotes with in-build images
-- Generating Quotes with your own images
-- Generating Quotes with blank colored Background
-- Generating Quaotes of your own quote and own image
+```url
+https://web-series-quotes.herokuapp.com/generate/{image or blank}
+```
+- Use endpoint `image` for image as background
+- Use endpoint `blank` for colored background 
 
-### Generating Quotes with in-build images
+| Endpoint |                              Parameter                               |                                                                                Explanation                                                                                |
+| :------: | :------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------- |
+|  image  |    <ul><li>src</li><li>text</li><li>color</li><li>size</li></ul>     |                      <ul><li>Source of the image </li><li>Text in image if you use own text</li><li>Color of the image</li><li>Font Size</li></ul>                       |
+|  blank   | <ul><li>fore</li><li>back</li><li>text</li><li>x</li><li>y</li></ul> | <ul><li>Foreground color(Font-color)</li><li>Background color</li><li>Text in image if you use own text</li><li>Width of the image</li><li>Height of the image</li></ul> |
 
-- [Available In-Build images](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/in_build_images.md)
+- [Available in-Build images](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/in_build_images.md)
 - [Available Colors](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/colors.md)
+  
+## Generating Quotes with in-build images
+
+You can easily generates the quote images using in-build images.Uses the [name of the image](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/in_build_images.md) in the `src`parameter in the endpoint. Use colors from [here](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/colors.md).
+
+
+Endpoint:
 
 ```url
 /generate/{series_name}/{quote_id}/image?src={name_of_image}&size={font_size}&color={font_color}
 ```
 
-Example
+Example:
 
 ```url
 https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink
 ```
 
-![image](https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink)
+![image](https://web-series-quotes.herokuapp.com/generate/breakingbad/1/image?src=breakingbad&size=150&color=pink "Image generated by above url")
 
-### Generating Quotes with your own images
+## Generating Quotes with your own images
+
+If you don't like the the in-build images. You can use your own images as `src` parameter. You can provide the link of the image in `src` parameter.
+
+Endpoint:
 
 ```url
 /generate/{series_name}/{quote_id}/image?src={url_of_your_image}&color={font_color}&size={font_size}
 ```
 
-Example
+Example:
 
 ```url
 https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://www.gstatic.com/webp/gallery/3.png&color=yellow&size=100
 ```
 
-![image](https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://www.gstatic.com/webp/gallery/3.png&color=yellow&size=100)
+![image](https://web-series-quotes.herokuapp.com/generate/moneyheist/5/image?src=https://www.gstatic.com/webp/gallery/3.png&color=yellow&size=100 "Image generated by above url")
 
-### Generating Quotes with blank colored Background
+## Generating Quotes with blank colored Background
 
-```url
-/generate/{series_name}/{quote_id}/blank?fore={foreground}&back={background}&size={font_size}
-```
+No images, Don't worry you can use color as a image background with custom width and height.
 
-Example
+Endpoint:
 
 ```url
-https://web-series-quotes.herokuapp.com/generate/breakingbad/10/blank?fore=red&back=yellow&size=300
+/generate/{series_name}/{quote_id}/blank?fore={foreground}&back={background}&size={font_size}&x={width}&y={height}
 ```
 
-![image](https://web-series-quotes.herokuapp.com/generate/breakingbad/10/blank?fore=black&back=yellow&size=300)
-
-### Generating Quote of your own quote and image
+Example:
 
 ```url
-/generate/image?src={url_of_image}&color={font_color}&size={font_size}&text={your_text}
+https://web-series-quotes.herokuapp.com/generate/dark/25/blank?fore=black&back=yellow&size=300&x=3000&y=2000
 ```
 
-Example
+![image](https://web-series-quotes.herokuapp.com/generate/dark/25/blank?fore=black&back=yellow&size=300&x=3000&y=2000 "Image generated by above url")
+
+## Generating Quote of your own quote and image
+
+If you don't like any quotes, you can use own text and own images or any custom colored backgrounds.
+
+Endpoint:
+
+```url
+/generate/image?src={url_of_image}&color={font_color}&size={font_size}&text={your_text}&x={width}&y={height}
+```
+
+Example:
 
 ```url
 https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello+world
 ```
+![image](https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello+world "Image generated by above url")
 
-```url
-https://web-series-quotes.herokuapp.com/generate/blank?text=Hello+I'am+Python
-```
 
-![image](https://web-series-quotes.herokuapp.com/generate/image?src=https://www.gstatic.com/webp/gallery/1.png&color=yellow&size=100&text=Hello%20world)
-
-### Contributing
-
-- Add other your favourite webseries quotes in ```data``` folder
-- Add route path in ```routes.py```
-- Make PR
+<h1 align='center'>Made with Python</h2>
+<h3 align='center'>
+Contributions are welcome!</h3>
+<h2 align='center'>:heart:</h2>
