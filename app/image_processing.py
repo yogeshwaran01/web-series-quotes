@@ -1,5 +1,6 @@
 import io
 from typing import Callable
+
 import requests
 
 from PIL import Image, ImageDraw, ImageFont, ImageColor, UnidentifiedImageError
@@ -8,14 +9,14 @@ from flask import make_response, abort
 SUPPORTED_COLORS = list(ImageColor.colormap.keys())
 
 
-def create_background(color: str) -> Image.new:
+def create_background(color: str, x: int, y: int) -> Image.new:
     """
     Function Create image of given color
     """
     if color in SUPPORTED_COLORS:
-        img = Image.new("RGB", (3000, 2005), color=color)
+        img = Image.new("RGB", (x, y), color=color)
     else:
-        img = Image.new("RGB", (3000, 2005), color="white")
+        img = Image.new("RGB", (x, y), color="white")
     return img
 
 
@@ -35,7 +36,7 @@ class ImageProcessing:
                 res.raw.decode_content = True
                 self.image = Image.open(res.raw)
             except UnidentifiedImageError:
-                self.image = create_background("black")
+                self.image = create_background("black", 3000, 2005)
         self.font = ImageFont.truetype("font/AlternateGotNo2D.otf", size)
         self.text = self.wrap_text(text)
         self.color = color
@@ -83,12 +84,12 @@ class ImageProcessing:
         return res
 
 
-def colored_back(b_color: str, text: str, f_color: str, font_size=300) -> Callable:
+def colored_back(b_color: str, text: str, f_color: str, font_size=300, x=3000, y=2005) -> Callable:
     """
     Function return the response of text added image of given color
     """
     return ImageProcessing(
-        create_background(b_color), text, size=font_size, color=f_color
+        create_background(b_color, x, y), text, size=font_size, color=f_color
     ).response()
 
 
