@@ -4,7 +4,7 @@ from typing import Callable
 import requests
 
 from PIL import Image, ImageDraw, ImageFont, ImageColor, UnidentifiedImageError
-from flask import make_response, abort
+from flask import make_response
 
 SUPPORTED_COLORS = list(ImageColor.colormap.keys())
 

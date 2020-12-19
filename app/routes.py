@@ -31,7 +31,7 @@ IN_BUILD_IMAGES = [
 ]
 
 
-def finder(query: str) -> list:
+def finder(query: str) -> Any:
     """
     Function find the user query and return requires list
     """
@@ -44,7 +44,7 @@ def finder(query: str) -> list:
     elif query == "moneyheist":
         return MONEY_HEIST_QUOTES
     else:
-        return []
+        return BREAKING_BAD_QUOTES
 
 
 def get_by_id(query: str, id_: int) -> Optional[Any]:

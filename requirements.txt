@@ -5,6 +5,7 @@ click==7.1.2
 coverage==5.3
 flake8==3.8.3
 Flask==1.1.2
+Flask-Cors==3.0.9
 gunicorn==20.0.4
 idna==2.10
 iniconfig==1.1.1
