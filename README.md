@@ -9,9 +9,13 @@
     </a>
 </p>
 
+<a href='https://web-series-quotes.herokuapp.com'>
+  <h2 align='center'>Live App</h2>
+</a>
+
 
 ## URL
-This API is currently hosted Heroku.
+This API is currently hosted on Heroku.
 
 ```url
 https://web-series-quotes.herokuapp.com
@@ -42,9 +46,9 @@ https://web-series-quotes.herokuapp.com/generate/{image or blank}
 - Use endpoint `image` for image as background
 - Use endpoint `blank` for colored background 
 
-| Endpoint |                              Parameter                               |                                                                                Explanation                                                                                |
-| :------: | :------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------- |
-|  image  |    <ul><li>src</li><li>text</li><li>color</li><li>size</li></ul>     |                      <ul><li>Source of the image </li><li>Text in image if you use own text</li><li>Color of the image</li><li>Font Size</li></ul>                       |
+| Endpoint | Parameter                                                            | Explanation                                                                                                                                                              |
+| :------: | :------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  image   | <ul><li>src</li><li>text</li><li>color</li><li>size</li></ul>        | <ul><li>Source of the image </li><li>Text in image if you use own text</li><li>Color of the image</li><li>Font Size</li></ul>                                            |
 |  blank   | <ul><li>fore</li><li>back</li><li>text</li><li>x</li><li>y</li></ul> | <ul><li>Foreground color(Font-color)</li><li>Background color</li><li>Text in image if you use own text</li><li>Width of the image</li><li>Height of the image</li></ul> |
 
 - [Available in-Build images](https://github.com/yogeshwaran01/web-series-quotes/blob/main/docs/in_build_images.md)

@@ -11,7 +11,7 @@ SUPPORTED_COLORS = list(ImageColor.colormap.keys())
 
 def create_background(color: str, x: int, y: int) -> Image.new:
     """
-    Function Create image of given color
+    Function Create image of given color and size
     """
     if color in SUPPORTED_COLORS:
         img = Image.new("RGB", (x, y), color=color)
@@ -82,28 +82,3 @@ class ImageProcessing:
         res = make_response(buffer.getvalue())
         res.mimetype = "image/png"
         return res
-
-
-def colored_back(b_color: str, text: str, f_color: str, font_size=300, x=3000, y=2005) -> Callable:
-    """
-    Function return the response of text added image of given color
-    """
-    return ImageProcessing(
-        create_background(b_color, x, y), text, size=font_size, color=f_color
-    ).response()
-
-
-def image_back(path: str, text: str, color: str, font_size=300) -> Callable:
-    """
-    Function return the response of text added given image
-    """
-    return ImageProcessing(path, text, size=font_size, color=color).response()
-
-
-def in_build_image_back(name: str, text: str, color: str, font_size=300) -> Callable:
-    """
-    Function similar to image_back specially for build in images
-    """
-    return ImageProcessing(
-        f"images/{name}.jpg", text, size=font_size, color=color
-    ).response()
