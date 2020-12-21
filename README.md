@@ -9,9 +9,8 @@
     </a>
 </p>
 
-<a href='https://web-series-quotes.herokuapp.com'>
-  <h2 align='center'>Live App</h2>
-</a>
+<h2 align='center'><a href='https://web-series-quotes.herokuapp.com'> Live App </a></h2>
+
 
 
 ## URL
