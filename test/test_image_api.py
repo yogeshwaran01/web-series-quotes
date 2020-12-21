@@ -1,7 +1,9 @@
 from flask import request
 
 from test import client
-from app.routes import IN_BUILD_IMAGES, SUPPORTED_COLORS
+
+from app.utils import IN_BUILD_IMAGES
+from app.image_processing import SUPPORTED_COLORS
 
 
 def test_quote_generator(client):

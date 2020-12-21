@@ -1,61 +1,12 @@
 from random import choice, choices
-from typing import Any, Optional
 
-from flask import jsonify, request, redirect
+from flask import jsonify, request, redirect, render_template
 
 from app import app
-from data.breaking_bad import BREAKING_BAD_QUOTES
-from data.dark import DARK_QUOTES
-from data.game_of_thrones import GAME_OF_THRONES_QUOTES
-from data.money_heist import MONEY_HEIST_QUOTES
 from .image_processing import SUPPORTED_COLORS
-from .image_processing import colored_back, image_back, in_build_image_back
-
-SERIES = ["breakingbad", "dark", "gameofthrones", "moneyheist"]
-ALL = BREAKING_BAD_QUOTES + DARK_QUOTES + GAME_OF_THRONES_QUOTES + MONEY_HEIST_QUOTES
-SERIES_URL = [
-    "https://web-series-quotes.herokuapp.com/breakingbad",
-    "https://web-series-quotes.herokuapp.com/dark",
-    "https://web-series-quotes.herokuapp.com/gameofthrones",
-    "https://web-series-quotes.herokuapp.com/moneyheist",
-]
-
-IN_BUILD_IMAGES = [
-    "breakingbad",
-    "dark",
-    "gameofthrones",
-    "moneyheist",
-    "cardboard",
-    "rainbowmountain",
-    "joker",
-]
-
-
-def finder(query: str) -> Any:
-    """
-    Function find the user query and return requires list
-    """
-    if query == "breakingbad":
-        return BREAKING_BAD_QUOTES
-    elif query == "dark":
-        return DARK_QUOTES
-    elif query == "gameofthrones":
-        return GAME_OF_THRONES_QUOTES
-    elif query == "moneyheist":
-        return MONEY_HEIST_QUOTES
-    else:
-        return BREAKING_BAD_QUOTES
-
-
-def get_by_id(query: str, id_: int) -> Optional[Any]:
-    """
-    Function search the data by id
-    """
-    result_ = None
-    for i in finder(query):
-        if i["id"] == id_:
-            result_ = i
-    return result_
+from .utils import ALL, IN_BUILD_IMAGES, SERIES, SERIES_URL
+from .utils import colored_back, image_back, in_build_image_back
+from .utils import get_by_id, finder
 
 
 @app.errorhandler(404)
@@ -64,6 +15,10 @@ def not_found(error):
 
 
 @app.route("/")
+def home1():
+    return render_template("index1.html", colors=SUPPORTED_COLORS, series=SERIES)
+
+
 @app.route("/api")
 def index():
     return jsonify(SERIES_URL)
@@ -193,3 +148,15 @@ def generate_image():
     if path in SERIES:
         return in_build_image_back(path, text, color, font_size=size)
     return image_back(path, text, color, font_size=size)
+
+
+@app.errorhandler(500)
+def internal_server_error(e):
+    """ Handling internal_server_error 500 error """
+    return jsonify({"message": "Invaild url paramters"})
+
+
+@app.errorhandler(404)
+def page_not_used(e):
+    """ Handling internal_server_error 500 error """
+    return jsonify({"message": "Page not found"})

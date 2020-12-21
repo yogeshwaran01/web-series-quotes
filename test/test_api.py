@@ -1,14 +1,12 @@
 from flask import request
 
 from test import client
-from app import app
-from app.routes import SERIES_URL, SERIES
-from app.routes import get_by_id, finder
 
+from app.utils import SERIES, SERIES_URL
+from app.utils import get_by_id, finder
 
 def test_home_page(client):
     """ Testcase for home url """
-    response = client.get("/")
     response = client.get("/api")
     assert SERIES_URL == response.get_json()
     assert SERIES_URL == response.get_json()
