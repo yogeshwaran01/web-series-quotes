@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <script src="./script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js " integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW " crossorigin="anonymous "></script>
+    <title>web-series-quotes</title>
+</head>
+
+<body>
+    <p align='center'>
+        <img width="400px" src="https://raw.githubusercontent.com/yogeshwaran01/web-series-quotes/main/web-series-quotes-title.png" align="center" alt="Logo">
+        <h2 align="center">Web Series Quotes Api</h2>
+        <p align="center">Api for Quotes of various web-series. Api automatically generate quotes with background image. Api also returns the Quotes and its author as json.</p>
+    </p>
+    <div class="alert alert-success" role="alert" id="dis" style="display: none;">
+        Your Link will be appear here
+    </div>
+    <br>
+    <div id="center" class="form-floating">
+        <button type="button" class="btn btn-primary btn-lg" style="margin: auto; display: block " onclick="open_form_1()" id="b1">Web Series quotes image Generator</button>
+    </div>
+    <br>
+    <div id="center" class="form-floating">
+        <button type="button" class="btn btn-primary btn-lg" style="margin: auto; display: block " onclick="open_form_2()" id="b2">Custom Text & Image Generator</button>
+    </div>
+    <br>
+    <!-- form (1) -->
+    <div style="display: none;" id="form1">
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Color of Text</label>
+            <select class="form-select" id="color-box-1" name="c">
+            </select>
+        </div>
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Source of Image</label>
+            <input class="form-control" placeholder="Source of image" id="floatingTextarea" name="src" type="url">
+            
+        </div>
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Series</label>
+            <select class="form-select" id="series-box" name="s">
+
+            </select>
+        </div>
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Quote ID</label>
+            <input type="number" name="id">
+        </div>
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Font Size</label>
+            <input type="number" name="font" value="200">
+        </div>
+        <br>
+        <div class="form-floating">
+            <button type="button" class="btn btn-primary btn-lg" style="margin: auto; display: block " onclick="make_link()">Submit</button>
+        </div>
+        <br>
+        <div class="form-floating">
+            <button type="button" class="btn btn-primary btn-lg" style="margin: auto; display: block " onclick="open_link()">Open Image</button>
+        </div>
+    </div>
+
+    <!-- form(2) -->
+    <div style="display: none;" id="form2">
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Fore Ground Color</label>
+            <select class="form-select" id="color-box-2" name="fc">
+
+            </select>
+        </div>
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Back Ground Color</label>
+            <select class="form-select" id="color-box-3" name="bc">
+
+            </select>
+        </div>
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Width</label>
+            <input type="number" name="x" value="3600">
+        </div>
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Height</label>
+            <input type="number" value="2400" name="y">
+        </div>
+
+        <div class="form-floating">
+            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" name="text"></textarea>
+            <label for="floatingTextarea">Text</label>
+        </div>
+        <br>
+        <div class="form-floating">
+            <button type="button" class="btn btn-primary btn-lg" style="margin: auto; display: block " onclick="make_link_2()">Submit</button>
+        </div>
+        <br>
+        <div class="form-floating">
+            <button type="button" class="btn btn-primary btn-lg" style="margin: auto; display: block " onclick="open_link_2()">Open Image</button>
+        </div>
+    </div>
+    <br>
+    <div>
+        <a href="https://web-series-quotes-api.deta.dev/redoc">
+            <h4 align='center'>Api Full Documentation</h4>
+        </a>
+        <h1 align="center">
+            <a id="user-content-made-with-pythoncontributions-are-welcomeheart" class="anchor" href="#made-with-pythoncontributions-are-welcomeheart" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Made with Python
+            <h3 align="center">
+                <a id="user-content-contributions-are-welcome" class="anchor" href="#contributions-are-welcome" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a> Contributions are welcome!</h3>
+            <h2 align="center">
+                <a id="user-content-heart" class="anchor" href="#heart" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>
+                <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>
+            </h2>
+        </h1>
+        <h2 style="text-align: center;"><a href="https://github.com/yogeshwaran01/web-series-quotes" style="text-align: center;">
+                Github Repo</a></h2>
+        <h3 style="text-align: center;">Coded by
+            <a href="https://yogeshwaran01.github.io">YOGESHWARAN R</a>
+    </div>
+    <script>
+        fetch('https://web-series-quotes-api.deta.dev/colors')
+            .then(res => res.json())
+            .then(data => {
+                var colors = data
+                for (const color of colors) {
+                    var ele = document.createElement('option')
+                    ele.setAttribute('value', color)
+                    ele.innerHTML = color
+                    document.getElementById('color-box-1').appendChild(ele)
+                    var ele2 = document.createElement('option')
+                    ele2.setAttribute('value', color)
+                    ele2.innerHTML = color
+                    document.getElementById('color-box-3').appendChild(ele2)
+                    var ele3 = document.createElement('option')
+                    ele3.setAttribute('value', color)
+                    ele3.innerHTML = color
+                    document.getElementById('color-box-2').appendChild(ele3)
+                }
+            })
+        
+        fetch('https://web-series-quotes-api.deta.dev/series')
+        .then(res => res.json())
+        .then(data => {
+            var object = data
+            for (const s of object) {
+                var ele = document.createElement('option')
+                ele.setAttribute('value', s)
+                ele.innerHTML = s
+                document.getElementById('series-box').appendChild(ele)
+            }
+        })
+        
+    </script>
+</body>
+
+</html>
