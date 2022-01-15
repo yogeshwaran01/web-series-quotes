@@ -25,17 +25,10 @@ https://web-series-quotes-api.deta.dev
 - Generate quote images with solid background
 - Generate quote images with image background
 
-## Sample Usage
-
-```url
-https://web-series-quotes-api.deta.dev/pic/solid?series=breaking_bad&id=1
-```
-
-![image](https://web-series-quotes-api.deta.dev/pic/solid?series=breaking_bad&id=1)
 
 ## Full Docs
 
-[Check here](https://web-series-quotes-api.deta.dev/docs) of full Documentation
+[Check here](https://web-series-quotes-api.deta.dev/redoc) for full Documentation
 
 <h1 align='center'>Made with Python</h2>
 <h3 align='center'>
