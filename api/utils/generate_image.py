@@ -9,14 +9,17 @@ from PIL import Image, ImageDraw, ImageFont, ImageColor
 
 COLORS = list(ImageColor.colormap.keys())
 
+
 def image_response(image: Image.new) -> Response:
     buffer = io.BytesIO()
-    image.save(buffer, format='jpeg')
-    res = Response(buffer.getvalue(), media_type='image/jpeg')
+    image.save(buffer, format="jpeg")
+    res = Response(buffer.getvalue(), media_type="image/jpeg")
     return res
 
-def create_background(x: int=3600, y: int=2400, color: str='white') -> Image.new:
+
+def create_background(x: int = 3600, y: int = 2400, color: str = "white") -> Image.new:
     return Image.new("RGB", (x, y), color=color)
+
 
 class ImageProcessor:
     """
@@ -36,8 +39,16 @@ class ImageProcessor:
         return cls(Image.open(res.raw), text, size, color)
 
     @classmethod
-    def colored_background(cls, text: str, size: int, text_color: str, x: int=3600, y: int=2400, back_color: str='white'):
-        
+    def colored_background(
+        cls,
+        text: str,
+        size: int,
+        text_color: str,
+        x: int = 3600,
+        y: int = 2400,
+        back_color: str = "white",
+    ):
+
         return cls(Image.new("RGB", (x, y), color=back_color), text, size, text_color)
 
     def wrap_text(self, text: str) -> str:

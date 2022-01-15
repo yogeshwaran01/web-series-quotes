@@ -1,6 +1,6 @@
 import random
 import itertools
-from typing import Any, Optional, Union
+from typing import Any, Optional
 
 from fastapi import APIRouter, Query
 
@@ -36,9 +36,8 @@ async def get_quote(
         default=None, description="Get quote with id <code>Series name required </code>"
     ),
     all: Optional[bool] = Query(
-        default=None,
-        description="True if all quote of series to be returned"
-    )
+        default=None, description="True if all quote of series to be returned"
+    ),
 ) -> Any:
     if count is None:
         count = 1
