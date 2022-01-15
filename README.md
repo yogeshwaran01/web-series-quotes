@@ -3,13 +3,9 @@
     <h2 align="center">Web Series Quotes Api</h2>
     <p align="center">Api for Quotes of various web-series. Api automatically generate quotes with background image. Api also returns the Quotes and its author as json.</p>
 </p>
-<p align="center">
-    <a href="https://travis-ci.org/github/yogeshwaran01/web-series-quotes/">
-    <img alt="test passing" src="https://img.shields.io/travis/yogeshwaran01/web-series-quotes/main.svg?logo=travis"/>
-    </a>
-</p>
 
-<h2 align='center'><a href='https://web-series-quotes-api.deta.dev'> Live App </a></h2>
+
+<h2 align='center'><a href='https://yogeshwaran01.github.io/web-series-quotes/'> Live App </a></h2>
 
 ## URL
 
