@@ -1,45 +1,55 @@
 import io
 from typing import Callable
 
+from fastapi.responses import Response
+
 import requests
 
-from PIL import Image, ImageDraw, ImageFont, ImageColor, UnidentifiedImageError
-from flask import make_response
+from PIL import Image, ImageDraw, ImageFont, ImageColor
 
-SUPPORTED_COLORS = list(ImageColor.colormap.keys())
-
-
-def create_background(color: str, x: int, y: int) -> Image.new:
-    """
-    Function Create image of given color and size
-    """
-    if color in SUPPORTED_COLORS:
-        img = Image.new("RGB", (x, y), color=color)
-    else:
-        img = Image.new("RGB", (x, y), color="white")
-    return img
+COLORS = list(ImageColor.colormap.keys())
 
 
-class ImageProcessing:
+def image_response(image: Image.new) -> Response:
+    buffer = io.BytesIO()
+    image.save(buffer, format="jpeg")
+    res = Response(buffer.getvalue(), media_type="image/jpeg")
+    return res
+
+
+def create_background(x: int = 3600, y: int = 2400, color: str = "white") -> Image.new:
+    return Image.new("RGB", (x, y), color=color)
+
+
+class ImageProcessor:
     """
     Class Processes the image and make response
     """
 
-    def __init__(self, filepath: str, text: str, size: int, color: str):
-        try:
-            self.image = Image.open(filepath)
-        except AttributeError:
-            self.image = filepath
-        except FileNotFoundError:
-            try:
-                res = requests.get(filepath, stream=True)
-                res.raw.decode_content = True
-                self.image = Image.open(res.raw)
-            except UnidentifiedImageError:
-                self.image = create_background("black", 3000, 2005)
-        self.font = ImageFont.truetype("font/AlternateGotNo2D.otf", size)
+    def __init__(self, image: Image.new, text: str, size: int, color: str):
+        self.image = image
+        self.font = ImageFont.truetype("font/LuxuriousRoman-Regular.ttf", size)
         self.text = self.wrap_text(text)
         self.color = color
+
+    @classmethod
+    def image_from_url(cls, url: str, text: str, size: int, color: str):
+        res = requests.get(url, stream=True)
+        res.raw.decode_content = True
+        return cls(Image.open(res.raw), text, size, color)
+
+    @classmethod
+    def colored_background(
+        cls,
+        text: str,
+        size: int,
+        text_color: str,
+        x: int = 3600,
+        y: int = 2400,
+        back_color: str = "white",
+    ):
+
+        return cls(Image.new("RGB", (x, y), color=back_color), text, size, text_color)
 
     def wrap_text(self, text: str) -> str:
         new_text = ""
@@ -61,7 +71,7 @@ class ImageProcessing:
         w_, h_ = darw.multiline_textsize(self.text, font=self.font, spacing=3)
         x -= w_ / 2
         y -= h_ / 2
-        if self.color in SUPPORTED_COLORS:
+        if self.color in COLORS:
             darw.multiline_text(
                 align="center",
                 xy=(x, y),
@@ -76,9 +86,4 @@ class ImageProcessing:
         return texted_img
 
     def response(self) -> Callable:
-        buffer = io.BytesIO()
-        self.texted_image().save(buffer, format="png")
-        buffer.seek(0)
-        res = make_response(buffer.getvalue())
-        res.mimetype = "image/png"
-        return res
+        return image_response(self.texted_image())

@@ -1,33 +1,20 @@
-from flask import request
+from fastapi.testclient import TestClient
+from api.main import app
+from api.routes.quote import get_by_id
 
-from test import client
+from data import data
 
-from app.utils import SERIES, SERIES_URL
-from app.utils import get_by_id, finder
-
-def test_home_page(client):
-    """ Testcase for home url """
-    response = client.get("/api")
-    assert SERIES_URL == response.get_json()
-    assert SERIES_URL == response.get_json()
+client = TestClient(app)
 
 
-def test_series(client):
-    """ Testcase for all quotes in series """
-    for i in SERIES:
-        response = client.get(f"/{i}")
-        assert finder(i) == response.get_json()
+def test_api():
+    response = client.get("/quote")
+    assert response.status_code == 200
+    response = client.get("/quote?series=dark&id=2")
+    assert response.json() == get_by_id(data["dark"], 2)
 
 
-def test_random_series(client):
-    """ Testcase for random quotes in series """
-    for i in SERIES:
-        response = client.get(f"/random/{i}")
-        assert response.get_json() in finder(i)
-
-
-def test_series_by_id(client):
-    """ Testcase for get quotes by series id """
-    for i in SERIES:
-        response = client.get(f"/{i}/10")
-        assert response.get_json() == get_by_id(i, 10)
+def test_image():
+    response = client.get("/pic/solid")
+    assert response.status_code == 200
+    assert response.headers["Content-Type"] == "image/jpeg"
