@@ -4,8 +4,9 @@
     <p align="center">Api for Quotes of various web-series. Api automatically generate quotes with background image. Api also returns the Quotes and its author as json.</p>
 </p>
 
-
 <h2 align='center'><a href='https://yogeshwaran01.github.io/web-series-quotes/'> Live App </a></h2>
+
+[![Python application](https://github.com/yogeshwaran01/web-series-quotes/actions/workflows/python-app.yml/badge.svg)](https://github.com/yogeshwaran01/web-series-quotes/actions/workflows/python-app.yml)
 
 ## URL
 
