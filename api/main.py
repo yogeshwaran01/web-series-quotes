@@ -2,6 +2,10 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.responses import RedirectResponse
 
+from .routes import quote
+from .routes import image
+from api.utils.generate_image import COLORS
+
 app = FastAPI(
     title="Web Series Quotes Api",
     description="Quotes of various web series with image generating feature",
@@ -16,10 +20,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
-from .routes import quote
-from .routes import image
-from api.utils.generate_image import COLORS
 
 app.include_router(quote.router)
 app.include_router(image.router)

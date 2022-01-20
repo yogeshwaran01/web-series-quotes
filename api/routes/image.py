@@ -5,10 +5,10 @@ from fastapi import APIRouter, Query
 from typing import Optional, Any
 from pydantic import AnyUrl
 
+from api.utils.generate_image import ImageProcessor, create_background, COLORS
 
 router = APIRouter(prefix="/pic")
 
-from api.utils.generate_image import ImageProcessor, create_background, COLORS
 
 ALL_QUOTES = list(itertools.chain(*data.values()))
 AVAILABLE_SERIES = list(data.keys())
@@ -91,7 +91,7 @@ async def render_pic_with_image_background(
 
 
 @router.get("/custom", tags=["Generate images with custom text"])
-async def render_pic_colored_background(
+async def render_pic_colored_background_custom_text(
     text: Optional[str] = Query(
         default="Hello World",
         description="Any text",
@@ -117,7 +117,7 @@ async def render_pic_colored_background(
     if image_url:
         try:
             return ImageProcessor.image_from_url(image_url, text, text_size, text_color).response()
-        except:
+        except:  # noqa: E722
             return {"msg": "invalid url"}
 
     return ImageProcessor.colored_background(
