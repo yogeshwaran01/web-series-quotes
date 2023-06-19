@@ -1,4 +1,4 @@
-var api = "https://web-series-quotes-api.deta.dev/pic"
+var api = "https://api.seriesquotes.10cyrilc.me/pic"
 
 function make_link() {
     var dis = document.getElementById('dis');
