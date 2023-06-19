@@ -13,7 +13,7 @@
 This API is currently hosted on deta
 
 ```url
-https://web-series-quotes-api.deta.dev
+https://api.seriesquotes.10cyrilc.me/
 ```
 
 ## Features
@@ -22,10 +22,9 @@ https://web-series-quotes-api.deta.dev
 - Generate quote images with solid background
 - Generate quote images with image background
 
+<!-- ## Full Docs
 
-## Full Docs
-
-[Check here](https://web-series-quotes-api.deta.dev/redoc) for full Documentation
+[Check here](https://web-series-quotes-api.deta.dev/redoc) for full Documentation -->
 
 <h1 align='center'>Made with Python</h2>
 <h3 align='center'>
