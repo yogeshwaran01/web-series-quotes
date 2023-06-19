@@ -3254,4 +3254,7316 @@ data = {
             "series": "money_heist",
         },
     ],
+    "young_sheldon": [
+    {
+      "id": 1,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "I'm only nine years oldMost evil doesn't start till puberty."
+    },
+    {
+      "id": 2,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "Did you know that if gravity were slightly more powerful, the universe would collapse into a ball?"
+    },
+    {
+      "id": 3,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "I can't see myself living in CaliforniaI don't trust their carefree lifestyle."
+    },
+    {
+      "id": 4,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "I needed to get on the shuttle so I could escape this ridiculous planetSpoiler alert, I'm still here."
+    },
+    {
+      "id": 5,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "Welcome to the church of MathologyToday I'd like to talk about prime numbers and why they give us joy."
+    },
+    {
+      "id": 6,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "What I find interesting, is how so many supervillains are scientistsIf the world doesn't respect me, I might change sides."
+    },
+    {
+      "id": 7,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "Per the student dress and grooming code, this boy's hair is too longThis boy's wearing sports attire outside a designated areaAnd this girl's blouse is diaphanous, which means I can see her brassiere."
+    },
+    {
+      "id": 8,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "You want to know what's really interesting? Aristotle thought that the sound of thunder was due to a collision between two cloudsHe believed the clouds were expelling air, in the way a log on a fire crackles."
+    },
+    {
+      "id": 9,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "The average American consumes 55 pounds of beef per year. And then there’s Texas, where we can knock that off in a couple of months. Maybe faster if we’re talking about smoked brisket."
+    },
+    {
+      "id": 10,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "I don’t need a calculator, dad. I am one."
+    },
+    {
+      "id": 11,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "In Texas, the holy trinity is God, Football and barbecueNot necessarily in that order."
+    },
+    {
+      "id": 12,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "Science fact: Sisters are the worst."
+    },
+    {
+      "id": 13,
+      "author": "Sheldon",
+      "series": "young_sheldon",
+      "quote": "I actually enjoyed being alone, solitude allowed me to think about important things."
+    },
+    {
+      "id": 14,
+      "author": "Missy",
+      "series": "young_sheldon",
+      "quote": "I don't need to be good at Math, I have beautiful hair."
+    },
+    {
+      "id": 15,
+      "author": "Missy",
+      "series": "young_sheldon",
+      "quote": "He can hear youHe knows if you've been bad or goodLike Santa, but he can send you to hell."
+    },
+    {
+      "id": 16,
+      "author": "Missy",
+      "series": "young_sheldon",
+      "quote": "All I know is, he's not in the same grade as me anymoreAnd I'm thrilled."
+    },
+    {
+      "id": 17,
+      "author": "Missy",
+      "series": "young_sheldon",
+      "quote": "I don't want to die, I've only kissed one boy so far."
+    },
+    {
+      "id": 18,
+      "author": "Missy",
+      "series": "young_sheldon",
+      "quote": "Sheldon, can you hear me? It's your twin sister, MissyEverything's all right here, but I think Mom misses you real badAll right, I can't hear you, so I'm gonna hang up now."
+    },
+    {
+      "id": 19,
+      "author": "Mary",
+      "series": "young_sheldon",
+      "quote": "Nothing is wrong with him, now turn back around before I break your neck."
+    },
+    {
+      "id": 20,
+      "author": "Mary",
+      "series": "young_sheldon",
+      "quote": "Sheldon, faith means believing in something you can't know for sure is realAnd right now, I am struggling with that."
+    },
+    {
+      "id": 21,
+      "author": "Mary",
+      "series": "young_sheldon",
+      "quote": "Shelly, remember when you thought you had leprosy, and it was just a patch of dry skin?"
+    },
+    {
+      "id": 22,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": "Darlin', there's no inferringI've seen the boy sitting in the dirt eating his own belly button lint."
+    },
+    {
+      "id": 23,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": "Well, if there is something wrong with him, it ain't constipation."
+    },
+    {
+      "id": 24,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": ".OkaySomebody's got to teach this kid to swear, it's embarrassing."
+    },
+    {
+      "id": 25,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": "You know, I hear you say things like that, and I wonder if maybe I did have a few too many whiskey sours when you were in my belly."
+    },
+    {
+      "id": 26,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "I actually enjoyed being alone, solitude allowed me to think about important things."
+    },
+    {
+      "id": 27,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "Of course, nobody I knew in East-Texas in 1989 cared about Newtonian Physics. The only Newtons they cared about were Wayne and Fig."
+    },
+    {
+      "id": 28,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": "No, that you think you'll graduate High-School."
+    },
+    {
+      "id": 29,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": "What if Einstein's parents had held him back? We wouldn't even have the... - I was gonna say atomic bomb, but there's probably a better example."
+    },
+    {
+      "id": 30,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": "I drank when I was pregnant with you, you turned out fine. There's everybody saying 'don't drink, don't smoke'. I swear - Texas is turning into California."
+    },
+    {
+      "id": 31,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "The average American consumes 55 pounds of beef per year. And then there's Texas, where we can knock that off in a couple of months. Maybe faster if we're talking about smoked brisket."
+    },
+    {
+      "id": 32,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "Jane Goodall had to go to Africa to study the apes. I just had to go to dinner."
+    },
+    {
+      "id": 33,
+      "author": "Missy Cooper",
+      "series": "young_sheldon",
+      "quote": "Missy Cooper: I don't want to die, I've only kissed one boy so far."
+    },
+    {
+      "id": 34,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "Many years later, my brother would use the same argument in front of a judge. He was still convicted for urinating in a phone booth."
+    },
+    {
+      "id": 35,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "I don't need a calculator, dad. I am one."
+    },
+    {
+      "id": 36,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "In Texas, the holy trinity is God, Football and barbecue. Not necessarily in that order."
+    },
+    {
+      "id": 37,
+      "author": "Meemaw",
+      "series": "young_sheldon",
+      "quote": "That changes everything, how do you know who to trust?"
+    },
+    {
+      "id": 38,
+      "author": "Sheldon Cooper",
+      "series": "young_sheldon",
+      "quote": "Science fact: Sisters are the worst."
+    }
+  ],
+  "13_reasons_why":[
+  {
+    "id": 1,
+    "author": "Tony Padilla",
+    "series": "13_reasons_why",
+    "quote": "I think sometimes we aren't keeping secrets to hide from other people. I think sometimes we're keeping them to protect those people."
+  },
+  {
+    "id": 2,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "The truth can free you, if you let it."
+  },
+  {
+    "id": 3,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "I guess we all have things we try to hide. But they can't stay hidden forever."
+  },
+  {
+    "id": 4,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "I like her. She makes you try new things, it's good for you. I'm serious - you seem less afraid when you're with her. I like it and it also makes me kind of sad."
+  },
+  {
+    "id": 5,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "We all have things we keep hidden. Sometimes, keeping secrets is how you survive. Because in High School, one rumor, one picture, one incident, can define you forever."
+  },
+  {
+    "id": 6,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "Pictures can be twisted and used against you and haunt you forever."
+  },
+  {
+    "id": 7,
+    "author": "Tyler Down",
+    "series": "13_reasons_why",
+    "quote": "They get in your head. People tell lies about you, and other people believe them. And it gets to the point where the lies might as well be the truth."
+  },
+  {
+    "id": 8,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "Why didn't you say this to me when I was alive?"
+  },
+  {
+    "id": 9,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "The truth isn't always to most exciting version of things, or the best, or the worst. It's somewhere inbetween. But it deserves to be heard and remembered. 'The truth will out', like someone said once. It remains."
+  },
+  {
+    "id": 10,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "I've heard so many stories about me now that I don't know which one is the most popular. But I do know which is the least popular: the truth."
+  },
+  {
+    "id": 11,
+    "author": "Clay Jensen",
+    "series": "13_reasons_why",
+    "quote": "I cost a girl her life because I was afraid to love her"
+  },
+  {
+    "id": 12,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "Some of you cared. None of you cared enough."
+  },
+  {
+    "id": 13,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "Pardon me, but you really hurt my feelings."
+  },
+  {
+    "id": 14,
+    "author": "Hannah Baker",
+    "series": "13_reasons_why",
+    "quote": "I am scared, 'cause I don't know how to fly. But you're there at the bottom of the slide to catch me when I fall."
+  },
+  {
+    "id": 15,
+    "author": "Jay Asher",
+    "series": "13_reasons_why",
+    "quote": "If my love were an ocean,\nthere would be no more land.\nIf my love were a desert,\nyou would see only sand.\nIf my love were a star-\nlate at night, only light.\nAnd if my love could grow wings,\nI'd be soaring in flight."
+  }
+],
+"1899": [
+  {
+    "id": 1,
+    "author": "Ángel",
+    "series": "1899",
+    "quote": "We all wear masks. We all pretend. Presenting a perfect illusion on the outside, while we desperately try to hide who we are on the inside."
+  },
+  {
+    "id": 2,
+    "author": "Lucien",
+    "series": "1899",
+    "quote": "Life hurts. The moment you think you've got it all, it smacks you in the face."
+  },
+  {
+    "id": 3,
+    "author": "Yuk Je",
+    "series": "1899",
+    "quote": "Everything will be okay in the end. If it's not okay, it's not the end."
+  },
+  {
+    "id": 4,
+    "author": "Maura Franklin",
+    "series": "1899",
+    "quote": "The brain drives our thoughts, our behavior. It holds all of the secrets of the universe. There's a whole hidden world inside each of us which only needs to be deciphered."
+  },
+  {
+    "id": 5,
+    "author": "Virginia Wilson",
+    "series": "1899",
+    "quote": "That's what they do, don't they? They show you the world, and then they tell you you can't have it."
+  },
+  {
+    "id": 6,
+    "author": "Maura Franklin",
+    "series": "1899",
+    "quote": "Our brain isn't always entirely reliable. Everything that we see and feel and hear are the result of electrical impulses. And sometimes we misinterpret those impulses. It's what makes people go mad."
+  },
+  {
+    "id": 7,
+    "author": "Virginia Wilson",
+    "series": "1899",
+    "quote": "Frustration and boredom are great motivators to seek out other pleasures. Human behavior is quite predictable."
+  },
+  {
+    "id": 8,
+    "author": "Lucien",
+    "series": "1899",
+    "quote": "You want to know if I was ever really in love with you? Every morning, I wake up wishing I wasn't. You are a constant reminder of what I can't have. A life. Love. You."
+  },
+  {
+    "id": 9,
+    "author": "Virginia Wilson",
+    "series": "1899",
+    "quote": "Sometimes one has to adjust to a situation as it unfolds. With every calamity comes opportunity."
+  },
+  {
+    "id": 10,
+    "author": "Jérôme",
+    "series": "1899",
+    "quote": "People taking power who don't deserve it. It never ends well."
+  },
+  {
+    "id": 11,
+    "author": "Eyk Larsen",
+    "series": "1899",
+    "quote": "Right down here, the ocean has a depth of almost 4,000 meters. Man has mapped out every corner of this world. Been to the farthest deserts, the top of the highest mountains. But what's down there is still a mystery. A hidden world in the shadows."
+  },
+  {
+    "id": 12,
+    "author": "Lucien",
+    "series": "1899",
+    "quote": "Things never work out the way you imagine they will."
+  },
+  {
+    "id": 13,
+    "author": "Eyk Larsen",
+    "series": "1899",
+    "quote": "Have you ever lost someone? It's like you're dying with them. They can move on. And you're stuck."
+  },
+  {
+    "id": 14,
+    "author": "Daniel Solace",
+    "series": "1899",
+    "quote": "Reality is more than neurons firing around in your brain. Reality is not what's on the inside. It's what's happening on the outside."
+  },
+  {
+    "id": 15,
+    "author": "Ángel",
+    "series": "1899",
+    "quote": "You cannot change the nature of things. I am who I am. And you are who you are. Nothing will change that."
+  },
+  {
+    "id": 16,
+    "author": "Eyk Larsen",
+    "series": "1899",
+    "quote": "They threw him off the goddamn railing. There's no way someone survives that. And yet, here he is. How is that possible?"
+  },
+  {
+    "id": 17,
+    "author": "Yuk Je",
+    "series": "1899",
+    "quote": "We should have never gotten on this ship. It was a mistake. All of it, a huge mistake."
+  },
+  {
+    "id": 18,
+    "author": "Yuk Je",
+    "series": "1899",
+    "quote": "People are oblivious to reality. They only see what they want to see, when all they have to do is shift their perspective to see the full scope of things."
+  },
+  {
+    "id": 19,
+    "author": "Maura Franklin",
+    "series": "1899",
+    "quote": "Being alone like that shows you what kind of a person you are."
+  },
+  {
+    "id": 20,
+    "author": "Virginia Wilson",
+    "series": "1899",
+    "quote": "They're all running away from something. Why else would someone want to go somewhere different?"
+  },
+  {
+    "id": 21,
+    "author": "Maura Franklin",
+    "series": "1899",
+    "quote": "What is lost, will be found."
+  },
+  {
+    "id": 22,
+    "author": "Maura Franklin",
+    "series": "1899",
+    "quote": "Sometimes we have to let things go because we can't keep them forever."
+  },
+  {
+    "id": 23,
+    "author": "Maura Franklin",
+    "series": "1899",
+    "quote": "I am Maura Franklin. Born in Morefield. Today is October 19th, 1899. I am not crazy."
+  }
+],
+"better_call_saul":[
+  {
+    "id": 1,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Eighty-six years. But with good behavior... who knows?"
+  },
+  {
+    "id": 2,
+    "author": "Chuck McGill",
+    "series": "better_call_saul",
+    "quote": "If you don't like where you're heading, there's no shame in going back and changing your path."
+  },
+  {
+    "id": 3,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "I wasn't there when the meth was cooked. I wasn't there when it was sold. I didn't witness any of the murders, but I damn well knew what was happening. I was more than a willing participant. I was indispensable. I kept Walter White out of Jail. I laundered his money. I lied for him. I conspired with him and I made millions."
+  },
+  {
+    "id": 4,
+    "author": "Walter White",
+    "series": "better_call_saul",
+    "quote": "You'd have been the last lawyer I'd have gone to."
+  },
+  {
+    "id": 5,
+    "author": "Walter White",
+    "series": "better_call_saul",
+    "quote": "Quantum mechanics? We're discussing that now? Stay in your lane! You are not talking about a time machine, which is both a real and theoretical impossibility. You are talking about regrets. So if you want to ask about regrets, just ask about regrets and leave all this time-traveling nonsense out of it!"
+  },
+  {
+    "id": 6,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "During incarceration, defendant Goodman to receive one pint Blue Bell mint chocolate chip ice cream every Friday for the duration."
+  },
+  {
+    "id": 7,
+    "author": "Kim Wexler",
+    "series": "better_call_saul",
+    "quote": "When I knew him, he was."
+  },
+  {
+    "id": 8,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "I'm still out here. Still getting away with it. Feds couldn't find their own ass with both hands and a proctologist."
+  },
+  {
+    "id": 9,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "So a guy with cancer can't be an asshole?? Believe me, I speak from experience."
+  },
+  {
+    "id": 10,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "If the cancer doesn't get him, it'll be the cops or a bullet to the head."
+  },
+  {
+    "id": 11,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "Years ago, I bought a Betamax, good product, top of the line. Experts said it was better than a VHS. Turned out to be a complete waste of time and money."
+  },
+  {
+    "id": 12,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "I got more second-story guys in my book than pimples at a junior prom."
+  },
+  {
+    "id": 13,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "At least I know they didn't spot you. No one could stay that aroused with your mug peeking through the window."
+  },
+  {
+    "id": 14,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Fellas, I was enjoying the Laurel and Hardy vibe, but I'm not such a fan of the Bickersons."
+  },
+  {
+    "id": 15,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Look at this setup! What, you two drive around like Mister Softee, and scooping out drugs for all the good boys and girls?"
+  },
+  {
+    "id": 16,
+    "author": "Jesse Pinkman",
+    "series": "better_call_saul",
+    "quote": "Whoever the hell that is. But the Crystal Ship definitely travels."
+  },
+  {
+    "id": 17,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Crazy? I'll tell you what's crazy. 50-year-old high school chemistry teacher comes into my office. The guy is so broke, he can't pay his own mortgage. One year later, he's got a pile of cash as big as a Volkswagen."
+  },
+  {
+    "id": 18,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Let justice be done though the heavens fall."
+  },
+  {
+    "id": 19,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Screw the FCC! I'll go to the mat with those pencil-pushers! This is textbook freedom of speech. What could be more American than that?"
+  },
+  {
+    "id": 20,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Listen, you have a choice, okay? You can pay up now or bleed to death in court."
+  },
+  {
+    "id": 21,
+    "author": "Kim Wexler",
+    "series": "better_call_saul",
+    "quote": "Ich love you too. But so what?"
+  },
+  {
+    "id": 22,
+    "author": "Kim Wexler",
+    "series": "better_call_saul",
+    "quote": "Apart, we're okay. But together we're poison."
+  },
+  {
+    "id": 23,
+    "author": "Hector Salamanca",
+    "series": "better_call_saul",
+    "quote": "Don Eladio, look into Fring's eyes. There you will see the truth. The Chicken Man hates you. He is our enemy. He plots against us. I demand blood for blood."
+  },
+  {
+    "id": 24,
+    "author": "Don Eladio",
+    "series": "better_call_saul",
+    "quote": "Gustavo. When I looked into your eyes... hate. A little bit's okay. As long as you never forget who's boss."
+  },
+  {
+    "id": 25,
+    "author": "Don Eladio",
+    "series": "better_call_saul",
+    "quote": "I'd invite you to stay as well, Gustavo, but I don't want my breakfast ruined by all the \"ding, ding ding.\""
+  },
+  {
+    "id": 26,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "One day, we'll wake up, and brush our teeth, and go to work. And at some point, we'll suddenly realize that we haven't thought about it at all. None of it. And that's when we'll know. We'll know we can forget."
+  },
+  {
+    "id": 27,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "What Colonel Sanders is to chicken, Saul Goodman is to the law."
+  },
+  {
+    "id": 28,
+    "author": "Lalo Salamanca",
+    "series": "better_call_saul",
+    "quote": "New Mexico. It's another state. I mean, it's like California, just less traffic."
+  },
+  {
+    "id": 29,
+    "author": " Bill Oakley",
+    "series": "better_call_saul",
+    "quote": "There's proving and there's knowing."
+  },
+  {
+    "id": 30,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "Anyone who goes after him is gonna have to come through me."
+  },
+  {
+    "id": 31,
+    "author": "Kim Wexler",
+    "series": "better_call_saul",
+    "quote": "I think the word you're looking for is 'audacious'."
+  },
+  {
+    "id": 32,
+    "author": "Kim Wexler",
+    "series": "better_call_saul",
+    "quote": "You think you've lost everything? You have no idea!"
+  },
+  {
+    "id": 33,
+    "author": "Ignacio 'Nacho' Varga",
+    "series": "better_call_saul",
+    "quote": "Alvarez has been paying me for years. But you know what? I would have done it for free, because I hate every last one of you psycho sacks of sh-t! I opened Lalo's gate and I would do it again. And I'm glad what they did to him. He's a soulless pig. I wish I'd killed him with my own hands. And you know what else, Hector? I put you in that chair. Your heart meds? I switched them for sugar pills. You were dead and buried, and I had to watch this as-hole bring you back. So when you are sitting in your sh-tty nursing home, and you're sucking down on your Jell-O night after night for the rest of your life, you think of me, you twisted f-ck!"
+  },
+  {
+    "id": 34,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "Whatever happens next, it's not gonna go down the way you think it is."
+  },
+  {
+    "id": 35,
+    "author": "Lalo Salamanca",
+    "series": "better_call_saul",
+    "quote": "Let them keep believing I'm dead. So much the better. It was the chicken man. That coward sat up there in the north while his paramilitaries came into my home."
+  },
+  {
+    "id": 36,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "I already told you what you can do with your money. You seem like a guy who can take a hint, so what are we doing?"
+  },
+  {
+    "id": 37,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "I do have an angle, Craig. It's an angle called justice."
+  },
+  {
+    "id": 38,
+    "author": "Kim Wexler",
+    "series": "better_call_saul",
+    "quote": "If you don't trust your men with your money, you have bigger problems than if you trust Saul Goodman."
+  },
+  {
+    "id": 39,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "I heard enough to know she saved your a-s."
+  },
+  {
+    "id": 40,
+    "author": "Lalo Salamanca",
+    "series": "better_call_saul",
+    "quote": "I get my best ideas when everybody else is asleep."
+  },
+  {
+    "id": 41,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "We all make our choices and those choices they put us on a road. And sometimes those choices seem small but they put you on the road. You think about getting off but eventually, you're back on it."
+  },
+  {
+    "id": 42,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "Here's what's gonna happen. One day you're gonna wake up, eat your breakfast, brush your teeth, go about your business. And sooner or later, you're gonna realize you haven't thought about it. None of it. And that's the moment you realize you can forget. When you know that's possible, it all gets easier."
+  },
+  {
+    "id": 43,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "I have people waiting for me. They don't know what I do, they never will. They're protected. But I do what I do so they can have a better life. And if I live or if I die, it really doesn't make a difference to me as long as they have what they need. So when it's my time to go, I will go knowing I did everything I could for them. Now, you ask me how I keep going? That's how."
+  },
+  {
+    "id": 44,
+    "author": "Gustavo Fring",
+    "series": "better_call_saul",
+    "quote": "A dog who bites every owner he's had can only be disciplined with a firm hand. Or put down."
+  },
+  {
+    "id": 45,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "Saul Goodman is the last line of defense for the little guy. Are you getting sold down the river? He's a life raft. You getting stepped on? He's a sharp stick. You got Goliath on your back - Saul's the guy with the slingshot. He's the righter of wrongs. He's friend to the friendless."
+  },
+  {
+    "id": 46,
+    "author": "Saul Goodman",
+    "series": "better_call_saul",
+    "quote": "The only way that entire car is worth 500 bucks, is if there's a $300 hook-r sitting in it."
+  },
+  {
+    "id": 47,
+    "author": "Lalo Salamanca",
+    "series": "better_call_saul",
+    "quote": "I'm just here to lend a helping hand, you know, make sure the business is running in order. I got a good head for numbers. But listen, don't even worry. It's gonna be like I'm not even here."
+  },
+  {
+    "id": 48,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "The less talk, the better."
+  },
+  {
+    "id": 49,
+    "author": "Mike Ehrmantraut",
+    "series": "better_call_saul",
+    "quote": "I've known good criminals and bad cops. Bad priests, honorable thieves. You can be on one side of the law or the other. But if you make a deal with somebody, you keep your word. You can go home today with your money and never do this again. But you took something that wasn't yours. And you sold it for a profit. You're now a criminal. Good one, bad one? That's up to you."
+  }
+],
+"chernobyl":[
+  {
+    "id": 1,
+    "author": "Valery Legasov",
+    "series": "chernobyl",
+    "quote": "The truth is always there, whether we see it or not - whether we choose to or not. The truth doesn't care about our needs or wants. It doesn't care about our governments, our ideologies, our religions."
+  },
+  {
+    "id": 2,
+    "author": "Valery Legasov",
+    "series": "chernobyl",
+    "quote": "To be a scientist is to be naive."
+  },
+  {
+    "id": 3,
+    "author": "Valery Legasov",
+    "series": "chernobyl",
+    "quote": "When the truth offends me, we lie and we lie until we can no longer remember it is even there. Every lie we tell incurs a debt to the truth. Sooner or later, that debt is paid."
+  },
+  {
+    "id": 4,
+    "author": "Valery Legasov",
+    "series": "chernobyl",
+    "quote": "Despite the stupidity, the lies, you're compelled. The problem has been assigned and you'll stop at nothing until you find an answer. Because that is who you are."
+  },
+  {
+    "id": 5,
+    "author": "Viktor Bryukhanov",
+    "series": "chernobyl",
+    "quote": "That went surprisingly well. You came off like a naive idiot - and naive idiots are not a threat."
+  },
+  {
+    "id": 6,
+    "author": "Valery Legasov",
+    "series": "chernobyl",
+    "quote": "If you mean when will Chernobyl be completly save - the half-life of Plutonium 239 is 24,000 years. Perhaps we should just say, 'not in our lifetimes'."
+  },
+  {
+    "id": 7,
+    "author": "Mikhail Gorbachev",
+    "series": "chernobyl",
+    "quote": "Our power comes from the perception of our power."
+  },
+  {
+    "id": 8,
+    "author": "Ulana Khomyuk",
+    "series": "chernobyl",
+    "quote": "I'm telling you that there is."
+  },
+  {
+    "id": 9,
+    "author": "Viktor Bryukhanov",
+    "series": "chernobyl",
+    "quote": "The accident is well under control."
+  },
+  {
+    "id": 10,
+    "author": "Valery Legasov",
+    "series": "chernobyl",
+    "quote": "What is the cost of lies? It's not that we mistake them for the truth. The real danger is that if we hear enough lies, then we no longer recognize the truth at all."
+  }
+],
+  "euphoria": [
+    {
+      "id": 1,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "It wasn't the violence that scared her. It was the fact that she knew no matter what he did, she'd still love him."
+    },
+    {
+      "id": 2,
+      "author": "Maddy Perez",
+      "series": "euphoria",
+      "quote": "I'm just saying, love is a million things."
+    },
+    {
+      "id": 3,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "The beautiful thing about getting high is that time ceases to exist."
+    },
+    {
+      "id": 4,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "Real love is when you can't exist without someone, when you'd rather die than be apart. And the whole world goes dark and nothing else matters but the person standing in front of you."
+    },
+    {
+      "id": 5,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "You gonna ruin my life? I f'ing promise you I can do that a lot better than you can!"
+    },
+    {
+      "id": 6,
+      "author": "Maddy Perez",
+      "series": "euphoria",
+      "quote": "I feel like you ruined me forever."
+    },
+    {
+      "id": 7,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "The more you move up in the world, the more enemies you make."
+    },
+    {
+      "id": 8,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "I don't remember much between the ages of eight and twelve. Just that the world moved fast and my brain moved slow. And every now and then, if I focused too closely on the way I breathed, I'd die. Until every second of every day, you find yourself trying to outrun your anxiety."
+    },
+    {
+      "id": 9,
+      "author": "Fezco",
+      "series": "euphoria",
+      "quote": "I don't know what kind of fed up sht you got going inside of your head. I don't know how to help, but I could tell you one thing: This drug sht - it's not the answer."
+    },
+    {
+      "id": 10,
+      "author": "Fezco",
+      "series": "euphoria",
+      "quote": "I don't take nothin' a drug addict says personally. 'Cause I don't believe nothin' a drug addict say."
+    },
+    {
+      "id": 11,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "When you're younger, everything feels so permanent. But as you get older, you begin to realize nothing is and everyone you love can drift away."
+    },
+    {
+      "id": 12,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "All I know is, life is not a Nicholas Sparks novel."
+    },
+    {
+      "id": 13,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "Elliot: \"I'm not sure it's a good thing we met.\"\nRue: \"What are you talking about? You're my new favorite person.\""
+    },
+    {
+      "id": 14,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "The other thing about depression is it kind of collapses time. Suddenly, you find your whole days blending together to create one endless and suffocating loop. So you find yourself trying to remember the things that made you happy. But slowly, your brain begins to erase every memory that ever brought you joy. And eventually, all you can think about is how life has always been this way. And will only continue to be this way."
+    },
+    {
+      "id": 15,
+      "author": "Elliot",
+      "series": "euphoria",
+      "quote": "What's a bigger feeling than love?"
+    },
+    {
+      "id": 16,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "If I could be a different person, I promise you, I would. Not 'cause I want it, but 'cause they do."
+    },
+    {
+      "id": 17,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "Whenever I feel good I think it will last forever. But it's not like that."
+    },
+    {
+      "id": 18,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "That's the thing with guys like Nate. They don't actually want a person. They want something they can own and possess."
+    },
+    {
+      "id": 19,
+      "author": "Cal Jacobs",
+      "series": "euphoria",
+      "quote": "Sometimes two people in the universe who aren't meant for each other find each other."
+    },
+    {
+      "id": 20,
+      "author": "Leslie Bennett",
+      "series": "euphoria",
+      "quote": "Honey, it's just the way your brain was hardwired. Plenty of great, intelligent, funny, interesting, and creative people have struggled with the same things you struggle with."
+    },
+    {
+      "id": 21,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "The absolute worst part of depression is that even though you know you're depressed, You're unable to stop yourself from getting worse."
+    },
+    {
+      "id": 22,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "Hello heart... thought I'd lost ya."
+    },
+    {
+      "id": 23,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "It's not even the lies that hurt, you know? It's the fact that you're never really emotionally prepared for someone to leave you."
+    },
+    {
+      "id": 24,
+      "author": "Jules Vaughn",
+      "series": "euphoria",
+      "quote": "I feel like I've framed my entire womanhood around men."
+    },
+    {
+      "id": 25,
+      "author": "Jules Vaughn",
+      "series": "euphoria",
+      "quote": "In my head, it's like If I can conquer men, then I can conquer femininity."
+    },
+    {
+      "id": 26,
+      "author": "Maddy Perez",
+      "series": "euphoria",
+      "quote": "The universe is just out here giving like zero fs."
+    },
+    {
+      "id": 27,
+      "author": "Jules Vaughn",
+      "series": "euphoria",
+      "quote": "I want you to wanna kiss me so bad that you don't even ask."
+    },
+    {
+      "id": 28,
+      "author": "Jules Vaughn",
+      "series": "euphoria",
+      "quote": "I liked the way I dressed you, but I'm worried I f'ed with your gender expression."
+    },
+    {
+      "id": 29,
+      "author": "Nate Jacobs",
+      "series": "euphoria",
+      "quote": "Because you're so broken you don't even trust yourself. And that's scary."
+    },
+    {
+      "id": 30,
+      "author": "Kat Hernandez",
+      "series": "euphoria",
+      "quote": "There's nothing more powerful than a fat girl who doesn't give a f."
+    },
+    {
+      "id": 31,
+      "author": "Nate Jacobs",
+      "series": "euphoria",
+      "quote": "At night, I fall asleep to you, and in the morning, I wake up to you. I kind of feel closer to you than I do anyone in the world."
+    },
+    {
+      "id": 32,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "And at some point you make a choice about who you are and what you want."
+    },
+    {
+      "id": 33,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "I love hospitals. If I could spend the rest of my life in a hospital, I would. Because when you're in a hospital, you have zero responsibilities."
+    },
+    {
+      "id": 34,
+      "author": "Kat Hernandez",
+      "series": "euphoria",
+      "quote": "I wish my mental problems made me look like you."
+    },
+    {
+      "id": 35,
+      "author": "Cassie Howard",
+      "series": "euphoria",
+      "quote": "I feel like love is super dark and no one ever talks about it."
+    },
+    {
+      "id": 36,
+      "author": "Cal Jacobs",
+      "series": "euphoria",
+      "quote": "The farther you go, the sharper their blade. Just don't ever give them an opening."
+    },
+    {
+      "id": 37,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "Drugs are kind of cool. I mean, they're cool before they wreck your skin. And your life. And your family. That's when they get uncool. It's actually a very narrow window of cool."
+    },
+    {
+      "id": 38,
+      "author": "Cassie Howard",
+      "series": "euphoria",
+      "quote": "I keep making mistakes and not learning from them."
+    },
+    {
+      "id": 39,
+      "author": "Cassie Howard",
+      "series": "euphoria",
+      "quote": "Maybe people are nostalgic about high school 'cause it's, like, the last time in their life that they get to dream."
+    },
+    {
+      "id": 40,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "She hated her life, not because it was bad, but because when you hate your brain and your body, it's hard to enjoy the rest."
+    },
+    {
+      "id": 41,
+      "author": "Cassie Howard",
+      "series": "euphoria",
+      "quote": "You guys can judge me if you want, but I do not care! I have never ever been happier!"
+    },
+    {
+      "id": 42,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "I put up a good fight but I lost. For the first time, but not the last."
+    },
+    {
+      "id": 43,
+      "author": "Maddy Perez",
+      "series": "euphoria",
+      "quote": "I'll never find that kind of love. There's just no darkness. It's just sweet. I don't know if that would ever be enough for me."
+    },
+    {
+      "id": 44,
+      "author": "Fezco",
+      "series": "euphoria",
+      "quote": "Talkin' to you was one of the best parts of my whole year."
+    },
+    {
+      "id": 45,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "And, you know, you just can't be mad at me for wanting you to be okay."
+    },
+    {
+      "id": 46,
+      "author": "Cal Jacobs",
+      "series": "euphoria",
+      "quote": "It's not just football. It's life."
+    },
+    {
+      "id": 47,
+      "author": "Maddy Perez",
+      "series": "euphoria",
+      "quote": "It's not like anyone's 100% straight or 100% gay."
+    },
+    {
+      "id": 48,
+      "author": "Jules Vaughn",
+      "series": "euphoria",
+      "quote": "I feel like her sobriety is completely dependent on how available I am to her."
+    },
+    {
+      "id": 49,
+      "author": "Jules Vaughn",
+      "series": "euphoria",
+      "quote": "Tequila makes me wanna dance."
+    },
+    {
+      "id": 50,
+      "author": "Rue Bennett",
+      "series": "euphoria",
+      "quote": "That's the weird thing about the Internet. Ten people can feel like the whole world."
+    }
+  ],
+  "locke_und_key": [
+    {
+      "id": 1,
+      "author": "Rendell Locke",
+      "series": "locke_und_key",
+      "quote": "The past is always with us, Tyler. Now, you can try and run away but it's always there."
+    },
+    {
+      "id": 2,
+      "author": "Rendell Locke",
+      "series": "locke_und_key",
+      "quote": "Grief never gets any smaller, so you have to make yourself bigger around it. The best way to do that is to open up. Let people in."
+    },
+    {
+      "id": 3,
+      "author": "Bode Locke",
+      "series": "locke_und_key",
+      "quote": "The reason why she doesn't remember is because she's a grown up. That's how this stuff always works. Only kids can get into Narnia."
+    },
+    {
+      "id": 4,
+      "author": "Nina Locke",
+      "series": "locke_und_key",
+      "quote": "Friendships are the foundation that we stand on."
+    },
+    {
+      "id": 5,
+      "author": "Nina Locke",
+      "series": "locke_und_key",
+      "quote": "People come into our lives exactly when they should."
+    },
+    {
+      "id": 6,
+      "author": "Nina Locke",
+      "series": "locke_und_key",
+      "quote": "It's okay to lose yourself in this, just as long as you can find yourself again."
+    },
+    {
+      "id": 7,
+      "author": "Kinsey Locke",
+      "series": "locke_und_key",
+      "quote": "Just because I don't have fear, doesn't make me irrational."
+    },
+    {
+      "id": 8,
+      "author": "Kinsey Locke",
+      "series": "locke_und_key",
+      "quote": "Best-available idea doesn't make something a good idea."
+    },
+    {
+      "id": 9,
+      "author": "Bode Locke",
+      "series": "locke_und_key",
+      "quote": "Some things are more important than doing math problems."
+    },
+    {
+      "id": 10,
+      "author": "Bode Locke",
+      "series": "locke_und_key",
+      "quote": "What's the point of having magic keys if we can't even use them?"
+    },
+    {
+      "id": 11,
+      "author": "Bode Locke",
+      "series": "locke_und_key",
+      "quote": "At first, these keys were fun, but now we know they're more than that. They're important. They're part of our family and we need to protect them."
+    },
+    {
+      "id": 12,
+      "author": "Kinsey Locke",
+      "series": "locke_und_key",
+      "quote": "Not all final girls make it to the end by fighting the monster. Some of them hide. They stay quiet when their family needs them. They're not waiting for their moment. They don't even know if another moment's coming. They just close their eyes and wait for it to be over. Truth is, some final girls are cowards."
+    }
+  ],
+  "loki": [
+    {
+      "id": 1,
+      "author": "Mobius M. Mobius",
+      "series": "loki",
+      "quote": "Ravonna: \"You really believe in this Loki variant?\"\nMobius: \"Luckily, he believes in himself enough for the both of us.\""
+    },
+    {
+      "id": 2,
+      "author": "Thor",
+      "series": "loki",
+      "quote": "I never wanted the throne, I only ever wanted to be your equal."
+    },
+    {
+      "id": 3,
+      "author": "Thor",
+      "series": "loki",
+      "quote": "Beware, Thor, for thy brother shall free himself from our father's wrath And then shall you know the vengeance of Loki!"
+    },
+    {
+      "id": 4,
+      "author": "Thor",
+      "series": "loki",
+      "quote": "I am one far more accustomed to demanding answers, fool, than to giving them."
+    }
+  ],
+  "modern_family": [
+    {
+      "id": 1,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "The good news is, Luke has his bike.\nMore good news, I taught some random kid a valuable lesson by stealing his bike."
+    },
+    {
+      "id": 2,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Sometimes I don't know if I love how much I fear Claire, or fear how much I love her."
+    },
+    {
+      "id": 3,
+      "author": "Gloria Pritchett",
+      "series": "modern_family",
+      "quote": "Jay: \"I got you a little gift to celebrate. I know it\u2019s not much...-\"\nGloria: \"It\u2019s practically nothing!\""
+    },
+    {
+      "id": 4,
+      "author": "Jay Pritchett",
+      "series": "modern_family",
+      "quote": "Mitchell: \"We didn't just go to Vietnam for pleasure. We kinda have some big news.\"Jay: \"Oh God, if Cam comes out there with boobs, I'm leaving.\""
+    },
+    {
+      "id": 5,
+      "author": "Claire Dunphy",
+      "series": "modern_family",
+      "quote": "Phil: \"What a beautiful dress.\"Gloria: \"Thank you, Phil.\"Phil: \"Oh, okay.\"Claire: \"Phil! She said Phil, not feel!\""
+    },
+    {
+      "id": 6,
+      "author": "Cameron Tucker",
+      "series": "modern_family",
+      "quote": "Mitchell: \"It's been five years now and he still does this thing were he announces himself before walking into any room we're in, just to make sure he doesn't ever see us kiss.\"Cameron: \"Wish my mother had that system. Remember?\""
+    },
+    {
+      "id": 7,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Phil: \"Little heads up - there's no way I'm not crying at this wedding.\"Claire: \"Phil, you cried on the way here.\"Phil: \"I was on the brink already. I watched 'Dirty Dancing' before we left.\""
+    },
+    {
+      "id": 8,
+      "author": "Jay Pritchett",
+      "series": "modern_family",
+      "quote": "Gloria: \"It seemd like all what we did was fight and make love. One time, I'm not kidding you, we fell out of the window together.\"Jay: \"Which one were you doing?\""
+    },
+    {
+      "id": 9,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "I'm a cool dad. That's my thang. I surf the web... I text LOL - Laugh Out Loud, OMG - Oh My God, WTF - Why The Face."
+    },
+    {
+      "id": 10,
+      "author": "Cameron Tucker",
+      "series": "modern_family",
+      "quote": "Mitchell: \"we've decided we really wanted to have a baby so, we initially asked one of our lesbian friends to be a surrogate.\"Cameron: \"Then we figured, they already mean enough, can you imagine one of them pregnant?\""
+    },
+    {
+      "id": 11,
+      "author": "Claire Dunphy",
+      "series": "modern_family",
+      "quote": "Alex: \"Luke got his head stuck in the banister again.\"Phil: \"I got it. Where's the babyoil?\"Claire: \"It's on our bedside tip- I Don't know, find it!\""
+    },
+    {
+      "id": 12,
+      "author": "Cameron Tucker",
+      "series": "modern_family",
+      "quote": "There are dreamers and there are realists in this world. You'd think the dreamers would find the dreamers and the realists would find the realists, but more often than not the opposite is true. You see, the dreamers need the realists to keep them from soaring too close to the sun. And the realists, well without the dreamers, they might not ever get off the ground."
+    },
+    {
+      "id": 13,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Success is 1% inspiration, 98% perspiration, and 2% attention to detail."
+    },
+    {
+      "id": 14,
+      "author": "Pepper Saltzman",
+      "series": "modern_family",
+      "quote": "Sal: \"Does Lily have any other plates? I don't let Sammy eat off this plastic.\"\nPepper: \"How does she breastfeed him if she doesn't let him near plastic?\""
+    },
+    {
+      "id": 15,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Alex: \"What's Jagermeister?\"\nPhil: \"Well, you know how in a fairytale there's always a potion that makes the princess fall asleep and then the guys start kissing her? Well, this is like that, except you don't wake up in a castle, you wake up in a frat house with a bad reputation.\""
+    },
+    {
+      "id": 16,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Haley: \"Dad, can you just please tell mom, that I can take a two hour break and go to a party?\"Phil: \"No Ma'am, I'm not stepping into that one. We're not playing 'good cop - mom'.'\""
+    },
+    {
+      "id": 17,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "You can tell a lot about a person from his biography."
+    },
+    {
+      "id": 18,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Watch a sunrise at least once a day."
+    },
+    {
+      "id": 19,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "When life gives you lemonade, make lemons. Life will be all like, \"What?!\""
+    },
+    {
+      "id": 20,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Dance, until your feet hurt. Sing, until your lungs hurt. Act, until you're William Hurt."
+    },
+    {
+      "id": 21,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "The most amazing things that can happen to a human being will happen to you, if you just lower your expectations."
+    },
+    {
+      "id": 22,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "If you get pulled over for speeding, tell the policeman your spouse has diarrhea."
+    },
+    {
+      "id": 23,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "Always look people in the eye. Even if they're blind. Just say, 'I am looking you in the eye.'"
+    },
+    {
+      "id": 24,
+      "author": "Phil Dunphy",
+      "series": "modern_family",
+      "quote": "If you love something, set it free. Unless it's a tiger."
+    }
+  ],
+  "moon_knight": [
+    {
+      "id": 1,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "I was in the desert. But if visiting the sands were a crime, the line of sinners would be longer than the Nile."
+    },
+    {
+      "id": 2,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "Archeology. One big mess of obsessive bookworms."
+    },
+    {
+      "id": 3,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "Float like a butterfly, sting like a bee,\nmy name is Steven with a V."
+    },
+    {
+      "id": 4,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "Layla: \"Summon the suit!\"\nSteven: \"Summon the soup? What are you saying?\""
+    },
+    {
+      "id": 5,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "Sometimes, the cure is a little taste of the disease. The difference between medicine and poison sometimes is only dosage."
+    },
+    {
+      "id": 6,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "HR: \"I know this is classic HR to say, but: You're not alone.\"\nSteven: \"Yeah. That's like, part of the problem, innit?\""
+    },
+    {
+      "id": 7,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "Steven Grant: \"I'm not trying to slag off marketing, but there's been a major blunder. Because they've got seven gods here, and the Ennead has nine.\"\nDonna: \"I fired two of them for bein' late. Listen, if you don't stop natterin' at me, I swear I'll shove you in a sarcophagus. You can tell the pharaoh in there what's wrong with them and all.\""
+    },
+    {
+      "id": 8,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "There's chaos in you. Embrace the chaos!"
+    },
+    {
+      "id": 9,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "I wish you could live to see the world we make."
+    },
+    {
+      "id": 10,
+      "author": "Arthur Harrow",
+      "series": "moon_knight",
+      "quote": "I can't tell the difference between my waking life and dreams."
+    }
+  ],
+  "narcos_mexico": [
+    {
+      "id": 1,
+      "author": "Juan Nepomuceno Guerra",
+      "series": "narcos_mexico",
+      "quote": "What a man wants does not define him. What a man needs is what defines him."
+    },
+    {
+      "id": 2,
+      "author": "Pacho Herrera",
+      "series": "narcos_mexico",
+      "quote": "Want to know what God thinks of money? Take a look at who he gives it to."
+    },
+    {
+      "id": 3,
+      "author": "Don Neto",
+      "series": "narcos_mexico",
+      "quote": "Let's have a toast. For the hits life throws our way. With time, they're what make you stronger, young man."
+    },
+    {
+      "id": 4,
+      "author": "Guillermo Gonzalez Calderoni",
+      "series": "narcos_mexico",
+      "quote": "Get the f out of here and don't stop walking until you hear them speak English!"
+    },
+    {
+      "id": 5,
+      "author": "Walt Breslin",
+      "series": "narcos_mexico",
+      "quote": "There is one problem with success. Not everyone can handle it."
+    },
+    {
+      "id": 6,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "Business is changing and we must change with it."
+    },
+    {
+      "id": 7,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "There is no stronger bond than that of the family you choose."
+    },
+    {
+      "id": 8,
+      "author": "Jaime Kuykendall",
+      "series": "narcos_mexico",
+      "quote": "Best way to catch the smart ones? Get an idiot working for them."
+    },
+    {
+      "id": 9,
+      "author": "Don Neto",
+      "series": "narcos_mexico",
+      "quote": "Even in sin, you can still be a saint."
+    },
+    {
+      "id": 10,
+      "author": "Walt Breslin",
+      "series": "narcos_mexico",
+      "quote": "I believe the world's a bad place. And I don't think I'm much better. But we have to try."
+    },
+    {
+      "id": 11,
+      "author": "Pablo Escobar",
+      "series": "narcos_mexico",
+      "quote": "Miguel: \"Would you have really fed me to those hippos?\"\nPablo: \"No. Hippos don't like Mexicans either.\""
+    },
+    {
+      "id": 12,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "We have to control this fing world, or it will control you. And if you don't protect yourself, it makes a mess and breaks you."
+    },
+    {
+      "id": 13,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "When I look at something, I don't see it for what it is, I see it for what it could be. When I look at something, I see how it ends."
+    },
+    {
+      "id": 14,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "What I'm doing here... is building an empire."
+    },
+    {
+      "id": 15,
+      "author": "Don Neto",
+      "series": "narcos_mexico",
+      "quote": "I'm going to tell you something curious about prisons. You're never alone. But you always have the feeling that you are."
+    },
+    {
+      "id": 16,
+      "author": "Juan Nepomuceno Guerra",
+      "series": "narcos_mexico",
+      "quote": "Life is a long journey where maps were drawn by a fool."
+    },
+    {
+      "id": 17,
+      "author": "Don Neto",
+      "series": "narcos_mexico",
+      "quote": "The number two guy doesn't solve problems. He just points them out."
+    },
+    {
+      "id": 18,
+      "author": "Jaime Kuykendall",
+      "series": "narcos_mexico",
+      "quote": "You want to hurt these guys, we gotta take down the ones calling the shots."
+    },
+    {
+      "id": 19,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "Shoot me and tomorrow those names are released. But save a bullet for yourself. Cause the system doesn't like heroes."
+    },
+    {
+      "id": 20,
+      "author": "Guillermo Gonzalez Calderoni",
+      "series": "narcos_mexico",
+      "quote": "You want to dismantle an empire? Divide it!"
+    },
+    {
+      "id": 21,
+      "author": "Walt Breslin",
+      "series": "narcos_mexico",
+      "quote": "So how do you take down a crook who's at the top of his game? Who has every cop in town in his pocket? Well, you hold your breath and you hope you get lucky."
+    },
+    {
+      "id": 22,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "Those men sitting in Mexico City might be done with me, but I'm not done with them."
+    },
+    {
+      "id": 23,
+      "author": "Miguel Angel Felix Gallardo",
+      "series": "narcos_mexico",
+      "quote": "I am afraid of panic. Turns out it's bad for business."
+    },
+    {
+      "id": 24,
+      "author": "Don Neto",
+      "series": "narcos_mexico",
+      "quote": "When you start moving furniture around, people stub their toes and get upset."
+    },
+    {
+      "id": 25,
+      "author": "Walt Breslin",
+      "series": "narcos_mexico",
+      "quote": "Time is crucial in a kidnapping. The sooner action's taken, the better your chances of things working out, and everybody coming home in one piece. They put that in the handbook nowadays."
+    },
+    {
+      "id": 26,
+      "author": "Walt Breslin",
+      "series": "narcos_mexico",
+      "quote": "When things go well, people start thinking it's because they're so fing smart."
+    },
+    {
+      "id": 27,
+      "author": "Walt Breslin",
+      "series": "narcos_mexico",
+      "quote": "Make it easier for those whose vote you can count on. Make it harder for those you can't. That's how you rig an election without leaving a lick of evidence."
+    },
+    {
+      "id": 28,
+      "author": "Walt Breslin",
+      "series": "narcos_mexico",
+      "quote": "The wheels of bureaucracy tend to move at their own speed."
+    },
+    {
+      "id": 29,
+      "author": "Pacho Herrera",
+      "series": "narcos_mexico",
+      "quote": "Either get out early, or you get out too late."
+    }
+  ],
+  "narcos": [
+    {
+      "id": 1,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "I am not a rich person. I am a poor person with money."
+    },
+    {
+      "id": 2,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "The bad guys need to get lucky every time. The good guys just need to get lucky once."
+    },
+    {
+      "id": 3,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "Geniuses are always branded as crazy."
+    },
+    {
+      "id": 4,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "I don't want to be good. I am going to be great."
+    },
+    {
+      "id": 5,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "Imagine you were born in a poor family, in a poor city, in a poor country, and by the time you were 28 years old, you have so much money you can't even count it. What do you do? You make your dreams come true."
+    },
+    {
+      "id": 6,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "Lies are necessary, when the truth is too difficult to believe."
+    },
+    {
+      "id": 7,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "The purpose of war is peace."
+    },
+    {
+      "id": 8,
+      "author": "Tata Escobar",
+      "series": "narcos",
+      "quote": "What good is having all the money in the world if you can't go home?"
+    },
+    {
+      "id": 9,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "Silver or lead. You decide."
+    },
+    {
+      "id": 10,
+      "author": "C� sar Gaviria",
+      "series": "narcos",
+      "quote": "Colombians say, God made our land so beautiful it was unfair to the rest of the world. So to even the score, God populated the land with a race of evil men."
+    },
+    {
+      "id": 11,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "If there's one thing I've learned in the narco world, it's that life is more complicated than you think. Good and bad, they're relative concepts."
+    },
+    {
+      "id": 12,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "Bad guys don't play by the rules. That's what makes them bad."
+    },
+    {
+      "id": 13,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "You can have all the intelligence in the world, but if nobody's there to act on it, what's it worth? Nothing."
+    },
+    {
+      "id": 14,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "When you get too close to the sun, your dreams may melt away."
+    },
+    {
+      "id": 15,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "In Colombia, when money's involved, blood inevitably flows."
+    },
+    {
+      "id": 16,
+      "author": "Steve Murphy",
+      "series": "narcos",
+      "quote": "In the United States, the Mafia makes witnesses disappear so they can't testify in court. In Colombia, Pablo Escobar made the whole court disappear."
+    },
+    {
+      "id": 17,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "The men of always aren't interested in the children of never."
+    },
+    {
+      "id": 18,
+      "author": "Javier Pe�a",
+      "series": "narcos",
+      "quote": "Sometimes you gotta do bad things to catch bad people."
+    },
+    {
+      "id": 19,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "To have power does not mean that one can abuse the poor."
+    },
+    {
+      "id": 20,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "They may separate us, but they'll never be able to destroy us."
+    },
+    {
+      "id": 21,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "I am Pablo Emilio Escobar Gaviria. My eyes are everywhere. That means you guys can't move a finger in all of Antioquia without me knowing about it. Do you understand? Not a finger. One day, I'm going to be president of the Republic of Colombia. So look, I make deals for a living. Now, you can stay calm and accept my deal, or accept the consequences."
+    },
+    {
+      "id": 22,
+      "author": "Pablo Escobar",
+      "series": "narcos",
+      "quote": "There is a time to fight and there is a time to be clever."
+    },
+    {
+      "id": 23,
+      "author": "Pacho Herrera",
+      "series": "narcos",
+      "quote": "As the twig is bent, so grows the tree."
+    }
+  ],
+  "never_have_i_ever": [
+    {
+      "id": 1,
+      "author": "John McEnroe",
+      "series": "never_have_i_ever",
+      "quote": "Harry and Meghan, move over! This is what fairy tales are made of. They'd been together for two whole weeks, which for teenagers is basically a lifetime of monogamy. Although between us, it had been a surprisingly PG-13 two weeks."
+    },
+    {
+      "id": 2,
+      "author": "Fabiola Torres",
+      "series": "never_have_i_ever",
+      "quote": "We are smart. And idiots are banging all the time. We can learn how to do it, too."
+    },
+    {
+      "id": 3,
+      "author": "Fabiola Torres",
+      "series": "never_have_i_ever",
+      "quote": "I want you to allow yourself to aknowledge the pain that you so clearly feel."
+    },
+    {
+      "id": 4,
+      "author": "Fabiola Torres",
+      "series": "never_have_i_ever",
+      "quote": "Having just any boyfriend, no matter who he is, is not going to make you happier or change who you are."
+    },
+    {
+      "id": 5,
+      "author": "Fabiola Torres",
+      "series": "never_have_i_ever",
+      "quote": "I can not believe that a woman who was brave enough to travel halfway around the world to pursue her dreams would allow anyone to dictate who she can be with."
+    },
+    {
+      "id": 6,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "Just keep your nose out of my business and up the teacher's butt where it usually is."
+    },
+    {
+      "id": 7,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "I was pretending to be someone I am not which I should only be doing on stage."
+    },
+    {
+      "id": 8,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "I'm mature enough to be on my own. Now, if you'll excuse me, I'm gonna Google how to buy a credit card."
+    },
+    {
+      "id": 9,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "We just miss our old friend, but right now, you're not her. You just seem lost."
+    },
+    {
+      "id": 10,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "She's a trailblazing Indian diva who marches to the beat of her own drummer."
+    },
+    {
+      "id": 11,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "You fight back with your spirit, little one. You stand up for yourself!"
+    },
+    {
+      "id": 12,
+      "author": "John McEnroe",
+      "series": "never_have_i_ever",
+      "quote": "Aunties are older Indian women who have no blood-relation to you. But are allowed to have opinions about your life and all your shortcomings. And you have to be nice to them because you're Indian."
+    },
+    {
+      "id": 13,
+      "author": "Kamala",
+      "series": "never_have_i_ever",
+      "quote": "I found a Bollywood movie about a princess who falls for a lowly street sweeper. It's only seven hours long."
+    },
+    {
+      "id": 14,
+      "author": "Fabiola Torres",
+      "series": "never_have_i_ever",
+      "quote": "You look like an Indian Kardashian."
+    },
+    {
+      "id": 15,
+      "author": "John McEnroe",
+      "series": "never_have_i_ever",
+      "quote": "Now you may be asking yourself why is sports icon John McEnroe narrating this tale? It'll make sense later I promise."
+    },
+    {
+      "id": 16,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "I don't bring lunch on Tuesdays. It's square pizza day."
+    },
+    {
+      "id": 17,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "It's like, I think about sex 24/7, but I don't really know how to do it. In the movies, you always see the girl kiss her way down the guy's body, but then, she moves off-screen. Is she stopping at the penis or kissing all the way to the foot?"
+    },
+    {
+      "id": 18,
+      "author": "Nalini Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "You better go to your room before I give you a smack. Smacking is still an acceptable punishment in many minority cultures."
+    },
+    {
+      "id": 19,
+      "author": "Devi Vishwakumar",
+      "series": "never_have_i_ever",
+      "quote": "Hey gods, it's Devi Vishwakumar, your favorite Hindu girl in the San Fernando Valley. What's a-poppin'? It's the first day of school, and I thought we should have a check-in. I think we can all agree that last year sucked for a number of reasons. So I thought of a few ways you guys can make it up to me. One: I'd like to be invited to a party with alcohol and hard drugs. I'm not gonna do them, I'd just like the opportunity to say, \"No cocaine for me, thanks. I'm good.\" Two: I'd love for my arm hair to thin out. I know it's an Indian thing, but my forearms look like the frigging floor of a barber shop. And lastly, most importantly, I'd really, really like a boyfriend, but not some nerd from one of my AP classes. Like a guy from a sports team. He can be dumb, I don't care. I just want him to be a stone-cold hottie, who could rock me all night long. Thanks for considering. I love you guys."
+    },
+    {
+      "id": 20,
+      "author": "Kamala",
+      "series": "never_have_i_ever",
+      "quote": "I saw a couple riding a tandem bike, and it made me think of how you don't know how to ride a bike."
+    },
+    {
+      "id": 21,
+      "author": "Kamala",
+      "series": "never_have_i_ever",
+      "quote": "I'm sorry. I've been told before that my light tread is too elegant to be detected by the human ear."
+    }
+  ],
+  "orange_is_the_new_black": [
+    {
+      "id": 1,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "You're a beautiful, sweet girl. Fuck this guy!"
+    },
+    {
+      "id": 2,
+      "author": "Aleida Diaz",
+      "series": "orange_is_the_new_black",
+      "quote": "What do I think love is? It's like when someone makes your stomach feel all tight, but floaty at the same time, you know? And your cheeks hurt from smiling. And you smile so much, that people think something's wrong with you.\n...And also fucking. Twenty-four seven, deep-dick, can't-walk-right fucking."
+    },
+    {
+      "id": 3,
+      "author": "Marisol 'Flaca' Gonzales & Maritza Ramos",
+      "series": "orange_is_the_new_black",
+      "quote": "\"What's love to you?\"\nFlaca: \"It's like getting into a bath, but the water is like warm chocolate pudding. And the Smiths are playing. There Is A Light That Never Goes Out.' There's mood lighting all over, and there's like five dudes massaging you.\"\nMaritza: \"And you have a pizza!\"\nFlaca: \"She's right. You also have a pizza.\""
+    },
+    {
+      "id": 4,
+      "author": "Galina 'Red' Reznikov",
+      "series": "orange_is_the_new_black",
+      "quote": "All I wanted was to eat the chicken that is smarter than other chickens and to absorb it's power."
+    },
+    {
+      "id": 5,
+      "author": "Gloria Mendoza",
+      "series": "orange_is_the_new_black",
+      "quote": "You gotta move...The fuck...On!"
+    },
+    {
+      "id": 6,
+      "author": "Maritza Ramos",
+      "series": "orange_is_the_new_black",
+      "quote": "If I hadn't buried my feelings so deep I would totally be tearing up right now."
+    },
+    {
+      "id": 7,
+      "author": "Tiffany 'Pennsatucky' Doggett",
+      "series": "orange_is_the_new_black",
+      "quote": "Pain is always there cause life is freaking painful, okay?"
+    },
+    {
+      "id": 8,
+      "author": "Galina 'Red' Reznikov",
+      "series": "orange_is_the_new_black",
+      "quote": "I would very much like to return your witty banter, but I am too exhausted to be clever."
+    },
+    {
+      "id": 9,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "I hate it when you talk sometimes. No... all the time."
+    },
+    {
+      "id": 10,
+      "author": "Alex Vause",
+      "series": "orange_is_the_new_black",
+      "quote": "Rule Number One: Don't ever fall in love with a straight girl."
+    },
+    {
+      "id": 11,
+      "author": "Sophia Burset",
+      "series": "orange_is_the_new_black",
+      "quote": "(Love is) pain, horrible pain, that you want again and again."
+    },
+    {
+      "id": 12,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "You need to figure out what the fuck you want."
+    },
+    {
+      "id": 13,
+      "author": "Brook Soso",
+      "series": "orange_is_the_new_black",
+      "quote": "I'm not surviving, I'm just existing."
+    },
+    {
+      "id": 14,
+      "author": "Alex Vause",
+      "series": "orange_is_the_new_black",
+      "quote": "I'm pretty much the master of handling things completely wrong."
+    },
+    {
+      "id": 15,
+      "author": "Alex Vause",
+      "series": "orange_is_the_new_black",
+      "quote": "Well, I think that... when you have a connection with someone, it never really goes away, you know?"
+    },
+    {
+      "id": 16,
+      "author": "Maria Ruiz",
+      "series": "orange_is_the_new_black",
+      "quote": "It's like...It's like I'm a fucked-up-shit magnet."
+    },
+    {
+      "id": 17,
+      "author": "Dayanara Diaz",
+      "series": "orange_is_the_new_black",
+      "quote": "Stop crying. Remember? Crying makes you ugly and weak."
+    },
+    {
+      "id": 18,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "If you want my advice? Get out of your own goddamn drama for a minute."
+    },
+    {
+      "id": 19,
+      "author": "Big Boo",
+      "series": "orange_is_the_new_black",
+      "quote": "Jesus was a fag! He said: 'This is my body. Eat me.'"
+    },
+    {
+      "id": 20,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "I hate kids. They don't drink, they haven't travelled..."
+    },
+    {
+      "id": 21,
+      "author": "Suzanne Warren",
+      "series": "orange_is_the_new_black",
+      "quote": "I am not crazy. I am unique."
+    },
+    {
+      "id": 22,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "There's always hope tomorrow'll be taco night."
+    },
+    {
+      "id": 23,
+      "author": "Larry Bloom",
+      "series": "orange_is_the_new_black",
+      "quote": "Larry Bloom: \"Are we at least gonna talk about other options?\"Piper Chapman: \"You mean...\"Larry Bloom: \"It's not Voldemort, you can say it. Abortion.\""
+    },
+    {
+      "id": 24,
+      "author": "Piper Chapman",
+      "series": "orange_is_the_new_black",
+      "quote": "Larry Bloom: \"Piper, you put a pee stick in my rinsing cup.\"Piper Chapman: \"Well, you put your pee stick in my vagina. And that's why we're in this situation.\""
+    },
+    {
+      "id": 25,
+      "author": "Susan Fischer",
+      "series": "orange_is_the_new_black",
+      "quote": "The only difference between us is, when I made bad decisions in life, I didn't get caught."
+    },
+    {
+      "id": 26,
+      "author": "Joe Caputo",
+      "series": "orange_is_the_new_black",
+      "quote": "Joe Caputo: \"You ever notice how some dog breeds, they sound kind of dirty? Like, shih tzu, cocker, Jack-something.\"Susan Fischer: \"Poodle.\"Joe Caputo: \"That is good, I didn't think of that one.\""
+    },
+    {
+      "id": 27,
+      "author": "Larry Bloom",
+      "series": "orange_is_the_new_black",
+      "quote": "Or I look single, 34 and single, which must mean there's something wrong with me. Like, you keep large reptiles in tanks, or I have a very special relationship with my mother."
+    },
+    {
+      "id": 28,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "Piper: \"Not every Hispanic person wants the same thing.\"Lorna: \"Oh, sure they do. They all want to come to America.\"Nicky: \"Jesus, your entire world view is based on 'West Side Story', isn't it?\""
+    },
+    {
+      "id": 29,
+      "author": "Nicky Nichols",
+      "series": "orange_is_the_new_black",
+      "quote": "She's gotta start working on tightening her pussy muscles, 'cause her fiance's dick is so small, it's like a hot dog in a hallway."
+    },
+    {
+      "id": 30,
+      "author": "Piper Chapman",
+      "series": "orange_is_the_new_black",
+      "quote": "Sam Healy: \"It's popular fiction. It's like global warming or female ejaculation.\"Piper: \"No! No. No, it's not. This is real.\"Sam Healy: \"How is it real? Wait, which?\"Piper: \"The chicken. And the... the chicken.\""
+    },
+    {
+      "id": 31,
+      "author": "George 'Pornstache' Mendez",
+      "series": "orange_is_the_new_black",
+      "quote": "What the hell is the matter with you? You tryin' out for the retard Olympics?"
+    },
+    {
+      "id": 32,
+      "author": "Galina 'Red' Reznikov",
+      "series": "orange_is_the_new_black",
+      "quote": "Red: \"Black girls hear about a chicken, of course this will happen.\"Piper: \"Why, because all black people love chicken?\"Red: \"Don't be racist. Because they're all on heroin, and somebody's been telling them there's heroin in the chicken.\""
+    },
+    {
+      "id": 33,
+      "author": "George 'Pornstache' Mendez",
+      "series": "orange_is_the_new_black",
+      "quote": "Pornstache: \"You are not an agent of God, okay? God can do so much better than you. You must know that, right?\"Pennsatucky: \"Know what?\"Pornstache: \"Jesus Christ, how the fuck did you survive infancy?\"Pennsatucky: \"My auntie helped my momma...\"Pornstache: \"That's a rhetorical question! Do you not understand what a fucking rhetorical question is?\""
+    },
+    {
+      "id": 34,
+      "author": "Tiffany 'Pennsatucky' Doggett",
+      "series": "orange_is_the_new_black",
+      "quote": "Pennsatucky: \"It weren't my fault. I was just doing as the Spirit commanded.\"Pussey: \"Fuck are you? Joan of Arc?\"Pennsatucky: \"No, I'm from Waynesboro, my name is Tiffany...\""
+    },
+    {
+      "id": 35,
+      "author": "Lorna Morello",
+      "series": "orange_is_the_new_black",
+      "quote": "Lorna Morello: \"I need to start tightening up. You're making me feel like a cave.\"\nNicky Nichols: \"Baby, it's a c-nt, it stretches!\"\nLorna Morello: \"Yeah, sometimes I feel like you're trying to climb inside my womb.\""
+    },
+    {
+      "id": 36,
+      "author": "Galina 'Red' Reznikov",
+      "series": "orange_is_the_new_black",
+      "quote": "I'm missing half my zucchini. These girls don't realize I'm here to provide food, not dildos."
+    },
+    {
+      "id": 37,
+      "author": "Larry Bloom",
+      "series": "orange_is_the_new_black",
+      "quote": "Well, I'm just gonna go jerk off then. For the 500th time today."
+    },
+    {
+      "id": 38,
+      "author": "Larry Bloom",
+      "series": "orange_is_the_new_black",
+      "quote": "Guard: \"Inmate, step away from the machine.\"Larry: \"He just called you 'inmate'.\"Guard: \"You too, sir.\"Larry: \"Sorry.\""
+    },
+    {
+      "id": 39,
+      "author": "Piper Chapman",
+      "series": "orange_is_the_new_black",
+      "quote": "Honey, don't you think the little rocks would hurt your nose, if you're trying to snort crack? I think you mean coke."
+    },
+    {
+      "id": 40,
+      "author": "Piper Chapman",
+      "series": "orange_is_the_new_black",
+      "quote": "Look, I found a rock that looks like a penis with one ball. It's my Lance Armstrong rock."
+    },
+    {
+      "id": 41,
+      "author": "Piper Chapman",
+      "series": "orange_is_the_new_black",
+      "quote": "Oh my God, Larry, by the time I get out, there will've been like three new generations of iPhones!"
+    },
+    {
+      "id": 42,
+      "author": "Larry Bloom",
+      "series": "orange_is_the_new_black",
+      "quote": "Larry: \"Where would you like me to put it then, Piper?\"Piper: \"Up your ass.\"Larry: \"There's no room. Apparently, my head's already up there.\""
+    },
+    {
+      "id": 43,
+      "author": "Piper Chapman",
+      "series": "orange_is_the_new_black",
+      "quote": "Come on, we gotta rally. Make some memories."
+    },
+    {
+      "id": 44,
+      "author": "Pete Harper",
+      "series": "orange_is_the_new_black",
+      "quote": "Larry: \"She's guilty she's leaving. It's a guilt pig roasting box.\"Pete: \"At least you get something. I'm not getting laid for a year too. But what do I get?\"Larry: \"A baby?\"Pete: \"You can't eat it.\""
+    }
+  ],
+  "ozark": [
+    {
+      "id": 1,
+      "author": "Charlotte Byrde",
+      "series": "ozark",
+      "quote": "Wyatt Langmore: \"This job's my old man's idea. Something about 'calluses and character'.\"\nCharlotte Byrde: \"Yeah, well, you're blowing leaves, not hiding Anne Frank.\""
+    },
+    {
+      "id": 2,
+      "author": "Marty Byrde",
+      "series": "ozark",
+      "quote": "A family is like a small business. And with a small business, at times, there comes a bit of transition."
+    },
+    {
+      "id": 3,
+      "author": "Marty Byrde",
+      "series": "ozark",
+      "quote": "Money. That's what seperates the haves from the have-nots. But what is money? It's everything if you don't have it, right?"
+    },
+    {
+      "id": 4,
+      "author": "Marty Byrde",
+      "series": "ozark",
+      "quote": "Money is not peace of mind. Money is not happiness. Money is, at its essence, that measure of a man's choices."
+    },
+    {
+      "id": 5,
+      "author": "Grace Young",
+      "series": "ozark",
+      "quote": "God wasn't protecting you. The kid had shitty aim."
+    },
+    {
+      "id": 6,
+      "author": "Jacob Snell",
+      "series": "ozark",
+      "quote": "Man cannot tame what God wishes to be wild."
+    },
+    {
+      "id": 7,
+      "author": "Marty Byrde",
+      "series": "ozark",
+      "quote": "You sentimentalize property, you can kiss profits goodbye."
+    },
+    {
+      "id": 8,
+      "author": "Marty Byrde",
+      "series": "ozark",
+      "quote": "People deserve a second chance, just like businesses."
+    },
+    {
+      "id": 9,
+      "author": "Marty Byrde",
+      "series": "ozark",
+      "quote": "We are not husband and wife... anymore. We're just business partners. And our job is to raise those kids."
+    },
+    {
+      "id": 10,
+      "author": "Marty Byrde",
+      "series": "ozark",
+      "quote": "Sometimes people make decisions, shit happens, and we gotta act accordingly."
+    },
+    {
+      "id": 11,
+      "author": "Bruce Liddell",
+      "series": "ozark",
+      "quote": "Financial adviser's not my dream job, but I am taking a fing bite out of the apple."
+    }
+  ],
+  "peaky_blinders": [
+    {
+      "id": 1,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "Grace: \"I had the phone put in. It's in the back.\"\nTommy: \"If we knew someone else who had a phone, we could call them.\""
+    },
+    {
+      "id": 2,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "Freddie: \"You think I can't handle Tommy Shelby?\"\nPolly: \"You can't. I am having trouble these days and I'm twice the man you are.\""
+    },
+    {
+      "id": 3,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "Freddie Thorne: \"What kind of a list would have the name of a communist and the name of a bookmaker side by side?\"\nThomas Shelby: \"Perhaps it's a list of men who give false hope to the poor.\""
+    },
+    {
+      "id": 4,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "Grace Burgess: \"You think I am a wh-re?\"\nTommy Shelby: \"Everyone's a wh-re, Grace. We just sell different parts of ourselves.\""
+    },
+    {
+      "id": 5,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "May: \"May Carleton. I breed racehorses and train them. What is it you do?\"\nThommy: \"I rarely answer questions is what I do.\""
+    },
+    {
+      "id": 6,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "The soldier's minute. In a battle that's all you get. One minute of everything at once. And anything before it nothing. Everything after, nothing. Nothing in comparison to that one minute."
+    },
+    {
+      "id": 7,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "You can never tell with men. They go for whoever their dcks point at and there's no changing their minds."
+    },
+    {
+      "id": 8,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "There's only one thing that could blind a man as smart as you, Tommy. Love."
+    },
+    {
+      "id": 9,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "Freddie: \"If you want me out of Birmingham, it'll have to be in a wooden box.\"\nPolly: \"You lay a hand on our Ada, I'll put you in a wooden box myself!\""
+    },
+    {
+      "id": 10,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "Men and their d-cks never cease to amaze me. John, Lizzie Stark never did a day's work vertical.\nBrave is going where no man has gone before. And with Lizzie Stark, John, that's not what you'll be doing."
+    },
+    {
+      "id": 11,
+      "author": "Chester Campbell",
+      "series": "peaky_blinders",
+      "quote": "The end of a rope has been this man's destiny since the night he was born."
+    },
+    {
+      "id": 12,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "Tommy: \"I'll have some men watch her house 'til the danger passes.\"\nPolly: \"'Til the danger passes. That'll be the bloody day.\""
+    },
+    {
+      "id": 13,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "Whisky's good proofing water. Tells you who's real and who isn't."
+    },
+    {
+      "id": 14,
+      "author": "Ada Thorne",
+      "series": "peaky_blinders",
+      "quote": "Freddie: \"Are you mad?\"\nAda: \"Yeah. Mad as hell with all of them.\""
+    },
+    {
+      "id": 15,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "You don't parley when you're on the back foot. We'll strike a blow back first."
+    },
+    {
+      "id": 16,
+      "author": "Chester Campbell",
+      "series": "peaky_blinders",
+      "quote": "We will take them before last night's beer turns to piss."
+    },
+    {
+      "id": 17,
+      "author": "Chester Campbell",
+      "series": "peaky_blinders",
+      "quote": "The Peaky Blinders. The vicious, merciless gangs who blind those who see and cut out the tongues of those who talk."
+    },
+    {
+      "id": 18,
+      "author": "Arthur Shelby",
+      "series": "peaky_blinders",
+      "quote": "You see, ladies? When you're out with a Blinder, you don't have to queue."
+    },
+    {
+      "id": 19,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "You have your mother's common sense, but your father's devilment. I see them fighting. Let your mother win!"
+    },
+    {
+      "id": 20,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "Polly: \"Six.\"\nJohn: \"Six what?\"\nPolly: \"Six questions since you walked through that door. Soon you'll have to start being the man with the answers.\"\nJohn: \"Why?\"\nPolly: \"Seven.\""
+    },
+    {
+      "id": 21,
+      "author": "Polly Gray",
+      "series": "peaky_blinders",
+      "quote": "You have to be as bad as them above in order to survive."
+    },
+    {
+      "id": 22,
+      "author": "Alfie Solomons",
+      "series": "peaky_blinders",
+      "quote": "Never give power to the big man."
+    },
+    {
+      "id": 23,
+      "author": "Irene O'Donnell",
+      "series": "peaky_blinders",
+      "quote": "In all the world, violent men are the easiest to deal with."
+    },
+    {
+      "id": 24,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "All religion is a foolish answer to a foolish question."
+    },
+    {
+      "id": 25,
+      "author": "Ada Thorne",
+      "series": "peaky_blinders",
+      "quote": "America, Freddie. They've already had their revolution, you won't have to bother."
+    },
+    {
+      "id": 26,
+      "author": "Chester Campbell",
+      "series": "peaky_blinders",
+      "quote": "You and I are opposites but also just the same. Like an image in a mirror. We hate people and they in turn hate us. And fear us."
+    },
+    {
+      "id": 27,
+      "author": "Thomas Shelby",
+      "series": "peaky_blinders",
+      "quote": "Sometimes it lasts all night. And I lie here and I listen to the shovels, and the picks against that wall there. And I pray the sun will come up at the curtains before they break through. No, I don't pray. I hope. And sometimes it happens. The sun beats them. But mostly the shovels beat the sun."
+    }
+  ],
+  "rick_and_morty": [
+    {
+      "id": 1,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Rick: \"Just do a Die Hard!\"\nSummer: \"What does that mean?\"\nRick: \"Sneak around! Use air vents! You've never seen Die Hard?\"\nSummer: \"I'm 17. No, I've never seen Die Hard.\"\nRick: \"Well, neither did the guy in Die Hard.\""
+    },
+    {
+      "id": 2,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Rick: \"Wait a minute! Is that Mountain Dew in my quantum-transport-solution?\"\nMorty: \"I saw you were marking the level so I had to top it off.\"\nRick: \"Top it off? Do you know how dangerously toxic this stuff is? And you added it to my portal fluid?\""
+    },
+    {
+      "id": 3,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "You don't get to tell anyone what's sad. You're like a one-man Mount Sadmore. So I guess like a Lincoln Sadmorial."
+    },
+    {
+      "id": 4,
+      "author": "Summer Smith",
+      "series": "rick_and_morty",
+      "quote": "No voting, no debate. It's not a democracy - it's a Rickpublic!"
+    },
+    {
+      "id": 5,
+      "author": "Morty Smith",
+      "series": "rick_and_morty",
+      "quote": "Summer: \"I think it's in our best interest to work as a team.\"\nMorty: \"Yeah, most people would call that 'family'.\""
+    },
+    {
+      "id": 6,
+      "author": "Beth Smith",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"Mom, I have a friend coming over. Is that cool?\"\nBeth: \"I told your sister no parties.\"\nMorty: \"It's one friend.\"\nBeth: \"That's a party to you.\""
+    },
+    {
+      "id": 7,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Jerry: \"Space sperm? Sperm from... space?\"\nRick: \"Very impressive verbal forensic work, Jerry.\""
+    },
+    {
+      "id": 8,
+      "author": "Beth Smith",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"You were a teenager when dad got you pregnant!\"\nBeth: \"I was 17. That's at least 26 in boy years.\""
+    },
+    {
+      "id": 9,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Planetina: \"Your acid rain is an acid pain... in the butt, Diesel Wiesel!\"\nRick: \"Yikes! Who's the chick in need of a dialogue pass?\""
+    },
+    {
+      "id": 10,
+      "author": "Morty Smith",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"Rick, when you say you made an exact replica of the house, did you mean, like, an exact replica?\"\nRick: \"I know about the Yosemite T-Shirt, Morty.\"\nMorty: \"Shit.\"\nRick: \"You know you can use tissues, right?\"\nMorty: \"I can't finish without it!\""
+    },
+    {
+      "id": 11,
+      "author": "Jessica",
+      "series": "rick_and_morty",
+      "quote": "Time without purpose is a prison."
+    },
+    {
+      "id": 12,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Mr. Nimbus: \"Say goodbye to your precious dry land! For soon it will be wet!\"\nRick: \"Yeah, global warming is already doing that. But sure, yeah, go for it. Make us slightly more wet.\""
+    },
+    {
+      "id": 13,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Those called \"fools\" are the only ones brave enough to see the truth."
+    },
+    {
+      "id": 14,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"So, time moves faster in there? Is it like a Narnia thing?\"\nRick: \"I'm not a beaver who believes in Jesus Christ, Morty. But yeah, it's pretty much a Narnia thing.\""
+    },
+    {
+      "id": 15,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "I wouldn't lie to you. Well... that's a lie."
+    },
+    {
+      "id": 16,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Summer: \"Someone out there is trying to kill us.\"\nRick: \"Someone's always trying to kill us.\""
+    },
+    {
+      "id": 17,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"I have English homework.\"\nRick: \"You're still learning English? It's the language you speak. How dumb are you?\""
+    },
+    {
+      "id": 18,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Jerry: \"Rick! Beth! You love me after all!\"\nRick: \"Eh, I love her, she loves you. Those credits don't transfer.\""
+    },
+    {
+      "id": 19,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"What are they mad at you for, anyway?\"\nRick: \"Well, we're talking about me. It could be anything.\""
+    },
+    {
+      "id": 20,
+      "author": "Mr. Nimbus",
+      "series": "rick_and_morty",
+      "quote": "Richard, you have desecrated the sacred treaty betwixt land and sea. Now face the wrath of your once and eternal foe - Mr. Nimbus!"
+    },
+    {
+      "id": 21,
+      "author": "Jessica",
+      "series": "rick_and_morty",
+      "quote": "I had nothing but time. Endless time. At first, it was madness. Then enlightment. Then madness again. But perhaps it was a gift. I could see the life of time. And as I watched the life of time in all its fleeting, terrible light, I wondered, had I lived? Was I just the object in another's story? Was that all I ever was? Could I be more? I had nothing but time and still no answer. Time without purpose is a prison. I have glimpsed into the mind of eternity. Perhaps the mind of God. And found nothing but silence."
+    },
+    {
+      "id": 22,
+      "author": "Summer Smith",
+      "series": "rick_and_morty",
+      "quote": "Camping is just being homeless... without the change."
+    },
+    {
+      "id": 23,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"I don't deserve this. I was just having fun.\"\nRick: \"So was Jeffrey Dahmer.\""
+    },
+    {
+      "id": 24,
+      "author": "Morty Smith",
+      "series": "rick_and_morty",
+      "quote": "If I'm always looking back, I'm never looking ahead. We are who we are because of consequences. You can't live without consequences."
+    },
+    {
+      "id": 25,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Alien: \"I was just reading you.\"\nRick: \"Congratulations on making it into print media. Real bright future there.\""
+    },
+    {
+      "id": 26,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "You don't get to tell me what to look at, I've seen your Pornhub account! Also, who makes a Pornhub account?"
+    },
+    {
+      "id": 27,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Sorry, got caught up again. God, do I need to take more Adderall or am I taking too much Adderall?"
+    },
+    {
+      "id": 28,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"I don't like how meta this is getting, Rick.\"\nRick: \"Shut up, Morty, you're 14. You watch videos of people on YouTube reacting to fing YouTube. I'll be the judge of when we get too meta.\""
+    },
+    {
+      "id": 29,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"Mom told me she wanted me to stay here to make sure you didn't die.\"\nJerry: \"Well, you tell your mother that I'm gonna be fine.\"\nRick: \"Don't train your child to lie, Jerry.\""
+    },
+    {
+      "id": 30,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"I'm dying, Rick!\"\nRick: \"People who are really dying don't keep bringing it up.\"\nMorty: \"Is that true?\"\nRick: \"I don't know. I'm just usually around people that die faster.\""
+    },
+    {
+      "id": 31,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"Why don't you admit you don't want anyone else to be happy because you're a sad old fart?\"Rick: \"How do you saddle a fart?\""
+    },
+    {
+      "id": 32,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Dragon: \"My name is Balthromaw. Breaker of skies, slayer of mountain.\"\nRick: \"Rule 1: You're now scooper of your own poops, or I will take you down like the black-light poster you are.\""
+    },
+    {
+      "id": 33,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "You know who's into dragons, Morty? Nerds who refuse to admit they're Christian."
+    },
+    {
+      "id": 34,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Rick: \"Guests are fans, Morty, which we are not. We'd like professional badges.\"\n\"Do you have a crew?\"\nRick: \"Yes. He's a getaway driver with Asperger's and my butt is a demolitions expert.\""
+    },
+    {
+      "id": 35,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Now if you'll excuse me, I've got a quick solo adventure to go on - and this one will not be directed by Ron Howard."
+    },
+    {
+      "id": 36,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Oh, boy, so you actually learned something today? What is this, Full House?"
+    },
+    {
+      "id": 37,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"You're really this pissed about my mum making sure I'm okay with our adventures?\"\nRick: \"What's next, Morty? What if I want you to jump off the Empire State Building? I have to ask?\""
+    },
+    {
+      "id": 38,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Rick: \"Hey Morty, quick favor.\"Morty: \"What, cover me in gasoline and spiders? Fine, yeah, I'm in.\"Rick: \"Wasn't my first pitch but hey, not gonna waste this opportunity.\""
+    },
+    {
+      "id": 39,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "So you're mining stuff to craft with and crafting stuff to mine with? Did your dad write this game?"
+    },
+    {
+      "id": 40,
+      "author": "Summer Smith",
+      "series": "rick_and_morty",
+      "quote": "Summer: \"It is a hot photo. I think grief flushes her cheeks. Dad, you hardly put any sirup on.\"Beth: \"Honey, stop raising your father's colesterol so you can take a hot funeral selfie.\"Summer: \"I never get to do anything.\""
+    },
+    {
+      "id": 41,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "I know that new situations can be intimidating. You look around, and it's all scary and different. But meeting them head-on, charging right into them like a bull, that's how we grow as people."
+    },
+    {
+      "id": 42,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "You're both young, you're both unsure about your place in the universe, and you both want to be Grandpa's favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen - I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa's concerned, you're both pieces of sh-! Yeah, I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways."
+    },
+    {
+      "id": 43,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Weddings are basically funerals with cake."
+    },
+    {
+      "id": 44,
+      "author": "Morty Smith",
+      "series": "rick_and_morty",
+      "quote": "Nobody exists on purpose. Nobody belongs anywhere. We're all going to die. Come watch TV?"
+    },
+    {
+      "id": 45,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty: \"Rick, can we not leave without my sister?\"\nRick: \"Ugh. You have infinite sisters, Morty. Not that I want to spend the rest of my day looking for another one. Sum-Sum, let's go! Grandpa's concern for your safety is fleeting.\""
+    },
+    {
+      "id": 46,
+      "author": "Morty Smith",
+      "series": "rick_and_morty",
+      "quote": "Jessica: \"I miss you.\"\nMorty: \"You miss the old me. You miss someone that loved you so much, you never had to love him back.\""
+    },
+    {
+      "id": 47,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Rick: \"If it's all the same, could we still get our stories straight? Because you're a terrible liar.\"Jerry: \"You called me a master convincer!\"Rick: \"You believed me?\""
+    },
+    {
+      "id": 48,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "So you're half cold, unfeeling reptile, half also cold, equally unfeeling machine? Wow, so your origin is what? You fell into a vat of redundancy?"
+    },
+    {
+      "id": 49,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "What about the reality where Hitler cured cancer, Morty? The answer is: don't think about it."
+    },
+    {
+      "id": 50,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "A dad makes a toilet look like R2-D2 and it breaks the front page of Reddit. But I'm Charles Manson because I gave you your own world instead of an iPad."
+    },
+    {
+      "id": 51,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Morty, he's not gonna donate. You're pitching the police men's ball to a black teenager here."
+    },
+    {
+      "id": 52,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "To live is to risk it all. Otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you."
+    },
+    {
+      "id": 53,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "There's no such thing as a bad idea, Morty. It's about execution."
+    },
+    {
+      "id": 54,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Rick: \"F you, Summer! And f the government. And f me for letting my car down, which I will never do again.\"\nMorty: \"Jeez, Rick. You can't say FU to your grand-daughter!\"\nRick: \"I just did, Morty. Here's dessert: F you!\""
+    },
+    {
+      "id": 55,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "You ever hear about Wall Street, Morty? You know what those guys do in their fancy boardrooms? They take their balls and they dip them in cocaine and wipe them all over each other."
+    },
+    {
+      "id": 56,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Jerry: \"Well, traditionally, science faires are a father-son thing.\"\nRick: \"Well, scientifically, traditions are an idiot thing.\""
+    },
+    {
+      "id": 57,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "You're not gonna believe this because it usually never happens, but I made a mistake!"
+    },
+    {
+      "id": 58,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Listen, Morty. I hate to break it to you, but what people call 'Love' is just a chemical reaction that compells animals to breed. It hits hard, Morty, then it slowly fades."
+    },
+    {
+      "id": 59,
+      "author": "Beth Smith",
+      "series": "rick_and_morty",
+      "quote": "Jerry: \"I wish that shotgun was my penis.\"Beth: \"If it were, you could call me Ernest Hemingway.\""
+    },
+    {
+      "id": 60,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Sometimes science is more art than science."
+    },
+    {
+      "id": 61,
+      "author": "Beth Smith",
+      "series": "rick_and_morty",
+      "quote": "Beth: \"Do you want homeless people to have homes?\"\nJerry: \"Yes.\"\nBeth: \"Are you gonna build them?\"\nJerry: \"No.\"\nBeth: \"Then what good was the 'yes'?\""
+    },
+    {
+      "id": 62,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Jerry: \"You don't, by any chance, have some sort of crazy science thing you could wrap up, that might help make this dog a little smarter?\"Rick: \"I thought the whole point of having a dog was to feel superior, Jerry. If I were you, I wouldn't pull that thread.\""
+    },
+    {
+      "id": 63,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "I thought I was the inventor, but the greatest invention of all is the free gift of eternal life."
+    },
+    {
+      "id": 64,
+      "author": "Rick Sanchez",
+      "series": "rick_and_morty",
+      "quote": "Everyone pretend podcasting isn't boring!"
+    },
+    {
+      "id": 65,
+      "author": "Morty Smith",
+      "series": "rick_and_morty",
+      "quote": "You're like Hitler! But even Hitler cared about Germany or something."
+    },
+    {
+      "id": 66,
+      "author": "Rick and Morty",
+      "series": "rick_and_morty",
+      "quote": "Jerry: \"Why Florida?\"\nCat: \"Because they don't ask questions. They play Volleyball, they party and they have fun.\""
+    }
+  ],
+  "sex_education": [
+    {
+      "id": 1,
+      "author": "Maeve Wiley",
+      "series": "sex_education",
+      "quote": "Aimee: \"Did you know you need, like, sugar and flour and an oven to bake? And you don't shove it all in, you have to follow alle these rules.\"\nMaeve: \"Yeah, it's called a recipe.\""
+    },
+    {
+      "id": 2,
+      "author": "Aimee Gibbs",
+      "series": "sex_education",
+      "quote": "Cum is kind of like a penis having a sneeze. Ugh, that means when you swallow someone's cum, it's like eating their snot."
+    },
+    {
+      "id": 3,
+      "author": "Otis Milburn",
+      "series": "sex_education",
+      "quote": "Sometimes, the people we like don't like us back, and it's painful, but there's nothing we can do about it. I know what it's like when someone doesn't feel the same way about you. Someone you can't stop thinking about. It hurts. But you can't make people like you. Love isn't about grand gestures, or the moon and the stars. It's just dumb luck. And sometimes, you meet someone who feels the same way. And then sometimes, you're unlucky. But one day, you're gonna meet someone who appreciates you for who you are. I mean, there's seven billion people on the planet. I know one of them is gonna climb up on a moon for you."
+    },
+    {
+      "id": 4,
+      "author": "Eric Effiong",
+      "series": "sex_education",
+      "quote": "Knowledge is power, power is status and status means popular."
+    },
+    {
+      "id": 5,
+      "author": "Dr. Jean Milburn",
+      "series": "sex_education",
+      "quote": "I'm really sorry if I gave you the wrong impression. I'm not interested in dating anyone. I'm extremly busy with work and raising my son, and I just have no room in my life for the kind of intimacy you are clearly craving. But I really comment you on your directness and your bravado and I really hope that you find what you're looking for. Goodbye, now."
+    },
+    {
+      "id": 6,
+      "author": "Otis Milburn",
+      "series": "sex_education",
+      "quote": "Be proud of your penis and your heritage. 'Cause neither are going anywhere. You should work with what you've got."
+    },
+    {
+      "id": 7,
+      "author": "Maeve Wiley",
+      "series": "sex_education",
+      "quote": "Adam: \"Three viagras.\"Maeve: \"Jesus Christ.\"Adam: \"You said there was gonna be no judgement. Is three viagras bad? Her reaction made it seem like it was bad. I feel lightheaded and I can taste scampi.\"Maeve: \"No wonder. You could besiege a castle with that thing.\"Adam: \"I said stop staring at it!\"Maeve: \"Sorry, it's like a third leg.\""
+    }
+  ],
+  "squid_game": [
+    {
+      "id": 1,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "Because there's no way watching it can be more fun than playing it yourself."
+    },
+    {
+      "id": 2,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "Just in case either of us can actually make it out of this hellhole somehow, we'll look after each other's loved ones, okay?"
+    },
+    {
+      "id": 3,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "Do you know what someone with no money has in common with someone with too much money? Living is no fun for them. If you have too much money, no matter what you buy, eat, or drink, everything gets boring in the end."
+    },
+    {
+      "id": 4,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "If we say some prayers, do we all get to go to heaven? I should really pray too if that's how easy it is. Our God who art in Heaven, we worked as a team to send people to your side. And we sent a bunch of them today. And please help us with a whole lot more to be with you."
+    },
+    {
+      "id": 5,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "Do you still trust people? Even after what you've been through?"
+    },
+    {
+      "id": 6,
+      "author": "Jang Deok-su",
+      "series": "squid_game",
+      "quote": "Mi-nyeo: \"Deok-su. You betray me... I'll kill you. Okay?\"\nDeok-su: \"You're the reason that I think I might die tonight.\""
+    },
+    {
+      "id": 7,
+      "author": "Jang Deok-su",
+      "series": "squid_game",
+      "quote": "Remember. Once they find out who you are, you die."
+    },
+    {
+      "id": 8,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "The star sounds great. Good with me. Besides, nobody really sees many stars these days."
+    },
+    {
+      "id": 9,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "Growing up, I'd always lose my umbrella so my mom would get angry. So then, she gave me broken ones to bring to school."
+    },
+    {
+      "id": 10,
+      "author": "Cho Sang-woo",
+      "series": "squid_game",
+      "quote": "I think it would put us at a disadvantage if we just choose one. There's this saying in investing, \"Try not to keep your eggs in the same basket.\""
+    },
+    {
+      "id": 11,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "Oh Il-nam: \"As a kid, I'm willing to bet you got spanked a lot.\"\nSeong Gi-hun: \"How did you know?\"\nOh Il-nam: \"My son did too. He was just like you, friend.\""
+    },
+    {
+      "id": 12,
+      "author": "Oh Il-nam",
+      "series": "squid_game",
+      "quote": "Jang Deok-su: \"Tell me what you're good at?\"\nHan Mi-nyeo: \"Everything, except the things I can't do.\""
+    },
+    {
+      "id": 13,
+      "author": "Jang Deok-su",
+      "series": "squid_game",
+      "quote": "Didn't you notice? Those jerks with masks came in and removed the beds of the people who died. Make on mistake out there, and yours is next."
+    },
+    {
+      "id": 14,
+      "author": "Jang Deok-su",
+      "series": "squid_game",
+      "quote": "It doesn't matter how tough you are, you're not going to win in this place. Not on your own."
+    },
+    {
+      "id": 15,
+      "author": "Jang Deok-su",
+      "series": "squid_game",
+      "quote": "Out there, I don't stand a chance. I do in here."
+    },
+    {
+      "id": 16,
+      "author": "Jang Deok-su",
+      "series": "squid_game",
+      "quote": "If you wish to give up on playing, the 25.5 billion won will be sent to the bereaved families of the late players."
+    },
+    {
+      "id": 17,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "Man: \"Hello, sir. Can I talk to you?\"\nGi-hun: \"I don't believe in Jesus.\""
+    },
+    {
+      "id": 18,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "These days, even women go to war. I mean, when you finally get older, there's not gonna be that kind of discrimination like we got now."
+    },
+    {
+      "id": 19,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "Dad, you can be in all of the fights that you want, but don't get hurt too bad."
+    },
+    {
+      "id": 20,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "In my town, we had a game called the \"Squid Game\". We called it that because it's played in a court shaped like a squid. The rules are simple. Children are divided into two groups, the offense and the defense. Once the game starts, the defense can run around on two feet within bounds, while the offense outside the lines are only allowed to hop on one foot. But if an attacker cuts through the waist of the squid passing defense, then they are given freedom to use both feet. Inspector royal. For whatever reason we called that the inspector royal. In order to win, the attackers must tap the small closed-off space on the squid's head with their foot. But if someone on the defense manages to push you outside of the squid's boundaries, you die. Once you tap the squid's head, you win and yell out, \"Victory\". At that moment, I felt as if I owned the entire world, exhilarated."
+    },
+    {
+      "id": 21,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "Among all the games that kids played back then, it was the most physical and violent."
+    },
+    {
+      "id": 22,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "Animal instinct. When faced with danger, seek refuge in the herd."
+    },
+    {
+      "id": 23,
+      "author": "Seong Gi-hun",
+      "series": "squid_game",
+      "quote": "A feeling of unresolved resentment against injustices suffered, a sense of helplessness because of the overwhelming odds against one, a feeling of acute pain in one's guts and bowels, making the whole body writhe and squirm, and an obstinate urge to take revenge and to right the wrong - all these combined."
+    }
+  ],
+  "stranger_things": [
+    {
+      "id": 1,
+      "author": "Dustin Henderson",
+      "series": "stranger_things",
+      "quote": "People say Hawkins is cursed. They're not way off."
+    },
+    {
+      "id": 2,
+      "author": "Max Mayfield",
+      "series": "stranger_things",
+      "quote": "Dear Billy, I don't know if you can even hear this. Ever since you left, everything's been a total disaster. For a while, we tried to be happy... normal. I know that's impossible."
+    },
+    {
+      "id": 3,
+      "author": "Sam Owens",
+      "series": "stranger_things",
+      "quote": "A war is coming. I'm afraid your friends at Hawkins are very much in the eye of the storm. I don't know how to say this other than just to say it: without you, we can't win this war."
+    },
+    {
+      "id": 4,
+      "author": "Max Mayfield",
+      "series": "stranger_things",
+      "quote": "It's just, I know I can be a jerk like him sometimes, and I do not want to be like him. Ever."
+    },
+    {
+      "id": 5,
+      "author": "Eleven",
+      "series": "stranger_things",
+      "quote": "Friends don't lie."
+    },
+    {
+      "id": 6,
+      "author": "Jim Hopper",
+      "series": "stranger_things",
+      "quote": "Feelings. The truth is, for so long, I'd forgotten what those even were. I've been stuck in one place, in a cave you might say. A deep, dark cave. And then, I left some Eggos out in the woods, and you came into my life and for the first time in a long time, I started to feel things again. I started to feel happy. But lately, I guess I've been feeling distant from you. Like you're pulling away from me or something. I miss playing boardgames every night, making triple-decker Eggo extravaganzas at sunrise, watching westerns together before we doze off. But I know you're getting older. Growing. Changing. And I guess if I'm being really honest, that's what scares me. I don't want things to change. So I think maybe that's why I came in here, to try to maybe... stop that change. To turn back the clock. To make things go back to how they were. But I know that's naive. It's just not how life works. It's moving. Always moving, whether you like it or not. And, yeah, sometimes it's painful. Sometimes it's sad. And sometimes... it's surprising. Happy. So you know what? Keep on growing up, kid. Don't let me stop you. Make mistakes, learn from 'em and when life hurts you, because it will, remember the hurt. The hurt is good. It means you're out of that cave."
+    },
+    {
+      "id": 7,
+      "author": "Dustin Henderson",
+      "series": "stranger_things",
+      "quote": "I am on a curiosity voyage and I need my paddles to travel. These books - these books are my paddles. I need my paddles."
+    },
+    {
+      "id": 8,
+      "author": "Jonathan Byers",
+      "series": "stranger_things",
+      "quote": "You shouldn't like things because people tell you you're supposed to."
+    },
+    {
+      "id": 9,
+      "author": "Scott Clarke",
+      "series": "stranger_things",
+      "quote": "All living things, from complex mammals to single-celled organisms, instinctively respond to danger. Expose a bacterium to a toxic chemical and it will flee, or deploy some other defense mechanism. We're very much the same. When we encounter danger, our hearts start pounding. Our palms start to sweat. These are the signs of the physical and emotional state we call 'fear.'"
+    },
+    {
+      "id": 10,
+      "author": "Jim Hopper",
+      "series": "stranger_things",
+      "quote": "That's it. Three rules. I call 'em the 'Don't be stupid'-rules. 'Cause we're not stupid, alright?"
+    },
+    {
+      "id": 11,
+      "author": "Scott Clarke",
+      "series": "stranger_things",
+      "quote": "Science is neat, but I\u2019m afraid it\u2019s not very forgiving."
+    },
+    {
+      "id": 12,
+      "author": "Jonathan Byers",
+      "series": "stranger_things",
+      "quote": "Don\u2019t take it so personally, okay? I don\u2019t like most people. He\u2019s in the vast majority."
+    },
+    {
+      "id": 13,
+      "author": "Mike Wheeler",
+      "series": "stranger_things",
+      "quote": "Dustin: \"Even if he is, it doesn't automatically mean that he's bad.\"Mike: \"That's like saying just because someone's from the Death Star doesn't make them bad.\"Dustin: \"We have a bond.\"Mike: \"A bond? Just because he likes nougat?\""
+    },
+    {
+      "id": 14,
+      "author": "Dustin Henderson",
+      "series": "stranger_things",
+      "quote": "Presumptuous... that's a good thing, right?"
+    },
+    {
+      "id": 15,
+      "author": "Jonathan Byers",
+      "series": "stranger_things",
+      "quote": "You're a freak, but what? Do you wanna be normal? Do you wanna be just like everyone else?"
+    },
+    {
+      "id": 16,
+      "author": "Dustin Henderson",
+      "series": "stranger_things",
+      "quote": "Lucas: \"Mike's not gonna like it.\"Dustin: \"Last time I checked our party is not a dictatorship, it's a democracy.\""
+    },
+    {
+      "id": 17,
+      "author": "Lucas Sinclair",
+      "series": "stranger_things",
+      "quote": "Mike Wheeler: \"I'm not prostituting my sister.\"Lucas Sinclair: \"But it's for a good cause.\""
+    },
+    {
+      "id": 18,
+      "author": "Jim Hopper",
+      "series": "stranger_things",
+      "quote": "'You leaving already, Chief?\"Jim Hopper: \"Oh, come on, you think I actually wanted to come to this thing? I was just hungry.\"'Oh, yeah, that's the spirit.\"Jim Hopper: \"Well, your wife doesn't have time to cook for me, you know what I'm saying.\""
+    },
+    {
+      "id": 19,
+      "author": "Dustin Henderson",
+      "series": "stranger_things",
+      "quote": "Mike: \"Where are you going? You just said, 'stick to the plan'.\"Dustin: \"I am. I'm just gonna go get some chocolate pudding.\""
+    },
+    {
+      "id": 20,
+      "author": "Dustin Henderson",
+      "series": "stranger_things",
+      "quote": "All three of you were being a buch of little a-sholes. I was the only reasonable one."
+    },
+    {
+      "id": 21,
+      "author": "Dustin Henderson",
+      "series": "stranger_things",
+      "quote": "Lucas: \"Do you think she's acting weird?\"Dustin: \"You're asking if the weirdo is acting weird?\""
+    },
+    {
+      "id": 22,
+      "author": "Jonathan Byers",
+      "series": "stranger_things",
+      "quote": "He made me kill a rabbit. I guess he thought it would make me into more of a man or something. I cried for a week."
+    },
+    {
+      "id": 23,
+      "author": "Jonathan Byers",
+      "series": "stranger_things",
+      "quote": "Nancy Wheeler: \"You're supposed to hit the cans, right?\"Jonathan Byers: \"No, actually - you see the spaces in between the cans? I'm aiming for those.\""
+    },
+    {
+      "id": 24,
+      "author": "Eleven",
+      "series": "stranger_things",
+      "quote": "Friends tell the truth."
+    },
+    {
+      "id": 25,
+      "author": "Mike Wheeler",
+      "series": "stranger_things",
+      "quote": "Friends... they tell each other things. Things that parents don't know."
+    },
+    {
+      "id": 26,
+      "author": "Mike Wheeler",
+      "series": "stranger_things",
+      "quote": "Mike: \"A friend is someone that you'd do anything for.\"Dustin: \"You lend them your cool stuff, like comic books and trading cards.\"Mike: \"And they never break a promise.\""
+    },
+    {
+      "id": 27,
+      "author": "Mike Wheeler",
+      "series": "stranger_things",
+      "quote": "Eleven: \"Promise?\"Mike: \"It means something that you can't break. Ever.\""
+    },
+    {
+      "id": 28,
+      "author": "Jim Hopper",
+      "series": "stranger_things",
+      "quote": "This is Hawkins, okay? You wanna know the worst thing that's ever happened here in the four years I've been working here? It was when an owl attacked Eleanor Gillespie's head because it though that her hair was a nest."
+    },
+    {
+      "id": 29,
+      "author": "Jim Hopper",
+      "series": "stranger_things",
+      "quote": "We've discussed this, mornings are for coffee and contemplation."
+    },
+    {
+      "id": 30,
+      "author": "Jim Hopper",
+      "series": "stranger_things",
+      "quote": "'Damn, you look like hell, Chief.\"Jim Hopper: \"Oh yeah? Well, I looked better than your wife when I left her this morning.\""
+    }
+  ],
+  "ted_lasso": [
+    {
+      "id": 1,
+      "author": "Jim Hopper",
+      "series": "ted_lasso",
+      "quote": "When it comes to locker rooms, I like 'em just like my mother's bathing suits: I only wanna see 'em in one piece."
+    },
+    {
+      "id": 2,
+      "author": "Jim Hopper",
+      "series": "ted_lasso",
+      "quote": "Early drinkin\u2019 means quick drunken."
+    },
+    {
+      "id": 3,
+      "author": "Jim Hopper",
+      "series": "ted_lasso",
+      "quote": "Hey, takin' on a challenge is a lot like ridin' a horse. If you're comfortable while you're doin' it, you're probably doin' it wrong."
+    },
+    {
+      "id": 4,
+      "author": "Jim Hopper",
+      "series": "ted_lasso",
+      "quote": "That right there, that's a scone. Tastes like a muffin except it sucks all the spit out of your mouth."
+    },
+    {
+      "id": 5,
+      "author": "Jim Hopper",
+      "series": "ted_lasso",
+      "quote": "Ties and no playoffs? Why do you even do this?"
+    },
+    {
+      "id": 6,
+      "author": "Jim Hopper",
+      "series": "ted_lasso",
+      "quote": "\"How do you take your tea?\"\nTed: \"Well, normally right back to the counter because there's been a terrible mistake.\""
+    },
+    {
+      "id": 7,
+      "author": "Rebecca Welton",
+      "series": "ted_lasso",
+      "quote": "Rebecca: \"So, I spoke to the owner of The Sun.\"\nTed: \"You spoke to God?!\"\nRebecca: \"No, the newspaper.\""
+    },
+    {
+      "id": 8,
+      "author": "Rebecca Welton",
+      "series": "ted_lasso",
+      "quote": "You know what the happiest animal in the world is? It's a goldfish. It's got a 10 second memory. Be a goldfish!"
+    },
+    {
+      "id": 9,
+      "author": "Rebecca Welton",
+      "series": "ted_lasso",
+      "quote": "I think I literally have a better understanding of who killed Kennedy than what is offside."
+    },
+    {
+      "id": 10,
+      "author": "Rebecca Welton",
+      "series": "ted_lasso",
+      "quote": "George: \"I love what you done with the place. Did you do it yourself, or did you get some pouf to help ya?\"\nRebecca: \"I could ask the same of your hair.\""
+    },
+    {
+      "id": 11,
+      "author": "Rebecca Welton",
+      "series": "ted_lasso",
+      "quote": "Will you explain to me how that was offside? No, I'm asking you, seriously. Explain offside to me! It makes no sense."
+    },
+    {
+      "id": 12,
+      "author": "Rebecca Welton",
+      "series": "ted_lasso",
+      "quote": "You know, I always thought that tea was going to taste like hot brown water, and you know what? I was right. It's horrible."
+    }
+  ],
+  "the_boys": [
+    {
+      "id": 1,
+      "author": "Billy Butcher",
+      "series": "the_boys",
+      "quote": "The Deep: \"What do we do? We can't just kill everyone.\"\nBilly Butcher: \"That's exactly what we're gonna do!\""
+    },
+    {
+      "id": 2,
+      "author": "Stormfront",
+      "series": "the_boys",
+      "quote": "Now don't be a p-ssy, laser my f-cking t-ts!"
+    },
+    {
+      "id": 3,
+      "author": "Billy Butcher",
+      "series": "the_boys",
+      "quote": "That's where The Boys come in: Spank the bastards when they get out of line."
+    },
+    {
+      "id": 4,
+      "author": "Maeve",
+      "series": "the_boys",
+      "quote": "The truth is, our weakness is the same as anyone\u2019s. It\u2019s people. The people we care about. So I say, cut them loose. For your good and for theirs. That way you\u2019re really bulletproof."
+    },
+    {
+      "id": 5,
+      "author": "Madelyn Stillwell",
+      "series": "the_boys",
+      "quote": "Why have average when you can have extraordinary?"
+    },
+    {
+      "id": 6,
+      "author": "Starlight",
+      "series": "the_boys",
+      "quote": "Since when did \"hopeful\" and \"naive\" become the same thing? I mean, why would you get into this business if not to save the world? That\u2019s all I have ever wanted."
+    },
+    {
+      "id": 7,
+      "author": "Billy Butcher",
+      "series": "the_boys",
+      "quote": "Just remember who your friends and who your enemies are."
+    },
+    {
+      "id": 8,
+      "author": "Starlight",
+      "series": "the_boys",
+      "quote": "I'm supposed to be this hero, idol symbol, but I don't know what the hell I'm doing."
+    },
+    {
+      "id": 9,
+      "author": "Homelander",
+      "series": "the_boys",
+      "quote": "I'm the Homelander. And I can do whatever the f-ck I want."
+    },
+    {
+      "id": 10,
+      "author": "Hughie Campbell",
+      "series": "the_boys",
+      "quote": "Just 'cause you fall on your *ss doesn't mean you have to stay there."
+    },
+    {
+      "id": 11,
+      "author": "Billy Butcher",
+      "series": "the_boys",
+      "quote": "Pardon my French, f-ck those f-ckers!"
+    },
+    {
+      "id": 12,
+      "author": "Starlight",
+      "series": "the_boys",
+      "quote": "You ever touch me again, I will burn your eyes out!"
+    }
+  ],
+  "the_falcon_and_the_winter_soldier": [
+    {
+      "id": 1,
+      "author": "Sam Wilson",
+      "series": "the_falcon_and_the_winter_soldier",
+      "quote": "The legacy of that shield is... complicated."
+    },
+    {
+      "id": 2,
+      "author": "Bucky Barnes",
+      "series": "the_falcon_and_the_winter_soldier",
+      "quote": "Sam: \"How do you know about Gandalf?\"\nBucky: \"I read 'The Hobbit' in 1937, when it first came out.\""
+    },
+    {
+      "id": 3,
+      "author": "Sam Wilson",
+      "series": "the_falcon_and_the_winter_soldier",
+      "quote": "A sorcerer is a wizard without a hat."
+    },
+    {
+      "id": 4,
+      "author": "Sam Wilson",
+      "series": "the_falcon_and_the_winter_soldier",
+      "quote": "Sam: \"They might be a part of the big three.\"\nBucky: \"What big three?\"\nSam: \"Androids, aliens and wizards.\"\nBucky: \"That's not a thing.\"\nSam: \"That's definitely a thing.\""
+    },
+    {
+      "id": 5,
+      "author": "Bucky Barnes",
+      "series": "the_falcon_and_the_winter_soldier",
+      "quote": "Sam: \"What's going on in that cyborg brain of yours?\"\nBucky: \"You don't wanna know!\""
+    },
+    {
+      "id": 6,
+      "author": "Bucky Barnes",
+      "series": "the_falcon_and_the_winter_soldier",
+      "quote": "Our country is vulnerable. We need new heroes."
+    }
+  ],
+  "the_last_of_us": [
+    {
+      "id": 1,
+      "author": "Ellie Williams",
+      "series": "the_last_of_us",
+      "quote": "I know you mean well. I know you wanna protect me. You have. And when we're done, we'll go wherever you want. Tommy's, sheep ranch, the moon... I'll follow you anywhere you go. But there's no halfway with this. We finish what we started."
+    },
+    {
+      "id": 2,
+      "author": "Will Livingston",
+      "series": "the_last_of_us",
+      "quote": "People are making apocalypse jokes like there's no tomorrow."
+    },
+    {
+      "id": 3,
+      "author": "Will Livingston",
+      "series": "the_last_of_us",
+      "quote": "How does a computer get drunk?\nIt takes screenshots."
+    },
+    {
+      "id": 4,
+      "author": "Will Livingston",
+      "series": "the_last_of_us",
+      "quote": "What did the frustrated cannibal do?\nHe threw up his hands."
+    },
+    {
+      "id": 5,
+      "author": "Ellie Williams",
+      "series": "the_last_of_us",
+      "quote": "Joel: \"A deep breath in, slow breath out. You squeeze the trigger like you love it. Gentle, steady, nice and slow.\"\nEllie: \"You gonna shoot this thing or get it pregnant?\""
+    },
+    {
+      "id": 6,
+      "author": "Maria Miller",
+      "series": "the_last_of_us",
+      "quote": "Be careful who you put your faith in. The only people who can betray us, are the ones we trust."
+    },
+    {
+      "id": 7,
+      "author": "Ellie Williams",
+      "series": "the_last_of_us",
+      "quote": "Joel: \"I need you to tell us where we are.\"\nMan: \"If you got a map, why you lost?\"\nEllie: \"Must've missed all the street signs in the enormous f-cking forest.\""
+    },
+    {
+      "id": 8,
+      "author": "Ellie Williams",
+      "series": "the_last_of_us",
+      "quote": "Joel: \"You got any advice on the best way west?\"\nMan: \"Yeah. Go east.\""
+    },
+    {
+      "id": 9,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "It's easier when you're a kid anyway. You don't have anybody else relying on you. That's the hardest part."
+    },
+    {
+      "id": 10,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "Joel: \"You keep going for family.\"\nEllie: \"I'm not family?\"\nJoel: \"No. You're cargo.\""
+    },
+    {
+      "id": 11,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "Then odds are he'll be near a settlement, probably close to another city out there. Ain't too many of 'em in Wyoming."
+    },
+    {
+      "id": 12,
+      "author": "Will Livingston",
+      "series": "the_last_of_us",
+      "quote": "I stayed up all night wondering where the sun went. Then it dawned on me."
+    },
+    {
+      "id": 13,
+      "author": "Will Livingston",
+      "series": "the_last_of_us",
+      "quote": "What did the mermaid wear to her math class? An algae bra!"
+    },
+    {
+      "id": 14,
+      "author": "Will Livingston",
+      "series": "the_last_of_us",
+      "quote": "It doesn't matter how much you push the envelope, it'll still be stationery."
+    },
+    {
+      "id": 15,
+      "author": "Ellie Williams",
+      "series": "the_last_of_us",
+      "quote": "Joel: \"Long way or short way?\"\nTess: \"I mean, it's the long way or the 'we're fuckin' dead' way.\"\nEllie: \"Well, I vote long way just based on that limited information.\""
+    },
+    {
+      "id": 16,
+      "author": "Ellie Williams",
+      "series": "the_last_of_us",
+      "quote": "Ellie: \"Can I have a gun?\"\nJoel: \"Absolutely not.\"\nEllie: \"Okay, Jesus. Fine. I'll have to throw a f-ckin' sandwich at them.\""
+    },
+    {
+      "id": 17,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "Ellie: \"There's not gonna be anything bad in here?\"\nJoel: \"Just you.\""
+    },
+    {
+      "id": 18,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "Joel: \"Where'd you get the money for this?\"\nSarah: \"Drugs. I sell hardcore drugs.\"\nJoel: \"It's better than what I do.\""
+    },
+    {
+      "id": 19,
+      "author": "Ellie Williams",
+      "series": "the_last_of_us",
+      "quote": "If you don't think there's hope for the world, why bother going on?"
+    },
+    {
+      "id": 20,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "Ellie: \"Everybody I've cared for, either died or left me.\"\nJoel: \"You have no idea what loss is.\""
+    },
+    {
+      "id": 21,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "If somehow the Lord gave me a second chance at that moment... I would do it all over again."
+    },
+    {
+      "id": 22,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "Dina: \"You're infuriating.\"\nEllie: \"Have you met you?\"\nDina: \"You make me want to go back outside into that blizzard.\"\nEllie: \"No one is stopping you.\""
+    },
+    {
+      "id": 23,
+      "author": "Joel Miller",
+      "series": "the_last_of_us",
+      "quote": "Abby: \"Do we have to go back this way?\"\nOwen: \"Consider it an opportunity to work on your fears.\"\nAbby: \"How about I work my foot up your ass?\"\nOwen: \"Abby, stop flirting!\""
+    }
+  ],
+  "the_mandalorian": [
+    {
+      "id": 1,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Bo-Katan: \"I haven't seen battle droids since the Clone Wars.\"\nDin: \"I have.\"\nBo-Katan: \"Any of 'em look suspicious?\"\nDin: \"They all look suspicious.\""
+    },
+    {
+      "id": 2,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "\"I thought Mandalorians were honorable.\"\nKoska Reeves: \"We are, kid. All it takes is a few credits.\""
+    },
+    {
+      "id": 3,
+      "author": "Greef Karga",
+      "series": "the_mandalorian",
+      "quote": "Greef: \"Be careful, my friend. They've got you outnumbered ten to one.\"\nDin: \"I like these odds.\"\nGreef: \"I bet you do.\""
+    },
+    {
+      "id": 4,
+      "author": "Elia Kane",
+      "series": "the_mandalorian",
+      "quote": "From experience, it often takes a new perspective before one is able to see the light."
+    },
+    {
+      "id": 5,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "One does not speak unless one knows."
+    },
+    {
+      "id": 6,
+      "author": "Bo-Katan",
+      "series": "the_mandalorian",
+      "quote": "Bo-Katan: \"I've scugged off a lot of Imperial warlords.\"\nDin: \"They tend to get mad when you hijack their ships.\"\nBo-Katan: \"Now you tell me.\""
+    },
+    {
+      "id": 7,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "I swear on my name. And the names of the Ancestors, that I shall walk the way of the Mand'alor and the words of the Creed shall be forever forged in my heart."
+    },
+    {
+      "id": 8,
+      "author": "Bo-Katan",
+      "series": "the_mandalorian",
+      "quote": "I knew quite a few Jedi, you know. I don't know what they taught you about us, but there was a time we actually got along quite well. Fought side by side."
+    },
+    {
+      "id": 9,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Never trust a pirate."
+    },
+    {
+      "id": 10,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Being a Mandalorian is not just learning about how to fight. You also have to know how to navigate the Galaxy. That way you'll never be lost."
+    },
+    {
+      "id": 11,
+      "author": "The Armorer",
+      "series": "the_mandalorian",
+      "quote": "This is the one that you saved? You are as its father. A clan of two. But you have removed your helmet. Then you are a Mandalorian no more."
+    },
+    {
+      "id": 12,
+      "author": "Bo-Katan",
+      "series": "the_mandalorian",
+      "quote": "Did you think your dad was the only Mandalorian?"
+    },
+    {
+      "id": 13,
+      "author": "Greef Karga",
+      "series": "the_mandalorian",
+      "quote": "Take care of this little one or maybe, it'll take care of you."
+    },
+    {
+      "id": 14,
+      "author": "Greef Karga",
+      "series": "the_mandalorian",
+      "quote": "Come on, baby, do the magic hand thing!"
+    },
+    {
+      "id": 15,
+      "author": "Greef Karga",
+      "series": "the_mandalorian",
+      "quote": "This little bogwing is what all the fuss was about. What a precious little creature! I can see why you didn't want to harm a hair on its wrinkled little head."
+    },
+    {
+      "id": 16,
+      "author": "Luke Skywalker",
+      "series": "the_mandalorian",
+      "quote": "He is strong with the Force, but talent without training is nothing. I will give my life to protect the child, but he will not be safe until he masters his abilities."
+    },
+    {
+      "id": 17,
+      "author": "Boba Fett",
+      "series": "the_mandalorian",
+      "quote": "Bo-Katan: \"You are a disgrace to your armor.\"\nBoba Fett: \"This armor belonged to my father.\"\nBo-Katan: \"Don't you mean your donor?\"\nBoba Fett: \"Careful, princess.\"\nBo-Katan: \"You are a clone. I've heard your voice thousands of times.\"\nBoba Fett: \"Mine might be the last one you hear.\""
+    },
+    {
+      "id": 18,
+      "author": "Bo-Katan",
+      "series": "the_mandalorian",
+      "quote": "Not all Mandalorians are bounty hunters. Some of us serve a higher purpose."
+    },
+    {
+      "id": 19,
+      "author": "Boba Fett",
+      "series": "the_mandalorian",
+      "quote": "Bo-Katan: \"You are not a Mandalorian.\"\nBoba: \"Never said I was.\""
+    },
+    {
+      "id": 20,
+      "author": "Boba Fett",
+      "series": "the_mandalorian",
+      "quote": "I'm a simple man making his way through the galaxy. Like my father before me."
+    },
+    {
+      "id": 21,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "A Mandalorian and a Jedi? They'll never see it coming."
+    },
+    {
+      "id": 22,
+      "author": "Ahsoka Tano",
+      "series": "the_mandalorian",
+      "quote": "I like firsts. Good or bad, they're always memorable."
+    },
+    {
+      "id": 23,
+      "author": "Ahsoka Tano",
+      "series": "the_mandalorian",
+      "quote": "I've only known one other being like this. A wise Jedi Master named Yoda."
+    },
+    {
+      "id": 24,
+      "author": "Bo-Katan",
+      "series": "the_mandalorian",
+      "quote": "Take the foundling to the city of Calodan on the forest planet Corvus. There, you will find Ahsoka Tano. Tell her you were sent by Bo-Katan."
+    },
+    {
+      "id": 25,
+      "author": "Bo-Katan",
+      "series": "the_mandalorian",
+      "quote": "I am Bo-Katan of Clan Kryze. I was born on Mandalore and fought in the Purge. I am the last of my line."
+    },
+    {
+      "id": 26,
+      "author": "Bo-Katan",
+      "series": "the_mandalorian",
+      "quote": "Don't believe everything you hear. Our enemies want to separate us. But Mandalorians are stronger together."
+    },
+    {
+      "id": 27,
+      "author": "Cobb Vanth",
+      "series": "the_mandalorian",
+      "quote": "I never met a real Mandalorian. Heard stories. I know you're good at killing."
+    },
+    {
+      "id": 28,
+      "author": "Peli Motto",
+      "series": "the_mandalorian",
+      "quote": "Thank the Force! This little thing has had me worried sick. Come here, you little womp rat. Looks like it remembers me. How much do you want for it? Just kidding. But not really."
+    },
+    {
+      "id": 29,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Gor Koresh: \"This is no place for a child.\"\nMando: \"Wherever I go, he goes. I've been quested to bring him to his kind.\""
+    },
+    {
+      "id": 30,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Mando: \"I was not born on Mandalore.\"Greef Karga: \"But you're Mandalorian?\"Cara Dune: \"Mandalorian isn't a race.\"Mando: \"It's a Creed.\""
+    },
+    {
+      "id": 31,
+      "author": "Greef Karga",
+      "series": "the_mandalorian",
+      "quote": "Greef: \"Nevarro is a very fine planet. And now that the scum and villainy have been washed away, it's very respectable again.\"\nMando: \"As a bounty hunter hive?\"\nGreef: \"Some of my favorite people are bounty hunters.\""
+    },
+    {
+      "id": 32,
+      "author": "The Client",
+      "series": "the_mandalorian",
+      "quote": "The Empire improves every system it touches. Judge by any metric: safety, prosperity, trade, opportunity, peace. Compare Imperial rule to what is happening right now. Is the world more peaceful since the revolution? I see nothing but death and chaos."
+    },
+    {
+      "id": 33,
+      "author": "Kuiil",
+      "series": "the_mandalorian",
+      "quote": "None will be free until the old ways are gone forever."
+    },
+    {
+      "id": 34,
+      "author": "Greef Karga",
+      "series": "the_mandalorian",
+      "quote": "The plan was to kill you and take the kid. But after what happened last night, I couldn't go through with it."
+    },
+    {
+      "id": 35,
+      "author": "Kuiil",
+      "series": "the_mandalorian",
+      "quote": "Droids are not good or bad. They are neutral reflections of those who imprint them."
+    },
+    {
+      "id": 36,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Ran: \"Mayfeld, he's one of the best triggermen I've ever seen. Former Imperial sharpshooter.\"Mando: \"That's not saying much.\""
+    },
+    {
+      "id": 37,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Ran: \"We were all young, tryin' to make a name for ourselves. But runnin' with a Mandalorian, that brought us some reputation.\"Mayfeld: \"Oh, yeah? What did he get out of it?\"Ran: \"I asked him that one time. You remember what you said, Mando? Target Practice.\""
+    },
+    {
+      "id": 38,
+      "author": "Fennec Shand",
+      "series": "the_mandalorian",
+      "quote": "You want to be a bounty hunter? Make the best deal for yourself and survive!"
+    },
+    {
+      "id": 39,
+      "author": "Fennec Shand",
+      "series": "the_mandalorian",
+      "quote": "The Mandalorian. His armor alone is worth more than my bounty."
+    },
+    {
+      "id": 40,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Cara: \"It's gonna break his little heart.\"Mando: \"He'll get over it. We all do.\""
+    },
+    {
+      "id": 41,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "The sun is about to set, and we'll be leaving soon. When we return, we're coming in hot."
+    },
+    {
+      "id": 42,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Omera: \"You haven't shown your face to anyone since you were a kid?\"Mando: \"No. I was happy that they took me in. My parents were killed and the Mandalorians took care of me. This is the way.\""
+    },
+    {
+      "id": 43,
+      "author": "Greef Karga",
+      "series": "the_mandalorian",
+      "quote": "They're all weighing the beskar in their minds, but not me. No. I for one, I celebrate your success, because it is my success as well. Hell, even I'm rich."
+    },
+    {
+      "id": 44,
+      "author": "The Client",
+      "series": "the_mandalorian",
+      "quote": "Such a large bounty for such a small package."
+    },
+    {
+      "id": 45,
+      "author": "The Armorer",
+      "series": "the_mandalorian",
+      "quote": "Our secrecy is our survival. our survival is our strength."
+    },
+    {
+      "id": 46,
+      "author": "The Armorer",
+      "series": "the_mandalorian",
+      "quote": "When one chooses to walk the way of the Mandalore, you are both hunter and prey. How can one be a coward if one chooses this way of life?"
+    },
+    {
+      "id": 47,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "I'm a Mandalorian. Weapons are part of my religion."
+    },
+    {
+      "id": 48,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Kuiil: \"They really don't like you for some reason.\"Mandalorian: \"Well, I did disintegrate a few of them.\""
+    },
+    {
+      "id": 49,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "I can bring you in warm, or I can bring you in cold."
+    },
+    {
+      "id": 50,
+      "author": "Din Djarin",
+      "series": "the_mandalorian",
+      "quote": "Client: \"Please lower your blaster.\"Mando: \"Tell them to lower theirs first.\"Stormtrooper: \"We have you four to one.\"Mando: \"I like those odds.\""
+    },
+    [
+      {
+        "id": 51,
+        "author": "Din Djarin",
+        "series": "the_mandalorian",
+        "quote": "Droid: \"It appears we are trapped. I will initiate self-destruct sequency.\"Mando: \"Wow, your what?\"Droid: \"Manufacturer's protocol dictates I can not be captured. I must self-destruct.\"Mando: \"Do not self-destruct. Cover me!\""
+      },
+      {
+        "id": 52,
+        "author": "The Client",
+        "series": "the_mandalorian",
+        "quote": "Bounty Hunting is a complicated profession."
+      },
+      {
+        "id": 53,
+        "author": "The Client",
+        "series": "the_mandalorian",
+        "quote": "Greef Karga said you were coming. He said you were the best in the parsec. Would you agree?"
+      },
+      {
+        "id": 54,
+        "author": "Greef Karga",
+        "series": "the_mandalorian",
+        "quote": "If you would consider one last commission, I will very much make it worth your while."
+      }
+    ]
+  ],
+  "the_umbrella_academy": [
+    {
+      "id": 1,
+      "author": "Number Five",
+      "series": "the_umbrella_academy",
+      "quote": "Five: \"Help me with this crossword puzzle. I need a five letter word for 'disappointment'.\"\nDiego: \"Klaus.\"\nFive: \"It fits.\""
+    },
+    {
+      "id": 2,
+      "author": "Klaus Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "Therapist: \"You need to stop doing these weird things. Go out sometime.\"\nKlaus: \"I went to the park today.\"\nTherapist: \"There you go! I hope you got something from that.\"\nKlaus: \"[Opens up coat] This duck.\""
+    },
+    {
+      "id": 3,
+      "author": "Allison Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "You don't get to blame your problems on anyone but yourself."
+    },
+    {
+      "id": 4,
+      "author": "Allison Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "When something seems too perfect, it's usually anything but."
+    },
+    {
+      "id": 5,
+      "author": "Number Five",
+      "series": "the_umbrella_academy",
+      "quote": "I'd ask what you're up to, Klaus, but then it occurred to me: I don't care."
+    },
+    {
+      "id": 6,
+      "author": "Number Five",
+      "series": "the_umbrella_academy",
+      "quote": "We didn't choose this life, we're just living in it."
+    },
+    {
+      "id": 7,
+      "author": "Klaus Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "Don't go chasing waterfalls. Stick to the rivers and the lakes that you're used to."
+    },
+    {
+      "id": 8,
+      "author": "Allison Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "\"Everybody else can see Ben, right?\"\n\"Yeah, and he's a complete d-ckhead.\""
+    },
+    {
+      "id": 9,
+      "author": "Allison Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "I think maybe you're the only person who really knows who I am and still likes me anyway."
+    },
+    {
+      "id": 10,
+      "author": "The Handler",
+      "series": "the_umbrella_academy",
+      "quote": "War. Such a fascinating concept. A temporary salve for a permanent human flaw."
+    },
+    {
+      "id": 11,
+      "author": "Klaus Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "Where has it gotten me? Nowhere. I can't talk to the person I love. People still don't take me seriously. I wanna be numb again."
+    },
+    {
+      "id": 12,
+      "author": "Klaus Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "The only thing The Umbrella Academy knows about love is how to screw it up."
+    },
+    {
+      "id": 13,
+      "author": "Klaus Hargreeves",
+      "series": "the_umbrella_academy",
+      "quote": "If you don't make it back, there's one thing that I need to tell you..."
+    },
+    {
+      "id": 14,
+      "author": "Number Five",
+      "series": "the_umbrella_academy",
+      "quote": "We all wanted to be loved by a man incapable of giving love."
+    }
+  ],
+  "wandavision": [
+    {
+      "id": 1,
+      "author": "Vision",
+      "series": "wandavision",
+      "quote": "I have been a voice with no body. A body, but not human. And now, a memory made real. Who knows what I might be next?"
+    },
+    {
+      "id": 2,
+      "author": "Wanda Maximoff",
+      "series": "wandavision",
+      "quote": "You, Vision, are the piece of the Mind Stone that lives in me. You are a body of wires and blood and bone that I created. You are my sadness and my hope. But mostly, you're my love."
+    },
+    {
+      "id": 3,
+      "author": "Agatha Harkness",
+      "series": "wandavision",
+      "quote": "Did I leave the oven on, or is it just you, hot stuff?"
+    },
+    {
+      "id": 4,
+      "author": "Agatha Harkness",
+      "series": "wandavision",
+      "quote": "The Scarlet Witch is not born, she is forged. She has no coven, no need for incantation."
+    },
+    {
+      "id": 5,
+      "author": "Vision",
+      "series": "wandavision",
+      "quote": "But what is grief, if not love persevering?"
+    },
+    {
+      "id": 6,
+      "author": "Tommy Maximoff",
+      "series": "wandavision",
+      "quote": "Billy: \"Halloween's a magical holiday. All about family, friends, and the thrill of getting to be someone else for a day.\"\nTommy: \"Wrong! Halloween's about candy. And scaring people, but mostly candy.\""
+    },
+    {
+      "id": 7,
+      "author": "Wanda Maximoff",
+      "series": "wandavision",
+      "quote": "Because family is forever."
+    },
+    {
+      "id": 8,
+      "author": "Jimmy Woo",
+      "series": "wandavision",
+      "quote": "Jimmy: \"I can't believe Wanda and Vision are having a baby.\"\nDarcy Lewis: \"You want any?\"\nJimmy: \"Heck, I thought about it for sure. A little Jimmy Woo. Get him a tiny little FBI badge... oh, you... chip? Sure.\""
+    },
+    {
+      "id": 9,
+      "author": "Vision",
+      "series": "wandavision",
+      "quote": "Doctor: \"Hypothetically speaking, every new father-to-be get nervous.\"\nVision: \"Well, I have nerves of steel, so there goes your theory, Mr. Doctor.\""
+    },
+    {
+      "id": 10,
+      "author": "Monica \"Geraldine\" Rambeau",
+      "series": "wandavision",
+      "quote": "Wanda: \"I had a brother. His name was Pietro.\"\nGeraldine: \"He was killed by Ultron, wasn't he?\""
+    },
+    {
+      "id": 11,
+      "author": "Vision",
+      "series": "wandavision",
+      "quote": "Forgotten? Oh, Wanda, I'm incapable of forgetfulness. I remember everything. That's not an exaggeration. In fact... I'm incapable of exaggeration."
+    },
+    {
+      "id": 12,
+      "author": "Agatha Harkness",
+      "series": "wandavision",
+      "quote": "Many hands make light work. And many mouths make good gossip."
+    },
+    {
+      "id": 13,
+      "author": "Wanda Maximoff",
+      "series": "wandavision",
+      "quote": "You move at the speed of sound and I can make a pen float through the air. Who needs to abbreviate?"
+    },
+    {
+      "id": 14,
+      "author": "Agatha Harkness",
+      "series": "wandavision",
+      "quote": "The only way Ralph would remember our anniversary is if there was a beer named \"June 2nd\"."
+    },
+    {
+      "id": 15,
+      "author": "Agatha Harkness",
+      "series": "wandavision",
+      "quote": "Doesn't matter what you did or what you were, you are an Avenger!"
+    }
+  ],
+  "wednesday_addams": [
+    {
+      "id": 1,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Weems: \"No doubt you'll find something that tickles your fancy.\"\nWednesday: \"The last person who tickled me lost a finger.\""
+    },
+    {
+      "id": 2,
+      "author": "Enid Sinclair",
+      "series": "wednesday_addams",
+      "quote": "Just as long as you're lakeside cheering us to victory on race day... or you can just glare uncomfortably. Whatever works for you."
+    },
+    {
+      "id": 3,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Dead people are notoriously bad at returning calls."
+    },
+    {
+      "id": 4,
+      "author": "Donovan Galpin",
+      "series": "wednesday_addams",
+      "quote": "Larissa: \"So you automatically assume a Nevermore student is the murderer, even though there's no evidence a crime was even committed.\"\nDonovan: \"I'm sorry. I forgot, you only teach the good outcasts here, right?\""
+    },
+    {
+      "id": 5,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "This story is about to take a dark turn. Usually, I love dark turns. Like when the carousel brakes myteriously failed at my eighth birthdays party."
+    },
+    {
+      "id": 6,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Never bring a knife to a sword fight. Unless it's concealed."
+    },
+    {
+      "id": 7,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "I find Social Media to be a soul-sucking void of meaningless affirmation."
+    },
+    {
+      "id": 8,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Morticia: \"That boy's family was going to file attempted murder charges. How would that have looked on your record?\"\nWednesday: \"Terrible. Everyone would know I failed to get the job done.\""
+    },
+    {
+      "id": 9,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "I'm not sure whose twisted idea it was to put hundreds of adolescents in underfunded schools run by people whose dreams were crushed years ago... but I admire the sadism."
+    },
+    {
+      "id": 10,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "I cried my little black heart out. But tears don't fix anything. So I vowed to never do it again."
+    },
+    {
+      "id": 11,
+      "author": "Xavier Thorpe",
+      "series": "wednesday_addams",
+      "quote": "Wednesday: \"So you were guided by latent chivalry, the tool of the patriarchy, to extract my undying gratitude?\"\nXavier: \"Most people just say 'thank you'.\""
+    },
+    {
+      "id": 12,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "I act as if I don't care if people dislike me. Deep down, I actually enjoy it."
+    },
+    {
+      "id": 13,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Marylin Thornhill: \"I trust Enid has given you the old Nevermore welcome.\"\nWednesday: \"She's been smothering me with hospitality. I hope to return the favor... in her sleep.\""
+    },
+    {
+      "id": 14,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Morticia: \"Please excuse Wednesday. She's allergic to color.\"\nEnid: \"Wow, what happens to you?\"\nWednesday: \"I break out into hives, and then the flesh peels off my bones.\""
+    },
+    {
+      "id": 15,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Have you ever been told you're different, odd, or simply don't belong? In a world full of normies, do you feel like an outcast? Me too. But I'm pleased to tell you there's a very special place for people like us. Nevermore Academy."
+    },
+    {
+      "id": 16,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "I don't have a phone. I refuse to be a slave to technology."
+    },
+    {
+      "id": 17,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Little did I know that I would be stepping into a nightmare full of mystery, mayhem and murder. I think I'm going to love it here."
+    },
+    {
+      "id": 18,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Enid Sinclair: \"Want to take a stab at being social?\"\nWednesday: \"I do like stabbing. The social part, not so much.\""
+    },
+    {
+      "id": 19,
+      "author": "Morticia Addams",
+      "series": "wednesday_addams",
+      "quote": "Finally, you will be among pears who understand you. Maybe you'll even make some friends."
+    },
+    {
+      "id": 20,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "Emotion equals weakness."
+    },
+    {
+      "id": 21,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "I did the world a favor. People like Dalton shouldn't be allowed to procreate. Getting expelled was just a bonus."
+    },
+    {
+      "id": 22,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "The only person who gets to torture my brother is me."
+    },
+    {
+      "id": 23,
+      "author": "Wednesday Addams",
+      "series": "wednesday_addams",
+      "quote": "You must be the self-appointed Queen Bee. Interesting thing about bees. Pull out their stingers, they drop dead."
+    },
+    {
+      "id": 24,
+      "author": "Larissa Weems",
+      "series": "wednesday_addams",
+      "quote": "Miss Addams, you sadly had a very interesting educational journey. Eight schools in five years."
+    },
+    {
+      "id": 25,
+      "author": "Larissa Weems",
+      "series": "wednesday_addams",
+      "quote": "\"Nevermore was founded over 200 years ago to educate outcasts.\"\n\"Students from all walks of life.\"\n\"And death.\"\n\"Our mission is to help each student master their unique abilities. So we offer a full range of extracurricular activities. From painting... to archery.\"\n\"For centuries, notable alumni have roamed these majestic halls, from the master of macabre, Edgar Allan Poe, to personal heroes like Ignatius Itt, and of course, Morticia and Gomez Addams.\"\n\"Our highly trained faculty educate our young outcasts on a wide range of subjects. Everything from werewolf reproduction to Gorgon anatomy.\""
+    }
+  ],
+  "what_if": [
+    {
+      "id": 1,
+      "author": "Thor",
+      "series": "what_if",
+      "quote": "I don't know anything about norse gods, but I do know how to bring the thunder."
+    },
+    {
+      "id": 2,
+      "author": "Captain Marvel",
+      "series": "what_if",
+      "quote": "Darcy Lewis: \"No one would notice if you blew up a Dakota. Honestly, I can't tell them apart.\"\nCarol Danvers: \"South Dakota is on the bottom.\""
+    },
+    {
+      "id": 3,
+      "author": "Thor",
+      "series": "what_if",
+      "quote": "The name is Thor, with a \"T\" and an \"R\" and an \"O\" and a \"H\". But not in that order."
+    },
+    {
+      "id": 4,
+      "author": "Pepper Potts",
+      "series": "what_if",
+      "quote": "All due respect, sir, isn't that a lot of firepower to aim at a country most Americans can't find on a map?"
+    },
+    {
+      "id": 5,
+      "author": "Iron Man",
+      "series": "what_if",
+      "quote": "Are you allowed to say that to people in my tax bracket?"
+    },
+    {
+      "id": 6,
+      "author": "Iron Man",
+      "series": "what_if",
+      "quote": "Journalist: \"Mr. Stark, were you injured in the attack?\"\nTony Stark: \"No, but I did spill my drink, and it was a '26 Macallan, so I'm pretty sure that's a war crime.\""
+    },
+    {
+      "id": 7,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "Heroes are not born, they're forged in darkness. Shaped in battle. Defined by sacrifice."
+    },
+    {
+      "id": 8,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "Every journey has a beginning. But change one step along the way, and you could end up at a very different destination."
+    },
+    {
+      "id": 9,
+      "author": "Killmonger",
+      "series": "what_if",
+      "quote": "Tony Stark: \"Lieutenant Killmonger? What is that? German?\"\nKillmonger: \"A nickname.\"\nTony Stark: \"That's clearly a good fit.\""
+    },
+    {
+      "id": 10,
+      "author": "Okoye",
+      "series": "what_if",
+      "quote": "Peter Parker: \"Splitting up? Do you guys just not have horror movies in Wakanda?\"\nOkoye: \"We don't need them. We have American reality shows.\""
+    },
+    {
+      "id": 11,
+      "author": "Hulk",
+      "series": "what_if",
+      "quote": "Just when you thought things couldn't get any worse, we gotta go to Jersey."
+    },
+    {
+      "id": 12,
+      "author": "Spider-Man",
+      "series": "what_if",
+      "quote": "New York! Home of the Mets, the Chrysler Building, those ladies from Sex and the City and now, the zombie apocalypse. If you can make it here, you can make it anywhere - but first, you have to not get eaten."
+    },
+    {
+      "id": 13,
+      "author": "Doctor Strange",
+      "series": "what_if",
+      "quote": "Your marbles are long gone. The world, however, still stands a chance."
+    },
+    {
+      "id": 14,
+      "author": "Ancient One",
+      "series": "what_if",
+      "quote": "I fear the only sorcerer strong enough to stop Dr. Strange is you, Dr. Strange."
+    },
+    {
+      "id": 15,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "One life, one choice, one moment can destroy the entire universe."
+    },
+    {
+      "id": 16,
+      "author": "O-Bengh",
+      "series": "what_if",
+      "quote": "Is she worth the pain? A man does not suffer like this for his own glory. There is a fine line between devotion and delusion. Love can break more than your heart. It can shatter your mind."
+    },
+    {
+      "id": 17,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "We have watched how one moment, one choice, can ripple across space and time, giving birth to new stories, heroes, whole universes. But what if it's the wrong choice? What if the best of intentions has very strange consequences?"
+    },
+    {
+      "id": 18,
+      "author": "Nick Fury",
+      "series": "what_if",
+      "quote": "I believe that in this universe, as in every other, hope never dies. As long as someone keeps their good eye on the bigger picture."
+    },
+    {
+      "id": 19,
+      "author": "Howard Stark",
+      "series": "what_if",
+      "quote": "Stark: \"Red, green, blue... who paints a button blue?\"\nCarter: \"Don't tell me the American playboy needs help pushing buttons.\"\nStark: \"Hedy Lamarr and I spent a weekend together, but she wasn't teaching me German.\""
+    },
+    {
+      "id": 20,
+      "author": "Bucky Barnes",
+      "series": "what_if",
+      "quote": "Talk about being a few sardines short of a can."
+    },
+    {
+      "id": 21,
+      "author": "Peggy Carter",
+      "series": "what_if",
+      "quote": "Stark: \"Can I give you a piece of advice?\"\nCarter: \"I'd rather you didn't.\""
+    },
+    {
+      "id": 22,
+      "author": "John Flynn",
+      "series": "what_if",
+      "quote": "Women aren't soldiers, and they sure as hell don't fight on the front lines. They might break a nail."
+    },
+    {
+      "id": 23,
+      "author": "Howard Stark",
+      "series": "what_if",
+      "quote": "John Flynn: \"Rogers, get in there!\"\nPeggy Carter: \"He can't.\"\nJohn Flynn: \"Stark, you go in!\"\nHoward Stark: \"What? Are you crazy? I push the buttons. I'm the buttons guy.\""
+    },
+    {
+      "id": 24,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "Her one choice gave birth to a whole new history and gave the multiverse a new hero. As for me, these are my stories. I observe all that transpires here, but I do not, cannot, will not interfere. For I am the Watcher."
+    },
+    {
+      "id": 25,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "Journey to face the unknown and ponder the question, \"What if...?\""
+    },
+    {
+      "id": 26,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "Space. Time. Reality. It's more than a linear path. It's a prism of endless possibility."
+    },
+    {
+      "id": 27,
+      "author": "Yondu Udonta",
+      "series": "what_if",
+      "quote": "Why stop at one world, when we can show you all of them?"
+    },
+    {
+      "id": 28,
+      "author": "The Watcher",
+      "series": "what_if",
+      "quote": "I am the Watcher. I am your guide through these vast new realities. Follow me, and dare to face the unknown. And ponder the question, \"What if...?\""
+    }
+  ],
+  "how_i_met_your_mother": [
+  {
+    "id": 1,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "It's only once you've stopped, that you realize how hard it is to start again. So you force yourself not to want it."
+  },
+  {
+    "id": 2,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Whatever you do in this life, it's not legendary, unless your friends are there to see it."
+  },
+  {
+    "id": 3,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "If you're looking for the word that means caring for someone beyond all rationality and wanting them to have everything they want, no matter how much it destroys you, it's love!"
+  },
+  {
+    "id": 4,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Our wedding is gonna be legendary.\"Robin: \"No wait for it?\"Barney: \"I've got you, I don't have to wait for it anymore.\""
+  },
+  {
+    "id": 5,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, you can't cling to the past. Because no matter how tight you hold on... it's already gone."
+  },
+  {
+    "id": 6,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Underneath all of those lies is one true thing. One true thing that can support the weight of all the lies in the world, and that's the fact that I love you."
+  },
+  {
+    "id": 7,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Nobody likes to be alone, especially after a breakup. But that's when we discover who we really are and what we really want."
+  },
+  {
+    "id": 8,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "When I get sad, I stop being sad and be awesome instead. True Story."
+  },
+  {
+    "id": 9,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "You know how sometimes you'll meet a girl and there'll be that one bewitching little detail that'll make you fall in love with her instantly? You know, a little freckle on the nose, the lilt of her laugh, the way she pronounces a certain word or phrase..."
+  },
+  {
+    "id": 10,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "This woman has a hold on my heart that I could not break if I wanted to, and there have been times that I wanted to.\nIt has been overwhelming and humbling and even painful at times, but I could not stop loving her any more than I could stop breathing."
+  },
+  {
+    "id": 11,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "The beauty of a moment, is that it's fleeting."
+  },
+  {
+    "id": 12,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Ted what is my one rule?\"Ted: \"You can tell how old a girl is by her elbows?\"Barney: \"My other one rule.\"Ted: \"Flax seed relieves upset stomach?\"Barney: \"My other one rule.\"Ted: \"Always have a fake pair of concert tickets in your pocket in case Lily invites you to something stupid?\"Barney: \"My other one rule.\"Ted: \"Labanese girls sprint to third base and then stay there.\"Barney: \"My other one rule.\"Ted: \"New is always better?\"Barney: \"New is always better!\""
+  },
+  {
+    "id": 13,
+    "author": "Kevin",
+    "series": "how_i_met_your_mother",
+    "quote": "If we're together long enough I hope that one day you see yourself like I do."
+  },
+  {
+    "id": 14,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Well, maybe this isn't a breakup. Maybe this is two friends getting back together."
+  },
+  {
+    "id": 15,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "When you date someone, it's like you're taking one long course in who that person is and then, when you break up, all that stuff becomes useless. It's the emotional equivalent of an English degree..."
+  },
+  {
+    "id": 16,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, you can't talk yourself into falling in love. It doesn't take days of deliberation. When it's real, you know pretty quickly and with absolute certainty.\nI had forgotten that, but I was about to be reminded..."
+  },
+  {
+    "id": 17,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I don't wanna be choosing between two girls, I wanna be a complete head over heels idiot for one!"
+  },
+  {
+    "id": 18,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Sometimes our best decisions are the ones that don't make any sense at all."
+  },
+  {
+    "id": 19,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I never wanted any of it to change, but that's not how life works."
+  },
+  {
+    "id": 20,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Here's the secret, kids: none of us can vow to be perfect. In the end, all we can do is promise to love each other with everything we've got. Because love's the best thing we do."
+  },
+  {
+    "id": 21,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Love doesn't make sense. I mean, you can't logic your way into or out of it. Love ist totally nonsensical, but we have to keep doing it or else we're lost and love is dead and humanity should just pack it in. Because love is the best thing we do."
+  },
+  {
+    "id": 22,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"My mother is not one-night-stand material!\"Barney: \"Yeah, you're right. It wasn't night and we weren't standing.\""
+  },
+  {
+    "id": 23,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, that was the one time I ever lost faith in the idea that my life would be better in three years. And what's funny is, three years from that moment, my life was amazing."
+  },
+  {
+    "id": 24,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "If you love something, you can never let it go. Not even for a second. Or it's gone forever."
+  },
+  {
+    "id": 25,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Ted, you did this all yourself?\"Ted: \"Just like Ryan Gosling in 'The Notebook'. It was pretty manly 'til I mentioned Ryan Gosling in 'The Notebook', huh?\""
+  },
+  {
+    "id": 26,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"When a woman puts on an engagement ring, it's like when Bilbo Baggins wears the One Ring in The Hobbit.\"Robin: \"Okay, can you say that again, but not in nerd?\"Marshall: \"Sure. Uh, the ring is like the cloak that Harry Potter wears to sneak around Hogwarts.\"Robin: \"Yeah, I don't speak virgin either.\""
+  },
+  {
+    "id": 27,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Eight years ago I made an ass of myself chasing after you and I made an ass of myself chasing after you a bunch of times since then. And I have no regrets because it led me to something I wouldn't trade for the world, it led to you being my friend. So as your friend and a leading expert in the field of making an ass of yourself. I say to you, from the heart, get the hell out of this car!"
+  },
+  {
+    "id": 28,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Seven years ago when Marshall and Lily got engaged Ted saw Robin across a crowded room and I said 'oh yeah you just know she likes it dirty', but Ted really liked her, so we played 'Have You met Ted?' They went to dinner, he walked her home, should have kissed her, didn't - lame.\nSo he stole the Smurf penis, went back to her place, should have kissed her, didn't - lame.\nHe threw three parties, they kissed on the roof but decided to be friends - lame.\nThen Ted wanted to take Robin to a wedding, she couldn't go, he went alone and met Victoria. Didn't kiss her either - lame.\nNot a great closer Ted. Then he finally kissed her, they started dating, she went to Germany. Ted kissed Robin, lost Victoria, Ted did a rain dance, got Robin. Ted and Robin broke up, Robin moved to Brazil came back with a Latin stud.\nTed got jealous, got a tramp stamp, not really relevant to the story I just like mentioning it as much as possible. I hooked up with Robin, Ted and I stopped being friends, Ted got hit by a bus, we made up... Robin and I started dating and I got fat, her hair fell out, we broke up. Robin dated Don, I dated Nora. I cheated on her with Robin, I dumped Nora. Robin dated Kevin but not for long and then I met you and you took my Grandpa's watch, but I fell in love with you anyway and you let me fart in front of you and I asked you to marry me and you said 'yes', so we came over here to meet little Marvin and that's everything. Also I went on the Price Is Right and I won a dune buggy."
+  },
+  {
+    "id": 29,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Let me choose your child's middle name! Because I have thought up the most awesome name of all time.\"Marshall: \"What's the middle name?\"Barney: \"Wait for it.\"Marshall: \"I'm waiting.\"Barney: \"Wait for it.\"Marshall: \"I said I'm waiting.\"Barney: \"Wait for it.\"Marshall: \"What's the middle name?\"Barney: \"No, the middle name is 'Wait For It'. Let's say his first name is, oh, I don't know, 'Barney'. He'd be Barney 'Wait For It' Eriksen. How awesome is that?\""
+  },
+  {
+    "id": 30,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Barney! I'm allowed to miss them, okay? They're my two best friends.\"Barney: \"I'm your two best friends!\""
+  },
+  {
+    "id": 31,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I'm such a mess. Why do you even like me?\"Barney: \"I guess cause you're almost as messed up as I am.\""
+  },
+  {
+    "id": 32,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Seriously. Jesus started the whole 'wait three days'-thing. He waited three days to come back to life. It was perfect! If he had only waited one day, a lot of people wouldn't have even heard that he died. They'd be all, 'Hey Jesus, what up?' and Jesus would probably be like, 'What up? I died yesterday!' and then they'd be all, 'Uh, you look pretty alive to me, dude...' and then Jesus would have to explain how he was resurrected, and how it was a miracle, and then the dude would be like 'Uh okay, whatever you say, bro.'And he's not gonna come back on a saturday. Everybody's busy, doing chores, workin' the loom, trimmin' their beards. No, he waits the exact right number of days: three! Plus it's sunday, so everyone's in church already, they're all in there 'Oh no, Jesus is dead', then bam! He bursts through the back door, runs up the aisle, everyone's totally psyched, and FYI, that's when he invented the high-five. Three days. We wait three days to call a woman, because that's how long Jesus wants us to wait.... True story!"
+  },
+  {
+    "id": 33,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I didn't give up on my dream house, because that's the thing about stupid decisions - we all make them, but time is funny and sometimes a little magical. It can take a stupid decision, and turn it into something else entirely."
+  },
+  {
+    "id": 34,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, you may think your only choices are to swallow your anger or throw it in someone's face, but there's a third option: You can just let it go, and only when you do that is it really gone and you can move forward."
+  },
+  {
+    "id": 35,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Sometimes, even when you know something's a mistake, you gotta make it anyway."
+  },
+  {
+    "id": 36,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Think of me as Yoda - only, instead of being little and green, I wear suits and I'm awesome. I'm your bro. I'm Broda."
+  },
+  {
+    "id": 37,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You are the love of my life. Everything I have and everything I am is yours. Forever."
+  },
+  {
+    "id": 38,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Canada also helped in two world wars and gave the world Neil Young, William Shatner, Leonard Cohen, Pamela Anderson, one quarter of Barney Stinson, instant mashed potatoes and best of all - you."
+  },
+  {
+    "id": 39,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Fine, we'll just have a nice, tasteful rehearsal dinner. Maybe at a French restaurant, I know just the place.\"Robin: \"What's the name of the restaurant?\"Barney: \"La Sertag.\""
+  },
+  {
+    "id": 40,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I only have one rule. For every three 10's you bang, throw a bone to a 5. They're grateful and hard working and let's face it, sometimes you just want to lay there."
+  },
+  {
+    "id": 41,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "It's nice that they found each other. Sometimes you fall for someone you'd never expect, but that doesn't make it wrong. Doesn't everyone deserve to be happy?"
+  },
+  {
+    "id": 42,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You know, it's funny. Almost every woman I've ever met was wrong to give me a chance. You're the first woman who's wrong not to."
+  },
+  {
+    "id": 43,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Neither one of us are gonna say, \"Hey, how's it going?\" or \"Good to see you!\"\nBecause it really will be good to see you."
+  },
+  {
+    "id": 44,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Airport Security: \"How did you get that through the X-Ray machine?\"Barney: \"No questions from the audience, please!\""
+  },
+  {
+    "id": 45,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "This guy he's done everything right. He's been loving and devoted since he was 18 years old. There are only a few truly great people on this planet and he is one of them."
+  },
+  {
+    "id": 46,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "I know our relationship isn't exactly what you want it to be. And I know I may not love you the way you love me, but I DO love you. Isn't that worth hanging on to?"
+  },
+  {
+    "id": 47,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Here are a few fun facts about Long Island... Number 1: It's Brooklyn's fart-trail."
+  },
+  {
+    "id": 48,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Which meant for the first time in years, the world was wide open. Because kids, when a door closes... well, you know the rest."
+  },
+  {
+    "id": 49,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Your heart's talking to you, Barney. Do you have the guts to listen to it?"
+  },
+  {
+    "id": 50,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Just give me his name!\"Robin: \"Fine. It's Bill Pepper.\"Lily: \"Kind of a coincidence there happens to be a bill and a pepper shaker here on the table. Any chance you and Bill had a three-way with Fork Napkin?\""
+  },
+  {
+    "id": 51,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "It's only once you've stopped, that you realize how hard it is to start again. So you force yourself not to want it."
+  },
+  {
+    "id": 52,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Whatever you do in this life, it's not legendary, unless your friends are there to see it."
+  },
+  {
+    "id": 53,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "If you're looking for the word that means caring for someone beyond all rationality and wanting them to have everything they want, no matter how much it destroys you, it's love!"
+  },
+  {
+    "id": 54,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Our wedding is gonna be legendary.\"Robin: \"No wait for it?\"Barney: \"I've got you, I don't have to wait for it anymore.\""
+  },
+  {
+    "id": 55,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, you can't cling to the past. Because no matter how tight you hold on... it's already gone."
+  },
+  {
+    "id": 56,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Underneath all of those lies is one true thing. One true thing that can support the weight of all the lies in the world, and that's the fact that I love you."
+  },
+  {
+    "id": 57,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Nobody likes to be alone, especially after a breakup. But that's when we discover who we really are and what we really want."
+  },
+  {
+    "id": 58,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "When I get sad, I stop being sad and be awesome instead. True Story."
+  },
+  {
+    "id": 59,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "You know how sometimes you'll meet a girl and there'll be that one bewitching little detail that'll make you fall in love with her instantly? You know, a little freckle on the nose, the lilt of her laugh, the way she pronounces a certain word or phrase..."
+  },
+  {
+    "id": 60,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "This woman has a hold on my heart that I could not break if I wanted to, and there have been times that I wanted to.\nIt has been overwhelming and humbling and even painful at times, but I could not stop loving her any more than I could stop breathing."
+  },
+  {
+    "id": 61,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "The beauty of a moment, is that it's fleeting."
+  },
+  {
+    "id": 62,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Ted what is my one rule?\"Ted: \"You can tell how old a girl is by her elbows?\"Barney: \"My other one rule.\"Ted: \"Flax seed relieves upset stomach?\"Barney: \"My other one rule.\"Ted: \"Always have a fake pair of concert tickets in your pocket in case Lily invites you to something stupid?\"Barney: \"My other one rule.\"Ted: \"Labanese girls sprint to third base and then stay there.\"Barney: \"My other one rule.\"Ted: \"New is always better?\"Barney: \"New is always better!\""
+  },
+  {
+    "id": 63,
+    "author": "Kevin",
+    "series": "how_i_met_your_mother",
+    "quote": "If we're together long enough I hope that one day you see yourself like I do."
+  },
+  {
+    "id": 64,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Well, maybe this isn't a breakup. Maybe this is two friends getting back together."
+  },
+  {
+    "id": 65,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "When you date someone, it's like you're taking one long course in who that person is and then, when you break up, all that stuff becomes useless. It's the emotional equivalent of an English degree..."
+  },
+  {
+    "id": 66,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, you can't talk yourself into falling in love. It doesn't take days of deliberation. When it's real, you know pretty quickly and with absolute certainty.\nI had forgotten that, but I was about to be reminded..."
+  },
+  {
+    "id": 67,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I don't wanna be choosing between two girls, I wanna be a complete head over heels idiot for one!"
+  },
+  {
+    "id": 68,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Sometimes our best decisions are the ones that don't make any sense at all."
+  },
+  {
+    "id": 69,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I never wanted any of it to change, but that's not how life works."
+  },
+  {
+    "id": 70,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Here's the secret, kids: none of us can vow to be perfect. In the end, all we can do is promise to love each other with everything we've got. Because love's the best thing we do."
+  },
+  {
+    "id": 71,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Love doesn't make sense. I mean, you can't logic your way into or out of it. Love ist totally nonsensical, but we have to keep doing it or else we're lost and love is dead and humanity should just pack it in. Because love is the best thing we do."
+  },
+  {
+    "id": 72,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"My mother is not one-night-stand material!\"Barney: \"Yeah, you're right. It wasn't night and we weren't standing.\""
+  },
+  {
+    "id": 73,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, that was the one time I ever lost faith in the idea that my life would be better in three years. And what's funny is, three years from that moment, my life was amazing."
+  },
+  {
+    "id": 74,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "If you love something, you can never let it go. Not even for a second. Or it's gone forever."
+  },
+  {
+    "id": 75,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Ted, you did this all yourself?\"Ted: \"Just like Ryan Gosling in 'The Notebook'. It was pretty manly 'til I mentioned Ryan Gosling in 'The Notebook', huh?\""
+  },
+  {
+    "id": 76,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"When a woman puts on an engagement ring, it's like when Bilbo Baggins wears the One Ring in The Hobbit.\"Robin: \"Okay, can you say that again, but not in nerd?\"Marshall: \"Sure. Uh, the ring is like the cloak that Harry Potter wears to sneak around Hogwarts.\"Robin: \"Yeah, I don't speak virgin either.\""
+  },
+  {
+    "id": 77,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Eight years ago I made an ass of myself chasing after you and I made an ass of myself chasing after you a bunch of times since then. And I have no regrets because it led me to something I wouldn't trade for the world, it led to you being my friend. So as your friend and a leading expert in the field of making an ass of yourself. I say to you, from the heart, get the hell out of this car!"
+  },
+  {
+    "id": 78,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Seven years ago when Marshall and Lily got engaged Ted saw Robin across a crowded room and I said 'oh yeah you just know she likes it dirty', but Ted really liked her, so we played 'Have You met Ted?' They went to dinner, he walked her home, should have kissed her, didn't - lame.\nSo he stole the Smurf penis, went back to her place, should have kissed her, didn't - lame.\nHe threw three parties, they kissed on the roof but decided to be friends - lame.\nThen Ted wanted to take Robin to a wedding, she couldn't go, he went alone and met Victoria. Didn't kiss her either - lame.\nNot a great closer Ted. Then he finally kissed her, they started dating, she went to Germany. Ted kissed Robin, lost Victoria, Ted did a rain dance, got Robin. Ted and Robin broke up, Robin moved to Brazil came back with a Latin stud.\nTed got jealous, got a tramp stamp, not really relevant to the story I just like mentioning it as much as possible. I hooked up with Robin, Ted and I stopped being friends, Ted got hit by a bus, we made up... Robin and I started dating and I got fat, her hair fell out, we broke up. Robin dated Don, I dated Nora. I cheated on her with Robin, I dumped Nora. Robin dated Kevin but not for long and then I met you and you took my Grandpa's watch, but I fell in love with you anyway and you let me fart in front of you and I asked you to marry me and you said 'yes', so we came over here to meet little Marvin and that's everything. Also I went on the Price Is Right and I won a dune buggy."
+  },
+  {
+    "id": 79,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Let me choose your child's middle name! Because I have thought up the most awesome name of all time.\"Marshall: \"What's the middle name?\"Barney: \"Wait for it.\"Marshall: \"I'm waiting.\"Barney: \"Wait for it.\"Marshall: \"I said I'm waiting.\"Barney: \"Wait for it.\"Marshall: \"What's the middle name?\"Barney: \"No, the middle name is 'Wait For It'. Let's say his first name is, oh, I don't know, 'Barney'. He'd be Barney 'Wait For It' Eriksen. How awesome is that?\""
+  },
+  {
+    "id": 80,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Barney! I'm allowed to miss them, okay? They're my two best friends.\"Barney: \"I'm your two best friends!\""
+  },
+  {
+    "id": 81,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I'm such a mess. Why do you even like me?\"Barney: \"I guess cause you're almost as messed up as I am.\""
+  },
+  {
+    "id": 82,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Seriously. Jesus started the whole 'wait three days'-thing. He waited three days to come back to life. It was perfect! If he had only waited one day, a lot of people wouldn't have even heard that he died. They'd be all, 'Hey Jesus, what up?' and Jesus would probably be like, 'What up? I died yesterday!' and then they'd be all, 'Uh, you look pretty alive to me, dude...' and then Jesus would have to explain how he was resurrected, and how it was a miracle, and then the dude would be like 'Uh okay, whatever you say, bro.'And he's not gonna come back on a saturday. Everybody's busy, doing chores, workin' the loom, trimmin' their beards. No, he waits the exact right number of days: three! Plus it's sunday, so everyone's in church already, they're all in there 'Oh no, Jesus is dead', then bam! He bursts through the back door, runs up the aisle, everyone's totally psyched, and FYI, that's when he invented the high-five. Three days. We wait three days to call a woman, because that's how long Jesus wants us to wait.... True story!"
+  },
+  {
+    "id": 83,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I didn't give up on my dream house, because that's the thing about stupid decisions - we all make them, but time is funny and sometimes a little magical. It can take a stupid decision, and turn it into something else entirely."
+  },
+  {
+    "id": 84,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, you may think your only choices are to swallow your anger or throw it in someone's face, but there's a third option: You can just let it go, and only when you do that is it really gone and you can move forward."
+  },
+  {
+    "id": 85,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Sometimes, even when you know something's a mistake, you gotta make it anyway."
+  },
+  {
+    "id": 86,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Think of me as Yoda - only, instead of being little and green, I wear suits and I'm awesome. I'm your bro. I'm Broda."
+  },
+  {
+    "id": 87,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You are the love of my life. Everything I have and everything I am is yours. Forever."
+  },
+  {
+    "id": 88,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Canada also helped in two world wars and gave the world Neil Young, William Shatner, Leonard Cohen, Pamela Anderson, one quarter of Barney Stinson, instant mashed potatoes and best of all - you."
+  },
+  {
+    "id": 89,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Fine, we'll just have a nice, tasteful rehearsal dinner. Maybe at a French restaurant, I know just the place.\"Robin: \"What's the name of the restaurant?\"Barney: \"La Sertag.\""
+  },
+  {
+    "id": 90,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I only have one rule. For every three 10's you bang, throw a bone to a 5. They're grateful and hard working and let's face it, sometimes you just want to lay there."
+  },
+  {
+    "id": 91,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "It's nice that they found each other. Sometimes you fall for someone you'd never expect, but that doesn't make it wrong. Doesn't everyone deserve to be happy?"
+  },
+  {
+    "id": 92,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You know, it's funny. Almost every woman I've ever met was wrong to give me a chance. You're the first woman who's wrong not to."
+  },
+  {
+    "id": 93,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Neither one of us are gonna say, \"Hey, how's it going?\" or \"Good to see you!\"\nBecause it really will be good to see you."
+  },
+  {
+    "id": 94,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Airport Security: \"How did you get that through the X-Ray machine?\"Barney: \"No questions from the audience, please!\""
+  },
+  {
+    "id": 95,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "This guy he's done everything right. He's been loving and devoted since he was 18 years old. There are only a few truly great people on this planet and he is one of them."
+  },
+  {
+    "id": 96,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "I know our relationship isn't exactly what you want it to be. And I know I may not love you the way you love me, but I DO love you. Isn't that worth hanging on to?"
+  },
+  {
+    "id": 97,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Here are a few fun facts about Long Island... Number 1: It's Brooklyn's fart-trail."
+  },
+  {
+    "id": 98,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Which meant for the first time in years, the world was wide open. Because kids, when a door closes... well, you know the rest."
+  },
+  {
+    "id": 99,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Your heart's talking to you, Barney. Do you have the guts to listen to it?"
+  },
+  {
+    "id": 100,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Just give me his name!\"Robin: \"Fine. It's Bill Pepper.\"Lily: \"Kind of a coincidence there happens to be a bill and a pepper shaker here on the table. Any chance you and Bill had a three-way with Fork Napkin?\""
+  },
+  {
+    "id": 101,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You name a chubby white kid LeBron and he's the one getting stuffed in the basketball hoop.\"Marshall: \"Then I'm also crossing off Shaquille, Hakeem and Dikembe.\""
+  },
+  {
+    "id": 102,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There's something that I need to ask you and I want you to be honest with me. Why do white people like Carrot Top?"
+  },
+  {
+    "id": 103,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"Ted, are you acting out the last scene of 'Sleepless in Seattle' with little dolls?\"Ted: \"How long have you been out here?\"Robin: \"Ten seconds.\"Ted: \"Yeah - just the last scene.\""
+  },
+  {
+    "id": 104,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"I don't care if the dishes aren't done, okay? If you care, you do it.\"Lily: \"Great, then I don't care if you have an orgasm. If you care, you do it.\""
+  },
+  {
+    "id": 105,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Everyone has an opinion on how long it takes to recover from a breakup.\"Lily: \"Half the length of the relationship.\"Marshall: \"One week for every month you were together.\"Robin: \"Exactly 10,000 drinks, however long that takes.\"Barney: \"You can't measure something like this in time. There's a series of steps: From her bed to the front door. Bam! Out of there.... next!\""
+  },
+  {
+    "id": 106,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Because sometimes, even when you know how something's gonna end, that doesn't mean you can't enjoy the ride."
+  },
+  {
+    "id": 107,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Okay, I've missed you. Not in a \"we're gonna make out\" way, not even in an \"I forgive you\" way. Just in an \"I've missed you\" way."
+  },
+  {
+    "id": 108,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"I hate how you're always right.\"Lily: \"It's my best, and most annoying, trait.\""
+  },
+  {
+    "id": 109,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You're not gonna do it at your wedding?\"Lily: \"Hell, yeah! I'm gonna take that flower-grenade and chuck it to the crowd and scream, 'Crawl for it, bitches!'\""
+  },
+  {
+    "id": 110,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Sorry Peter, we're grown-ups now, we can't fly to Netherland with you anymore."
+  },
+  {
+    "id": 111,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You're like Mary Poppins, if her magic purse was also filled with drugs.\"Robin: \"If? Ted, the kids in that movie jumped into a painting and spent 15 minutes chasing a cartoon fox. Spoonful of sugar? Grow Up!\""
+  },
+  {
+    "id": 112,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Oh, this dress is totally going to get me laid on my wedding night."
+  },
+  {
+    "id": 113,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "And that, kids, is the kind of stupid thing you say, before you've met the person who hits the reset button on the world. Who makes everything new again. Who makes it seem ridiculous that you ever considered settling."
+  },
+  {
+    "id": 114,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm also pleased to announce The Bro Code is now available in select airlines across the country. And Lufthansa. 'Der Bro Code' is, like, huge in Germany."
+  },
+  {
+    "id": 115,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Here's the thing, kids: When you believe in people, people come through."
+  },
+  {
+    "id": 116,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily Aldrin: \"Guys, The Captain just made me a very interesting offer.\"Barney Stinson: \"Finally we get around to the real reason he hired you. Just promise you film it, and please use a tripod. There's nothing artistic about shaky-cam, it just looks sloppy.\""
+  },
+  {
+    "id": 117,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Look, if Michael Jordan's healthy, you don't let Scottie Pippen run the offense. Oh, you're from Canada, right. If Wayne Gretzky's healthy, you don't let Fran\u00e7ois... what I'm saying is: hockey is stupid and I'm point guy!"
+  },
+  {
+    "id": 118,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Every time I go after a busty dullard who can't tell time or thinks I'm the ghost of Leonardo DiCaprio, I'm shallow. But somehow it's okay for Robin to date a guy who can't be trusted around outlets."
+  },
+  {
+    "id": 119,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "The last play you'll ever run."
+  },
+  {
+    "id": 120,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"We're like sisters.\"Ted: \"You've never gotten through even one exchange without screaming at her.\"Robin: \"Sisters fight, Ted!\""
+  },
+  {
+    "id": 121,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Come on Ted, it's 2012. What do you expect, to meet some cute travel agent when you're reading a newspaper at a bookstore? None of those things exist anymore!"
+  },
+  {
+    "id": 122,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"It's kind of a big, professional meeting. You might want to trade out that lollipop for a shirt.\"Ted: \"Yeah. I'll just give it to one of these kids.\"Marshall: \"Oh, buddy. You're half naked, you're not a parent to any of these children. Don't offer 'em candy!\""
+  },
+  {
+    "id": 123,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Do it. If you ever want to see these boobs again, crawl, you son of a me."
+  },
+  {
+    "id": 124,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I am so sorry, Cornelius. You deserve a better end than this.\"Lily: \"You got ketchup on a red tie, you can't even see it!\""
+  },
+  {
+    "id": 125,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Are you aware, that breaking a broath can have deadly- even fatal repercussions?"
+  },
+  {
+    "id": 126,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "When you do one good deed, it creates a ripple effect. One good deed leads to another and another."
+  },
+  {
+    "id": 127,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, Robin and Barney had recently shared an awkward moment. After that, they did what any two mature adults would do: They pretended it never happened."
+  },
+  {
+    "id": 128,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "What do you call a fish with no eyes?\nFsh."
+  },
+  {
+    "id": 129,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "The boobs on the bus go up and down, up and down, up and down\nThe boobs on the bus go up and down, all through the town"
+  },
+  {
+    "id": 130,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Canada sucks.\"Robin: \"Okay, well, you're one-quarter Canadian, so by that logic you one-quarter suck!\"Barney: \"I'm 100% awesome and you know it!\"Robin: \"Yeah, I do.\""
+  },
+  {
+    "id": 131,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Destined? Aren't you tired of waiting for destiny, Ted? Isn't it time to make your own destiny?"
+  },
+  {
+    "id": 132,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Oh, come on. If you don't laugh, it just seems mean."
+  },
+  {
+    "id": 133,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"How's the single life?\"Ted: \"I wouldn't know. After this whole Robin thing, I'm laying low.\"Barney: \"Laying low as in sleeping with a really short chick? You guys doing thirty-nine?\""
+  },
+  {
+    "id": 134,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Excuse me, miss. When you get a chance, could you bring over a hundred shots of tequila please?\"Barney: \"I'll have the same.\""
+  },
+  {
+    "id": 135,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You give me one hour of phone-free bro time, during which we, and by we I mean you, get magnificently, mythologically drunk. I'm talking needing-subtitles-when-you-speak drunk."
+  },
+  {
+    "id": 136,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Quinn: \"What is an executive strategy coordinator?\"Barney: \"It's three corporate-sounding words which, when added together, equal a fake job for which you get a real paycheck.\""
+  },
+  {
+    "id": 137,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I scoured the dating sites, using my own personal logarithms, factoring in a broad spectrum of variables, filtering out undesirable high-risk negatives, guaranteeing a success-rate of eighty-thr...\"Ted: \"...you picked the girls that showed the most boob.\""
+  },
+  {
+    "id": 138,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Lily dream-banged someone we know.\"Barney: \"Okay, you caught me vermilion-handed. The truth is, I've spent the last five years trying to inception your wife.\"Marshall: \"That movie only came out two years ago.\"Barney: \"What movie?\""
+  },
+  {
+    "id": 139,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "People make fun of the guy who stays at home every night doing nothing, but the truth is that guy is a genius."
+  },
+  {
+    "id": 140,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Every night can't be legendary. If all nights are legendary, no nights are legendary!"
+  },
+  {
+    "id": 141,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "If there was any shame in a dude getting a pedicure I don't think there would've been a feature about it in Details magazine."
+  },
+  {
+    "id": 142,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "For the first time in my life, I don't want to find myself in three years with some random girl. No matter how many boobs she has."
+  },
+  {
+    "id": 143,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Back boobs! The visual stimulation of missionary meets the emotional detachment of doggy style... patent pending."
+  },
+  {
+    "id": 144,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm KFC baby - you don't mess with the Colonel's recipe!"
+  },
+  {
+    "id": 145,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Fine I'll fill her in and I am so angry I am not even goin' to make a joke about \"filling her in\"... which I did three times last night. Self-five!"
+  },
+  {
+    "id": 146,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"In a city of eight million people, you happened to walk into the club where she works? Maybe it's destiny.\"Barney: \"No, Destiny strips at 'The Melon Patch'. They're people, Ted. Try to keep them straight!\""
+  },
+  {
+    "id": 147,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, sometimes you realize, the journey you've been taking has reached its final stop. So, the question becomes: Where do you go next?"
+  },
+  {
+    "id": 148,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Oh, screw 'The One'!\"Barney: \"What?\"Ted: \"Every date I've been on lately has been brutal. Last week, I went out with a girl whose favorite band was Glee. Plus, it's almost Valentine's Day and I'm alone without anything close to a girlfriend. So... all aboard!\"Barney: \"I have never been more proud of you.\""
+  },
+  {
+    "id": 149,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Sorry this is taking so long. He kicked for everybody else.\"Marshall: \"It's hard for the little guy to perform under pressure.\"Barney: \"Top ten things Marshall said on his wedding night.\"Kevin: \"Wow! It was small, but I think I felt something.\"Robin: \"Top ten things Lily said on her wedding night.\""
+  },
+  {
+    "id": 150,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Would the five of us always live within a few minutes of that booth? No, that's life, kids, but here's what I discovered: Our booth was wherever the five of us were together."
+  },
+  {
+    "id": 151,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Yes! Tonight is gonna be Legen... wait, are we sure it's a good idea to go to a strip club? Shut up, Lily! I'm in charge now... Dary!"
+  },
+  {
+    "id": 152,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Hey look, it's the New York City skyline.\nWe built Chip City... we built Chip City on all your dough!"
+  },
+  {
+    "id": 153,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Sandy Rivers: \"I don't know what went wrong.\"Robin: \"Well, proposing a three way was bad. Starting without us was worse. Finishing in the hallway was the nail in the coffin.\""
+  },
+  {
+    "id": 154,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Think of the pickup plays we can run as a father-son duo. There's the \"Father Knows Breast\", there's the \"Bush Dynasty\", the \"Lick Father, Lick Son\"."
+  },
+  {
+    "id": 155,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You could help a friend, but instead you're choosing the hot girl in the tight tank-top. Your training is complete, I'm so proud of this kid!"
+  },
+  {
+    "id": 156,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Judy: \"Who got Cousin Daphne drunk? She is 15 years old.\"Robin: \"Whoa, they grow big out here.\"Barney: \"And here's your phone number back.\""
+  },
+  {
+    "id": 157,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Barney, I don't know if the oven is deep enough. Plus, it's a display made of cardboard.\"Barney: \"Huh. I should probably disconnect the gas.\""
+  },
+  {
+    "id": 158,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin, girls are like cartons of milk. Each one has a hotness expiration date and you've hit yours. I'm not saying the occasional guy won't still open the fridge, pick you up, give a sniff, shrug and take a sip anyway, but it's all downhill from here."
+  },
+  {
+    "id": 159,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"During that time, I have been, how do I put this delicately, saving all my love for you.\"Lily: \"I have read eleven books on conception, I have cut out alcohol, caffeine and sugar. I take my temperature every hour. But good for you for not playing with yourself!\""
+  },
+  {
+    "id": 160,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"You have no reason to be nervous. And I'm going to tell you why in one word.\"Ted: \"And what's that word?\"Barney: \"Dibs!\""
+  },
+  {
+    "id": 161,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There is only one street where that is normal. Here's a hint: A giant yellow bird lives on it."
+  },
+  {
+    "id": 162,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Fine, you guys can have a baby, but only under these conditions:1) You promise to always love me more than the baby.2) Once a month, I get to use the baby to pick up chicks.3) That may involve the baby falling from a two-story window and me heroically catching it.4) No breast-feeding in front of me.5) Forget about 4), you can whip 'em out whenever you want."
+  },
+  {
+    "id": 163,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"Have plans with Don on Saturday, he's making me Chinese.\"Lily: \"I'll assume you're talking about food, otherwise, I have some follow-up-questions.\""
+  },
+  {
+    "id": 164,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "In commemoration of Barney's induction into the \"Hall of Game\", this tie, worn on the seventh night of his perfect week, is hereby retired."
+  },
+  {
+    "id": 165,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "What's in the box? What's in the box? WHAT'S IN THE BOX?\nRight? Brad pitt? Seven?"
+  },
+  {
+    "id": 166,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Not only are you wrong... but you are belligerently sticking to your guns and insulting me in the process. Robin Scherbatsky, you are an American."
+  },
+  {
+    "id": 167,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "There's something between us. Maybe my head was saying, \"nip it in the bud\", because my heart was saying something else..."
+  },
+  {
+    "id": 168,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There's only three things you'll ever see me fight:The stubborn clasp of a bra.Sexual harassment charges - nine for nine!And the urge to vomit when, I see someone wearing brown shoes with a black suit."
+  },
+  {
+    "id": 169,
+    "author": "Victoria",
+    "series": "how_i_met_your_mother",
+    "quote": "I have let you come wash my dishes. I said my oven needed cleaning, I invited you to a p-rno!"
+  },
+  {
+    "id": 170,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, morals usually come at the end of stories, but this one is so important, I'm gonna tell you now. Don't ever, ever invite an ex to your wedding."
+  },
+  {
+    "id": 171,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I just finished a seven-day cleanse.\"Marshall: \"I thought you just started that yesterday.\"Robin: \"I finished early, okay?\""
+  },
+  {
+    "id": 172,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"Who wants hot-wings?\"Lily: \"I'm in... or maybe we should just pour hot-sauce on Barney, since he's a total chicken.\""
+  },
+  {
+    "id": 173,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"The broken windows?\"Lily: \"We had to make it look realistic.\"Marshall: \"But why did you break two of them?\"Robin: \"It looked like fun when she did it, so I wanted to try.\"Marshall: \"I can't believe this whole time it was you guys; I've been blaming Really Tan Dancing Leotard guy.\""
+  },
+  {
+    "id": 174,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"What? I am not keeping Mike on a hook!\"Ted: \"You are Captain Hook!\"Robin: \"Dude, I'm a girl, ok? Our girl parts are like a spider webs; sometimes you are gonna catch stuff you don't want.\""
+  },
+  {
+    "id": 175,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "When I have kids, and I tell them how I met their mother, I'm gonna tell them everything. The whole damn story."
+  },
+  {
+    "id": 176,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"A swordfight? On Monday I'm gonna have to tell my kindergarten class, who I teach not to run with scissors, that my fianc\u00e9 ran me through with a freakin' broadsword.\"Marshall: \"Well... just to be fair, it didn't go all the way through.\"Lily: \"I'm sorry, is this a discussion of the degree to which you stabbed me?\""
+  },
+  {
+    "id": 177,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "When I rode home the next morning, the city looked the same. The people looked the same. It all looked the same. But it wasn't. In just one night, everything had changed."
+  },
+  {
+    "id": 178,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Do you have a cold?\"Barney: \"I'm fine. My nose is just overflowing with awesome and I had to get some of it out.\""
+  },
+  {
+    "id": 179,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"It's nine weeks 'til the wedding, at this point, I'd say yes to just about anything.\"Barney: \"Well...\"Lily: \"No, Barney.\""
+  },
+  {
+    "id": 180,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, I'm going to tell you an incredible story, the story of how I met your mother."
+  },
+  {
+    "id": 181,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"That beer looks a little flat.\"Robin: \"Yeah.. it's scotch.\""
+  },
+  {
+    "id": 182,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You know what they say about relationships. Every waking moment's a battle."
+  },
+  {
+    "id": 183,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted, I believe you and I met for a reason. It's like the universe was saying: \"Hey Barney, there's this dude, he's pretty cool, but it's your job to make him awesome.\""
+  },
+  {
+    "id": 184,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Check it out, I made a little game.\"Lottery Girl: \"And tonight's lotto numbers are: 19...\"Barney: \"...age you moved to New York after a photographer 'discovered' you at a food court and said he would get you into Vogue Magazine.\"Lotto Girl: \"53...\"Barney: \"...number of semi-nude pictures he took of you before you realized he had no connection to Vogue Magazine.\"Lotto Girl: \"22...\"Barney: \"...age you claim you are.\"Lotto Girl: \"31...\"Barney: \"...age you actually are.\"Lotto Girl: \"45...\"Barney: \"...number of minutes it would take me to get you into a cab, out of your dress and into my Jacuzzi.\"Lotto Girl: \"And tonight's Super Big Ball is...\"Barney: \"...what happens after we get out of the Jacuzzi. What Up?!\""
+  },
+  {
+    "id": 185,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "A lie is just a great story that someone ruined with the truth."
+  },
+  {
+    "id": 186,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "The \"no more surprises\"-thing is the best part of being married."
+  },
+  {
+    "id": 187,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Your challenge is accepted Lil, there is no girl too prettyFor I am Barney Stinson, Player King of New York City.\"Ted: \"You can't anoint yourself the king, just like that jerk, LeBron.\"Barney: \"He left the Cavs three years ago. Bro, give it up, move on.\""
+  },
+  {
+    "id": 188,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I've been dreaming of that since I was five. Well, that and my own operational Death Star."
+  },
+  {
+    "id": 189,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"I'm not paying for room service the hooker ordered.\"Barney: \"I've been there.\""
+  },
+  {
+    "id": 190,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Just be yourself. Say something nice.\"Robin: \"Which one? I can't do both.\""
+  },
+  {
+    "id": 191,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "This sacred text was eventually brought to the New World in 1776 by none other than Christopher Brolumbus. And that's why he got to bang Pocahontas."
+  },
+  {
+    "id": 192,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "My metabolism is all messed up. See, I can moose down a pint of fudge ripple for a midnight snack and wake up having lost weight. Well, everywhere except for my boobs. So annoying."
+  },
+  {
+    "id": 193,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "So, what do you want to do tonight? Drink ourselves blind, set a car on fire? Oh, watch a movie that doesn't start with a desk lamp jumping on top of a capital \"I\"?"
+  },
+  {
+    "id": 194,
+    "author": "How I Met Your Mother",
+    "series": "how_i_met_your_mother",
+    "quote": "Sounds like you guys need to 'Clear Everything,' 'Subtract' the negativity and 'Add' some perspective."
+  },
+  {
+    "id": 195,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Turns out, when you projectile vomit on skates, you roll right into the spray."
+  },
+  {
+    "id": 196,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I poured my blood, sweat and tears into that building. Though, to be fair, a lot of that happened the day I accidentally fell down the elevator shaft."
+  },
+  {
+    "id": 197,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"I was once with this chick, who liked to do hand stuff underneath a jacket, while we were all sitting around our favorite booth at MacLaren's.\"Ted: \"Gross.\"Robin: \"We share appetizers!\""
+  },
+  {
+    "id": 198,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Lily, you snooped through her stuff?\"Lily: \"No, it's like the first thing you see when you jimmy open her desk-drawer with the letter opener her grandfather left her, according to her diary.\""
+  },
+  {
+    "id": 199,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "In this fall - this is tough. In this fall I'm going to take my talents to Mouth Beach."
+  },
+  {
+    "id": 200,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Sticky's even sent me a boob-shaped hand-sanitizer dispenser. It's clean and dirty at the same time."
+  },
+  {
+    "id": 201,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Eventually, Nick's groin will heal and you'll be back in Sexville, where all the crossword puzzles only have one box to fill."
+  },
+  {
+    "id": 202,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"It's the Drunk Train! You crossed out all the stops and wrote Vagina-Ville.\"Barney: \"That's not true. That one says Boner Gardens.\""
+  },
+  {
+    "id": 203,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"Can you guys keep a secret?\"Lily: \"Yeah.\"Marshall: \"Well, some of us can...\""
+  },
+  {
+    "id": 204,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You've been a hell of a wingman. And even though I think it's kind of gross when you pleasure yourself orally, don't ever think that means I'm not impressed."
+  },
+  {
+    "id": 205,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"So this is what you guys do? You invite other couples over for dinner, to judge them and feel superior?\"\nLily: \"Oh, grow up, Ted, that's why any couple invites anyone over ever!\""
+  },
+  {
+    "id": 206,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Why wouldn't she just come right out and say what she wants?\"Marshall: \"Men. It's like, if there weren't pickle jars to open and spiders to kill and computers to back up, what would be their point?\"Lily: \"Mmh-hmm!\"Ted: \"Okay, when did Marshall become a slightly more feminine you?\""
+  },
+  {
+    "id": 207,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I've got a new bro, a bro that puts all other bros to shame. The bitches love him. He buries bones all day. No one chases tail like him. Why aren't you guys laughing? Oh, wait, I probably should have led with this: he's a dog! I've named him Brover."
+  },
+  {
+    "id": 208,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I know this hurts little buddy, but you'll love again someday. Because time will heal a broken heart, but not that bitch's window."
+  },
+  {
+    "id": 209,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Bro, bro, bro your broat, gently to the bar\nHit on sluts, then do ten shots and..."
+  },
+  {
+    "id": 210,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Bro McDonald had a farm, E-I-E-I-bro\nAnd on that farm he had some chicks, E-I-E-I-bro\nWith a hot chick here and a dumb chick there..."
+  },
+  {
+    "id": 211,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Run the montage of people who died this year until I get back and add Sandy, because when I find him, I'm gonna kill him."
+  },
+  {
+    "id": 212,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "The big bro in the sky had answered my prayers. Allmighty five!"
+  },
+  {
+    "id": 213,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Mrs. Buckminster was a spoonful of sugar. But so far, everyone we can afford on this website HeyNannyNanny.com is \"Scary Poppins\"."
+  },
+  {
+    "id": 214,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Are you sure this poo-poo didn't happen on your watch and you just ran out the clock until it was my problem?\"Lily: \"Oh, yeah. Yeah, yeah, right. What kind of mother lets her son sit in his own filth for an extra nine minutes and 42 seconds?\""
+  },
+  {
+    "id": 215,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "It's probably his... I've spent years, training my boys to swim the other way."
+  },
+  {
+    "id": 216,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I'm pregnant.\"Barney: \"Are you sure you're not just getting fat?\""
+  },
+  {
+    "id": 217,
+    "author": "Quinn Garvey",
+    "series": "how_i_met_your_mother",
+    "quote": "Quinn: \"In the event of divorce, Miss Garvey shall get full custody of Mr. Stinson's suits.\"Barney: \"Why? What would you do with them?\"Quinn: \"Nothing. I'd just sit around and watch them go out of style.\""
+  },
+  {
+    "id": 218,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Miss Garvey's parents may stay at our place as long as they like. Provided they each arrive in an urn."
+  },
+  {
+    "id": 219,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"The road to this day has had a few twists and turns, hasn't it?\"Marshall: \"Yeah... just a few. In a weird way, it all makes sense though, doesn't it?\""
+  },
+  {
+    "id": 220,
+    "author": "Quinn Garvey",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"The Disappearing Salami... Mr. Flanagan's wife shot him before he could ever tell me what the trick was.\"Quinn: \"Yeah, that guy was banging your mom!\""
+  },
+  {
+    "id": 221,
+    "author": "Quinn Garvey",
+    "series": "how_i_met_your_mother",
+    "quote": "I hired a decorator and I asked him: \"What would the inside of Tinkerbell's vagina look like?\"\nAnd the kid just ran with it!"
+  },
+  {
+    "id": 222,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Victoria was great.\"Robin: \"Exactly, and you threw it all away to chase after some hot piece of ass.\"Ted: \"You mean you?\"Robin: \"Thank you!\""
+  },
+  {
+    "id": 223,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "We're going to Buffalo... and I've seen women from there; the city's aptly named."
+  },
+  {
+    "id": 224,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Uh, the time Lily went into labor!\"Lily: \"That's now!\"Ted: \"Sorry, I'm running out of stories.\""
+  },
+  {
+    "id": 225,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"That was not cool, Ted.\"Lily: \"Contraction!\"Robin: \"That wasn't cool, Ted?\""
+  },
+  {
+    "id": 226,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Oh, we're busting apple bags? I can bust apple bags."
+  },
+  {
+    "id": 227,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "When I was 13, my father caught me kissing a boy, so he sent me to our family's ranch for foaling season. Once you see a baby horse erupt through that birth canal, you stop even touching yourself!"
+  },
+  {
+    "id": 228,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted it's fine, I'm a child of divorce. You guys keep fighting all you want - as long as the expensive gifts keep coming."
+  },
+  {
+    "id": 229,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "From here on in, every single night of our lives will be a night, we'll never forget. Starting tonight!\n - The night we started a Mariachi Band!\n - The night we ate everything on the menu!\n - The night we brought a horse into the bar!\n - The night we bungee-jumped off the Statue of Liberty!\n - The night we stole a mummy from the Natural History Museum!\n - The night we partied with the mole people\n - The night we tracked down Phil Collins, became best friends with him, and talked him into reuniting with Peter Gabriel, and then we got to sing back-up on the new Genesis album and it was awesome!\n - The night we stole a camel!\n - The night you got locked out in your pajamas and Robin landed a freakin' helicopter and there's still time to reunite Genesis!"
+  },
+  {
+    "id": 230,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted, every little boy wants to grow up to nail the doctor, or the lawyer. Somebody's gotta nail the receptionist."
+  },
+  {
+    "id": 231,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"Barney, I am not ready for them to find out about us.\"Barney: \"Then you're gonna have to stay in there for the entire trilogy. Don't worry, it's only 382 minutes.\"Robin: \"Nerd!\""
+  },
+  {
+    "id": 232,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Dude, if we fail this econ final, for the rest of our lives we're not gonna be able to... we won't know how to... do you even know what 'econ' is?\"Ted: \"No idea. We're screwed.\""
+  },
+  {
+    "id": 233,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Luckily, you are friends with a former Boy Scout and a Boy Scout is always what?\"Robin: \"Unpopular?\"Lily: \"Beaten up?\"Barney: \"Going to the movies with his mom?\"Ted: \"A Boy Scout is always prepared...\"Robin: \"...prepared to spend lunch in his locker?\"Marshall: \"...prepared to die a virgin?\"Barney: \"...prepared to paint his sister's nails?\""
+  },
+  {
+    "id": 234,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Damn it, Ted! I was about to drop some sweet word play about logarithms and getting into a rhythm with my log."
+  },
+  {
+    "id": 235,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "It's \"The Little Engine with Wood\", \"The Whore-ient Express\", \"The Long Island Tail Road\"!"
+  },
+  {
+    "id": 236,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"The last time I lived this far from him, was my semester abroad.\"Lily: \"You never did a semester abroad?\"Marshall: \"That's what I called it, when we lived on opposite sides of the campus.\""
+  },
+  {
+    "id": 237,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "So you're pregnant? Huh, looks like nobody told your boobs."
+  },
+  {
+    "id": 238,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"First it was too much eye-contact, then not enough - where do you look during sex?\"Barney: \"Into the hidden camera at future me, watching it.\""
+  },
+  {
+    "id": 239,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Hey kid, you know how your mom won't let you have icecream 'til after dinner, but then the waiting kind of makes it taste better? Well, I've been waiting two months for that bowl of ice cream - and tonight I'm gonna have sex with it."
+  },
+  {
+    "id": 240,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "We just don't wanna rush anything, okay? We decided to wait, until she decides to let me have sex with her."
+  },
+  {
+    "id": 241,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Doctor: \"Don't worry, it's totally safe. Unless part of your big date involves connecting yourself to a car battery.\"Barney: \"Well, now it doesn't.\""
+  },
+  {
+    "id": 242,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I cannot stop staring at that girl's face.\"Ted: \"Face, huh? That's your weirdest nickname for boobs yet.\""
+  },
+  {
+    "id": 243,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "That girl was just crying. She's so sad and defenseless... anyone have a condom?"
+  },
+  {
+    "id": 244,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Dinner's a very intimate activity. It requires a level of connection and eye contact, that sex just doesn't. Call me old-fashioned, but I need to have sex with a girl at least three times before I'll even consider having dinner with her."
+  },
+  {
+    "id": 245,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"A big package just arrived.\"Marshall: \"Yeah, it did.\"Lily: \"No, no. It's a real package from your dad.\"Marshall: \"Well, that's a little weird, but yeah, it is.\""
+  },
+  {
+    "id": 246,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "So you're the therapist. You know it's one thing to pretend to be a shrink and bang your patients, that's normal. But to do it for real? Little creepy bro."
+  },
+  {
+    "id": 247,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm growing a child in my belly, a child that just developed ears, and it's a very thin sweater. So, please, if you must tell your story, just make it cheerful."
+  },
+  {
+    "id": 248,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall Eriksen, put a baby in my belly."
+  },
+  {
+    "id": 249,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I had a drinking game based on Robin. But it was actually ON Robin: I'd pour peach schnapps in her belly button...\"Ted: \"Dude, we agreed we wouldn't do this.\"Barney: \"Sorry. You're right. She didn't like it anyway. Said it woke her up.\""
+  },
+  {
+    "id": 250,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Even if I meet the girl of my dreams right the second, I'm still one night and nine months away, from having a family on my own. And that's assuming the mother of my childern is just a huge slut."
+  },
+  {
+    "id": 251,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "For some women it was the ashes of my parents. For others it was the trophy from Wimbledon and believe it or not, for one busty dullard, it was both. Game, enormous set and match!"
+  },
+  {
+    "id": 252,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Wherein I suggested that you take your head and store it within yourself, in a fashion that, while space-saving, might limit its exposure to sunshine."
+  },
+  {
+    "id": 253,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"No, seriously Robin, you should get the slap. I mean, you're a great slapper. In fact, I want to study slapping under your tutelage. I want to be your slap-prentice.\"Robin: \"Don't sell yourself short there, Teddy. You're a slapping rock star. Your name should be Eric Slapton.\""
+  },
+  {
+    "id": 254,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I can't believe I'm taking sexual advice from Ted Mosby.That's like taking fashion advice from... well, Ted Mosby."
+  },
+  {
+    "id": 255,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "How do you keep a girl from becoming your girlfriend?1. Never get them wet. In other words, don't let her take a shower at your place.2. Keep them away from sunlight - i. e. don't ever see them during the day.3. Never feed them after midnight. Meaning she doesn't sleep over and you don't have breakfast."
+  },
+  {
+    "id": 256,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "When will you guys realize, that the only difference between my real life and a p0rn0 is, my real life has better lighting?"
+  },
+  {
+    "id": 257,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "What's the difference between peanut butter and jam?You can't peanut butter your dick up someone's ass."
+  },
+  {
+    "id": 258,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted, honey, I want you to go outside and bite the curb. I'll be out in a minute."
+  },
+  {
+    "id": 259,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You have just become victims of the cheerleader-effect. Glad you asked: The cheerleader-effect is when a group of women seems hot, but only as a group. Just like with cheerleaders. They seem hot, but take each one of them individually? Sled dogs!"
+  },
+  {
+    "id": 260,
+    "author": "Victoria",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You know what else is getting cleaned, along with that cup-cake tray? My conscience!\"Victoria: \"You got anything else to atone for? My oven needs cleaning.\""
+  },
+  {
+    "id": 261,
+    "author": "Stella Zinman",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"We can do it against the door. It will be hot. It will be like a three-way: you, me and the door.\"Stella: \"Yeah, but then it's going to be weird between me and the door tomorrow.\""
+  },
+  {
+    "id": 262,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "So Robin? Guess who nailed the chick from \"Metro News One\" last night!"
+  },
+  {
+    "id": 263,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Tell me more. Tell me more. Like did he have a car?\"Marshall: \"So is he the guy who... how shall I say this like a gentleman? Robin, did he take your maple leaf?\"Barney: \"Sounds to me like he gave you your first 'O Canada' face!\""
+  },
+  {
+    "id": 264,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Do not pretend you're not the kind of guy, who keeps a list of all the girls he slept with.\"Marshall: \"I have one. It's called my marriage-license.\""
+  },
+  {
+    "id": 265,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Ted, I'm gonna teach you how to live. Barney... we met at the urinal. Lesson 1: Loose the goatee it doesn't go with your suit!\"\nTed: \"I'm not wearing a suit.\"\nBarney: \"Lesson 2: Get a suit, suits are cool. Exhibit A. Lesson 3: \"Don't even think about getting married until your 30.\""
+  },
+  {
+    "id": 266,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"You can't spell 'game' without 'me' and 'me' has the best game.\"\nTed: \"Yeah well, I got so much game, I'm Cornish game hen.\"\nBarney: \"Oh, yeah? I'm the New York State gaming commissioner.\"\nTed: \"Well, I'm The Game. Well-crafted, keep-you-guessing thriller starring Michael Douglas and Sean Penn.\""
+  },
+  {
+    "id": 267,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Do not tell me you're gonna start searching for \"the one\" again. The only time I wanna hear you saying \"the one\", is if it's followed by the word \"hundred\"."
+  },
+  {
+    "id": 268,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Okay, time to get the horn back to the bistro.\"\nRobin: \"Oh Ted, I don't know if I can go again, that tuckered me out.\"\nTed: \"No euphemism.\""
+  },
+  {
+    "id": 269,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Get ready, Cleveland. The last man to screw you that hard and then disappear, was LeBron James!"
+  },
+  {
+    "id": 270,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Whenever we board a flight, you lick the plane!\"Marshall: \"Have we crashed even once?\""
+  },
+  {
+    "id": 271,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "The only person on earth, who loves Ted Mosby more than Marshall Eriksen, is drunk Marshall Eriksen!"
+  },
+  {
+    "id": 272,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Your car's gonna be fine, this is the best auto-shop around. Look at this certificate, one of the mechanics here...[reads the certificate]...finished a 64 ounce steak."
+  },
+  {
+    "id": 273,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"We'll all have a wedding dress camp-out. It'll be fun!\"Barney: \"I can't go. I've got this thing.\"Lily: \"What thing?\"Barney: \"A penis!\""
+  },
+  {
+    "id": 274,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm going out of this world the same way I came into it: Buck-naked. Yeah. It's gonna be awesome. Open bar for the guys, open casket for the ladies. What up?"
+  },
+  {
+    "id": 275,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Robin! I just had a great idea!\"Robin: \"Oh, do whatever you want to me, just don't wake me up.\""
+  },
+  {
+    "id": 276,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"You mean the whiny, bottomless pit of neediness? He was bugging me so I spiked his echinacea tea with codeine.\"Ted: \"You would be a great mom.\""
+  },
+  {
+    "id": 277,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Grinch, Grinch, Grinch, Grinch!\"[The lights turn out]Lily: \"Happy? Now you pissed up the big guy upstairs!\"Ted: \"Yeah, I'm sure god cares if I...\"Man: \"You use that language again and I turn off your water!\"Lily: \"It's my super - he lives above me.\""
+  },
+  {
+    "id": 278,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Stella hated Star Wars! She lied to you. Search your feelings, Ted. You know it to be true!"
+  },
+  {
+    "id": 279,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"I could end up marrying this woman; I want our first kiss to be special.\"Lily: \"Oh, that's sweet. So you chickened out like a little bitch?\""
+  },
+  {
+    "id": 280,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"On your tombstone, it will be, 'Lily Aldrin. Caring wife. Loving friend. Slapbet-Commissioner.'\"Marshall: \"And your tombstone will read, 'Got slapped by Marhsall so hard he died.'\""
+  },
+  {
+    "id": 281,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You're scared of the seven dwarves?\"Robin: \"Just of Doc. He's creepy... I mean, the guy went to medical school, what is he doing living with six coalminers.\""
+  },
+  {
+    "id": 282,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You don't bring a date to a wedding, that's like taking a deer carcass on a hunting trip."
+  },
+  {
+    "id": 283,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin, I'm his best friend, that's a commitment. Girlfriend, that's like a bad flu. Out of your system after a couple of weeks in bed."
+  },
+  {
+    "id": 284,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Oh hey, where are you guys?\"Barney: \"We're in a fundraiser, helping young women raise money for community college.\"Ted: \"Stripclub... nice!\""
+  },
+  {
+    "id": 285,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Any time, a girl wants to get back at her ex-bodyfriends, we'll be there.Any time, a girl wants to solve her father-issues through promiscuity and binge drinking we will be there.Any time a bachelorette party drives through the city in a limo, sticking their heads out the sunroof, shouting 'what's up New York?', we will be what is 'up' New York!"
+  },
+  {
+    "id": 286,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "In my body, where the shame gland should be, there is a second awesome gland. True story!"
+  },
+  {
+    "id": 287,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Your job is very simple. At the wedding, do not sleep with anyone even remotely related to me.\"Barney: \"Yeah. Lily, you know I can't promise that\""
+  },
+  {
+    "id": 288,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"I can't believe I unloaded like that on a high-school senior.\"\nRobin: \"I can't believe a high-school senior unloaded like that on me.\""
+  },
+  {
+    "id": 289,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "When you meet someone special, suddenly life is full of firsts: The first kiss, the first night together, the first weekend together."
+  },
+  {
+    "id": 290,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "A drum roll?! That's it? So what, you just said good night, came home and... performed a drum solo?"
+  },
+  {
+    "id": 291,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Wow, Ted. You're gonna have to find a new member for yourself, cause I'm revoking your dude-membership.\"Ted: \"Yeah, how was that manicure yesterday?\"Barney: \"Invigorating... thanks.\""
+  },
+  {
+    "id": 292,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Yes, i want a ball-room and I want a band and I want shoes. I've been dreaming about this day since I was... like...Lily: \"...a little girl?\""
+  },
+  {
+    "id": 293,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There's three rules of cheating:1st: It's not cheating if you're not the one who's married.2nd: It's not cheating if her name has two adjacent vowels.3rd: And it's not cheating if she's from a different area code. You're fine on all three counts."
+  },
+  {
+    "id": 294,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Long distance is a lie teenagers tell each other to get laid the summer before college."
+  },
+  {
+    "id": 295,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "How to run a marathon: Step one, you start running. There is no step two."
+  },
+  {
+    "id": 296,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Every Halloween I bring a spare costume. In case I strike out with the hottest girl at the party. That way I have a second chance to make a first impression."
+  },
+  {
+    "id": 297,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I mean she just walked out. At least when I walk out on a girl I have the common courtesy to sleep with her first. It's called manners!"
+  },
+  {
+    "id": 298,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I am not \"with\" Nora. Wrong Preposition! Later tonight I'm hoping to be \"on\" Nora, right? Or \"under\" Nora. Am I right? Or, we're all adults, so I'll just say it: \"behind\" Nora."
+  },
+  {
+    "id": 299,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "If I got serious with Nora, it would be like if Mother Teresa focused all her attention on one really hot orphan. With great penis comes great responsibility."
+  },
+  {
+    "id": 300,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Sex now, we'll do the foreplay after."
+  },
+  {
+    "id": 301,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "So that's it? A couple of white Urkels offer you sausages and you're gone?"
+  },
+  {
+    "id": 302,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Since I stopped dating Robin, there's this thing I haven't used as much as I would like. It's kind of big. Surprisingly heavy. Kind of leathery. And it's black.This, my friends, is the playbook!"
+  },
+  {
+    "id": 303,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I am Mr. Charity. I frequently sleep with sixes, chubsters, over thirty's. I am the Bill and Melinda Gates of the sympathy bang."
+  },
+  {
+    "id": 304,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "God. It's me, Barney. What up? I know we don't talk much, but I know a lot of girls call out your name because of me. Awesome!"
+  },
+  {
+    "id": 305,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney, check it! Three blond babies drinking bad-decision-juice at eight o'clock."
+  },
+  {
+    "id": 306,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Where does this girl live?\"Robin: \"We're talking about a woman who's gotten Barney to commit. I'm guessing Narnia.\""
+  },
+  {
+    "id": 307,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Hey, nice shirt, Ted. Is it yesterday already?"
+  },
+  {
+    "id": 308,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Nerds who aren't good at math?Life is going to be rough boys!"
+  },
+  {
+    "id": 309,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Female acrobats from Montreal, super flexible... we're gonna get Cirque du so-laid!"
+  },
+  {
+    "id": 310,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "It's going to be legen...\nwait for it - and I hope you're not lactose-intolerant cause the second half of that word is\n...dary!"
+  },
+  {
+    "id": 311,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Except the flames of Lucifer keep singein our back bumper as we drive through this hellish, cheese-infected wasteland.\"\nLily: \"Wisconsin?\"\nMarshall: \"Wisconsin!\""
+  },
+  {
+    "id": 312,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I'm drinking 'til I forget the 1999 NFC Championship?\"\nMarshall: \"The Vikings were two minutes away from going to the Super Bowl, when our kicker, who hadn't missed all year, shanked a field goal, and we lost in overtime. Damn!\""
+  },
+  {
+    "id": 313,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"It's freezing out there. Where's your coat?\"\nRobin: \"Ted, I'm Canadian. I don't need a coat. This kind of weather is nothing for me.\"\nMarshall: \"Yeah. This is like a spring day back in Minnesota.\""
+  },
+  {
+    "id": 314,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"We don't wanna burden our little angel with all kinds of gender-specific expectations. Boys can do ballet, girls can play football.\"\nMarshall: \"Hell, the Green Bay Packers have been proving that for years.\""
+  },
+  {
+    "id": 315,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"Our boy's back in the game.\"Lily: \"Thank God, it's been a hundred years since Mosby scored a dame.\"Marshall: \"The last time he saw boobies was the screen-test scene in 'Fame'.\"Robin: \"The last girl he dated, I think 'Righty' was her name.\""
+  },
+  {
+    "id": 316,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Hey, ref, check your voicemail! I think you've missed a few calls!"
+  },
+  {
+    "id": 317,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Open your eyes, ref! That's not a pregnant lady...\"Ted: \"...it's a basketball under his shirt. Blow the freakin' whistle!\""
+  },
+  {
+    "id": 318,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "When Mom was a groupie in the '70s, her scrambled eggs made her the darling of the MSG loading dock. Lot of songs written about those scrambled eggs:\nZZ Top's \"She's Got Legs\"? Originally \"She's Got Eggs\".\nLed Zeppelin? \"Scramble On\".\nSteve Miller? \"The Yolker\".\nIf you listen to Pink Floyd's \"Dark Side of the Moon\" while eating her eggs, it lines up perfectly."
+  },
+  {
+    "id": 319,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Yes, I'm in a rotten mood. No, I don't want to talk about it. Yes, this has booze in it. No, it's not my first."
+  },
+  {
+    "id": 320,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Robin, I need you to delete the last text that Lily got before she sees it.\"Robin: \"Bro, it's my wedding weekend. Just because you didn't know better than to take a naked selfie while you were in the coldest part of the country...\"Marshall: \"...first, I'm an Eriksen. Cold has a plumping effect.\""
+  },
+  {
+    "id": 321,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Your story is so sweet. You didn't even kiss 'til the third date. By our third date, I hit more bases than Bob Hope on a USO tour."
+  },
+  {
+    "id": 322,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Every hookup at a weekend wedding is decided at Friday Night Drinks. Get stuck with the wrong girl tonight, the only action you'll be getting all weekend is a self five and I don't mean the cool kind. Self-five! That's the cool kind."
+  },
+  {
+    "id": 323,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Oh, come on, ref! I haven't seen that much hooking go unpunished since my last trip to Vegas."
+  },
+  {
+    "id": 324,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I was having such a good time greasing 12-year-olds.\"Ted: \"LaserTag.\"Marshall: \"Helpful. Continue.\""
+  },
+  {
+    "id": 325,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "The Bro Code has been around for centuries. Nay... whatever's more than centuries."
+  },
+  {
+    "id": 326,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"So, you are mad about me and Robin holding hands.\"Barney: \"Of course I'm mad Ted. Holding hands is like the fourth grade equivalent of banging. Well in your case, twelfth grade. Self-five!\""
+  },
+  {
+    "id": 327,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I can't believe my great grandparents still do that.\"\nBarney: \"And I never imagined a walker being used for anything other than walking.\""
+  },
+  {
+    "id": 328,
+    "author": "James Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"You avoiding the family too?\"James: \"I'm gay, I'm black and I'm getting a divorce. Those walking skeletons are gonna have more questions for me than their pharmacists.\""
+  },
+  {
+    "id": 329,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm from Minnesota, where there's plenty hot-dogs for everyone. Perhaps even too many..."
+  },
+  {
+    "id": 330,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Okay, stop! Every time he lands, that chair farts out ten-year-old Dorito dust.\"Marshall: \"Yeah, it's the chair...\""
+  },
+  {
+    "id": 331,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Italy doesn't need something that is wrinkled, red and leaky, and smells like booze and narcotics. They've already got former Prime Minister Silvio Berlusconi."
+  },
+  {
+    "id": 332,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"This locket was my grandma's, she kept it hidden in her butt all through world war II.\"Lily: \"What? Where was she?\"Robin: \"Winnipeg. Come on, Lily, that is a joke.\""
+  },
+  {
+    "id": 333,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "You're gonna get endless requests to play some game, that has something to do with gangsters and farming!"
+  },
+  {
+    "id": 334,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"He has a book of plays he uses to trick women into sleeping with him.\"Patrice: \"Oh, no way. Barney's my honey bear.\"Robin: \"Actually, one of his plays is called 'The Honey Bear'. He dresses up like Winnie the Pooh, and the next thing you know, his hand's stuck in your pot.\""
+  },
+  {
+    "id": 335,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Can we borrow your air mattress? My mom's coming into town for a few days.\"Ted: \"Absolutely not!\"Lily: \"Bummer, I guess she can't stay with us. Hey, look what I just found! A list of hotels and other creative housing options.\"Marshall: \"Baby, my mom is not staying at a hotel. Or our storage unit.\""
+  },
+  {
+    "id": 336,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Baby, you're like 20 slutty chicks all rolled into one.\"Lily: \"Sweet-talk is not gonna change my mind!\""
+  },
+  {
+    "id": 337,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "By \"entertainment\" they mean \"table-shuffle-board\", Makramee classes and other non-stimulating activities which are only used in Manhatten to calm down drug-addicts and the criminaly insane."
+  },
+  {
+    "id": 338,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "The biggest case of my life and I'd already lost the jury. I mean, I've heard of \"Twelve Angry Men\",  but this was more like \"Twelve Horny Women\"."
+  },
+  {
+    "id": 339,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Want to know what I looked like at age 15? There it is.\"Robin: \"I don't get it, that guy wasn't masturbating.\"Barney: \"Yeah, and the waistband of his undies wasn't pulled up to his Cub Scouts neckerchief.\""
+  },
+  {
+    "id": 340,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall, you being 18 isn't a bad thing. It just means you get to spend even more of your life with her."
+  },
+  {
+    "id": 341,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "B-Dawg, Barn Door, Stinson-natti, Bro-hio! Talk to me, how's it hangin'?"
+  },
+  {
+    "id": 342,
+    "author": "Nick",
+    "series": "how_i_met_your_mother",
+    "quote": "Nick: \"So, I went to this fortune teller today and she said there was a curse on me.\"Robin: \"Did she sell you something to ward off the curse?\"Nick: \"It's like you're a fortune teller, too.\""
+  },
+  {
+    "id": 343,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Before you know it, you'll be marrying a man who once ate a vanilla-scented candle!\"Robin: \"That was on me. I shouldn't have left it in the kitchen. Though, it was lit. Man, he dumb.\""
+  },
+  {
+    "id": 344,
+    "author": "Nick",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I don't know if we should keep seeing each other.\"Nick: \"You want to start turning off the lights during sex?\"Robin: \"No. God, no. No! I am just worried that, as a couple, we're not working out.\"Nick: \"You want to start going to the gym together?\""
+  },
+  {
+    "id": 345,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Basketball, people don't realize, is all geometry, physics and engineering. If you think like an architect, you could win a thousand games without ever touching a ball.\"Barney: \"What happened to your ball?\"Ted: \"Some kids from the Hebrew school next door took it and wouldn't give it back.\""
+  },
+  {
+    "id": 346,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Our point guard's a 52-year-old virgin, happy as a clam.\"Barney: \"I'm sure he's quite a ball handler.\""
+  },
+  {
+    "id": 347,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "As fun as this place is, it's late. So, what's our play? And don't say, \"The Siamese Twins\", we're not stretching out another one of my jackets!"
+  },
+  {
+    "id": 348,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "It's not what you think, he just wants to have sex. Kidding. Just a little hand stuff. Ha, kidding again. Ted's more of a boob man. I seriously can't stop."
+  },
+  {
+    "id": 349,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I love how she was this wise, old, chilled out, lesbian farmer.\"Robin: \"No, no, no. She's not a lesbian, nor does she farm them. No, that woman she lives with, that's just her special friend Maureen. They've lived together for... Oh!\""
+  },
+  {
+    "id": 350,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"As a kid, I was known as a bit of a detective. In fact, when my friend's retainer went missing, the Mosby Boys were put on the case, and it was...\"Victoria: \"The retainer was in the garbage. The Mosby Boys were you, your sister, and a neighborhood squirrel you thought you had tamed.\"Ted: \"I can't believe Squirrel-lock Holmes turned on us like that, eight weeks of training down the drain.\""
+  },
+  {
+    "id": 351,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "We're cosigning birthday cards, we got toothbrushes at each other's places, foreplay's out the window. I'm in, I'm out, I'm sleeping - it's great."
+  },
+  {
+    "id": 352,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Judging from how many clients that hooker has serviced, I'd say we've been here almost an hour."
+  },
+  {
+    "id": 353,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Cleveland sports are still relevant! 'LeBron who?' Right, guys?\"Barney: \"Ted, neither you, nor Cleveland knows how to get over someone leaving them.\""
+  },
+  {
+    "id": 354,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Those Robin's boobies?\"Barney: \"When new nubile hotties lean in to inspect your bundle of joy, you can inspect their bundles of joy. The Broller. God, I come up with a lot of good stuff!\""
+  },
+  {
+    "id": 355,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You know, as your best friend, if called upon, I'd be honored to raise Marvin.\"Robin: \"If you want him to be raised by his underwear on a flagpole, Ted's your guy. If you want him pulling the chord on some other nerd's panties, I'm your guy.\"Barney: \"I'll teach that kid how to be awesome in ways you and Lily never could. It's going to be legend- wait for it... no, I won't wait for it and neither should little baby Marvin, so maybe it's better if you two just die right now... -dary!\""
+  },
+  {
+    "id": 356,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "It is so nice to be out in the fresh air. You smell that? That's the smell of urine that isn't Marvin's."
+  },
+  {
+    "id": 357,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Quinn: \"I have to pay $2,000 every time I gain a pound?\"Barney: \"Not every time. Just if it shows up at the weekly weigh-in.\""
+  },
+  {
+    "id": 358,
+    "author": "Victoria",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"When you leave someone at the altar, you always leave a note. It's common courtesy.\"Victoria: \"I think common courtesy went out the window when I did.\""
+  },
+  {
+    "id": 359,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Hey, it's me again. Look, who are we kidding? You and I are both attracted to each other. We're young, we're drunk, half of us anyway. And we only get one life, so why don't you come over to my apartment and we'll think of something stupid to do together?"
+  },
+  {
+    "id": 360,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Let's hit a motel, jam in a quickie and get you back to your wedding."
+  },
+  {
+    "id": 361,
+    "author": "Quinn Garvey",
+    "series": "how_i_met_your_mother",
+    "quote": "If we miss Hawaii because of this, guess who's not doing \"The Disappearing Salami\" anytime soon?"
+  },
+  {
+    "id": 362,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Kids, sometimes the universe sends exactly what you ask for. Other times... it sends Lily's dad."
+  },
+  {
+    "id": 363,
+    "author": "Dr. Sonya",
+    "series": "how_i_met_your_mother",
+    "quote": "The baby slide right out, huh? It's like a 'whoosh', like a waterslide. [Lily screaming] Slightly painful waterslide."
+  },
+  {
+    "id": 364,
+    "author": "Dr. Sonya",
+    "series": "how_i_met_your_mother",
+    "quote": "If you don't push, I will shove that baby up your throat and pull it out of your mouth!"
+  },
+  {
+    "id": 365,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Baby, can we grow sandwiches behind the garage?"
+  },
+  {
+    "id": 366,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Looks like somebody suffered from premature slapulation."
+  },
+  {
+    "id": 367,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "I think my soul just threw up a little bit."
+  },
+  {
+    "id": 368,
+    "author": "Lily Aldrin",
+    "series": "how_i_met_your_mother",
+    "quote": "When Barney overhears that Ted and Robin have a secret to reveal at the wedding reception, he begins to guess what it might be."
+  },
+  {
+    "id": 369,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I'm dating a stripper.\"Ted: \"Yes, I've seen your bus ad.\""
+  },
+  {
+    "id": 370,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"All pregnant ladies have crazy sex dreams. It's just her hormones going berserk.\"Barney: \"So who's responsible for her rapid thigh movement this time?\"Ted: \"Oh, my favorite was when she banged George Washington.\"Barney: \"I liked the three-way with Bill Cosby and Papa Smurf.\"Ted: \"Oh, he smurfed the smurf out of her.\"Marshall: \"Yes, while The Cos smurfed off in the corner - we all remember.\""
+  },
+  {
+    "id": 371,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Every three years we sit down and Tril' it up big time, agreed?\"Marshall: \"Agreed-o!\""
+  },
+  {
+    "id": 372,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Usually after a sandwich, I feel paranoid, but I'm not. WHY AM I NOT BEING PARANOID??"
+  },
+  {
+    "id": 373,
+    "author": "Kevin",
+    "series": "how_i_met_your_mother",
+    "quote": "Kevin: \"Well, it's a close one. Lily made 14 awkward references to marriage and Marshall made an even 60.\"Robin: \"I'm so sorry, Kevin.\"Kevin: \"It's okay. I'm gonna go to bed, but you guys think tomorrow we can stop with all the marriage talk?\"Lily: \"I do.\"Marshall: \"I do.\"Kevin: \"That's a half a point each.\""
+  },
+  {
+    "id": 374,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You know Robin? Been thinking about it. Guess it's kind of nice you're such a bad-ass.\"Robin: \"It's pretty bad-ass you're so nice, Ted.\""
+  },
+  {
+    "id": 375,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"She was gonna get the last kugel.\"Ted: \"She was 90 years old. It was probably gonna be her last kugel.\""
+  },
+  {
+    "id": 376,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"Sometimes in life you have to be assertive and stand up for yourself.\"Ted: \"You called her a whore!\"Robin: \"Who wears that much make up?\"Ted: \"Old ladies!\"Robin: \"Who take money for sex, exactly!\""
+  },
+  {
+    "id": 377,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily, I think we made a mistake moving out to the suburbs. I miss our home. I miss our booth with our friends. And I'm pretty sure I have a drumstick... somewhere bad."
+  },
+  {
+    "id": 378,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin: \"I wouldn't go to Cleveland for 125 million dollars, paid over six years.\"Ted: \"Still with the LeBron jokes? Where's that ring he's supposed to have by now?\""
+  },
+  {
+    "id": 379,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily, you just gave those children a stapler, a pair of sharp scissors and a pretty decent Pinot Noir."
+  },
+  {
+    "id": 380,
+    "author": "James Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "The Pork Authority is closed. Looks like it's Hand Central Station for you little buddy."
+  },
+  {
+    "id": 381,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "He let me have her. I have to say, it was pretty noble of him. He fell on his sword so that she could fall on mine."
+  },
+  {
+    "id": 382,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Too many crazies had my old number, so now I'm all about disposable cell phones. I'll use one for a while, have my fun, then dump it and get a new one. And then I'll do the same with my phone."
+  },
+  {
+    "id": 383,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Zoey: \"Don't worry Ted, she's cute.\"Barney: \"'Cute' means 'fat'!\"Zoey: \"She's not fat.\"Barney: \"'Not fat' means 'ugly'.\""
+  },
+  {
+    "id": 384,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"I just thought he needed to listen to common sense and reasonable discourse.\"Robin: \"Oh, God. Tell me those aren't the names of your fists.\"Ted: \"They're my feet. I'm actually more of a kicker.\""
+  },
+  {
+    "id": 385,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"How did you do it?\"Barney: \"Oh God, you found one of the cameras. I swear that's the only one! Wait, which one did you find?\""
+  },
+  {
+    "id": 386,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Robin, this show is so dirty, I don't know whether to hug you, or run a shower for you, so you can sit there alone, crying and clenching your knees.\"Robin: \"It's just bad camera work, okay? Wayne, our camera guy - he wasn't that great.\"Marshall: \"I don't know. I think he did a pretty good job, considering he was probably only using one hand.\""
+  },
+  {
+    "id": 387,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "I didn't realize you were small potatoes. And to be clear, I am referring to your testicles."
+  },
+  {
+    "id": 388,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Looks like that bee got busy.\"Ted: \"Looks like that French maid didn't turn down somebody's bed.\"Marshall: \"Oh, looks like Pocahontas has a couple of wounded knees.\""
+  },
+  {
+    "id": 389,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Hey, want to come to my house and play telephone? I got the string, you got the cans."
+  },
+  {
+    "id": 390,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Whoa, Ted, that thing you're packing is way too big to fit in that box.\"Ted: \"Yeah, that's what your mom said.\"Barney: \"How dare you?\"Ted: \"No, she actually said that.\""
+  },
+  {
+    "id": 391,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "14 seconds! And already some dingdong is stepping up, thinking he can get some of this broke off."
+  },
+  {
+    "id": 392,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "What you're doing right now. I'm getting a de-rection!"
+  },
+  {
+    "id": 393,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Nobody takes an intro class to get on any other path, but the path to not being hungover anymore. I learned that in my intro to something-ology class."
+  },
+  {
+    "id": 394,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Trying to get them interested in architecture as a career.\"Barney: \"Why? Are we running out of buildings?\"Robin: \"Are we running out of boring people?\""
+  },
+  {
+    "id": 395,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Robin, if you asked a hundred people: \"Who's the worst person you could possibly date?\" They'd all say \"your therapist\", except the ones saying \"Barney\"."
+  },
+  {
+    "id": 396,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Career has been trouncing romance for years. It's like the Globetrotters versus the Generals: Career's sinking hook shots from half court, romance is just a bunch of slow white guys, who couldn't make it in the Italian league."
+  },
+  {
+    "id": 397,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Clint: \"Ted, your mother is a very, very erotic woman.\"Ted: \"Please don't.\""
+  },
+  {
+    "id": 398,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"I made a bid online, I won the auction the next day and I got approval. I just finalized the paperwork.\"Barney: \"And was the Blair Witch easy to deal with, or did she haggle over the closing costs?\""
+  },
+  {
+    "id": 399,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"You always kept your toothbrush in the bedroom. Also weird, by the way.\"Lily: \"No. We kept it in the bathroom.\"Ted: \"No, there was only one toothbrush in the bathroom, and it was mine...\""
+  },
+  {
+    "id": 400,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "We've always been a trio! We're right up there with Batman and Robin and Alfred. Romeo and Juliet and the apothecary. Salt and pepper and cumin."
+  },
+  {
+    "id": 401,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Where is your playbook?\"Robin: \"My playbook? Bro, uh, two-volume set, right here.Ted: \"It's a great read, actually.\"Lily: \"Yeah, I'm reading it right now.\""
+  },
+  {
+    "id": 402,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm a good boyfriend in my sleep. I can rock a killer foot rub with one hand and brew a kick-ass pot of chamomile in the other, that would make you weep. Hell, I've forgotten more about microwaving fat-free popcorn and watching Sandra Bullock movies than you'll ever know, but: thanks for your concern, rook!"
+  },
+  {
+    "id": 403,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "It could be for a brother or maybe her sick dad.\n[reads] \"And then I want you to do me on the couch.\"\nOkay, maybe not a sick dad. Or a very sick dad, am I right?"
+  },
+  {
+    "id": 404,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I've got to find a way to introduce some wood into Bilson's dark atrium. I think you know what I meant."
+  },
+  {
+    "id": 405,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Karen: \"I'm sure all the exploited diamond miners in Sierra Leone would give you a high-five if they still had all their fingers. But really pretty - meet me upstairs!\"Robin: \"They only need one finger to give her what I'm thinking.\""
+  },
+  {
+    "id": 406,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "One minute we're just laying into each other, and then the next minute... well, same thing."
+  },
+  {
+    "id": 407,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"I am gonna have to walk this earth, knowing Barney has touched my boobs.\"Robin: \"Yeah it stays with ya. His e-mail reminders don't help.\""
+  },
+  {
+    "id": 408,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Enjoy your mai-tai, because soon you will be wearing my tie!"
+  },
+  {
+    "id": 409,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Let the dinnertainment begin!\"Barney: \"That reminds me there's this other restaurant we should try sometime. What they do is, they cook you a meal, in a little room called a 'kitchen'.\""
+  },
+  {
+    "id": 410,
+    "author": "Stella Zinman",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"Robin and I already had our backslide. Last Thanksgiving, not even that long ago.\"Stella: \"Did you place a large bet against yourself?\""
+  },
+  {
+    "id": 411,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Stella's sister: \"I'm a vegan. I wish I could tune out that moral voice inside me, that says eating animals is murder. But I guess I'm just not as strong as you are.\"Ted: \"That's 'cause you need protein. I'll have the lamb.\""
+  },
+  {
+    "id": 412,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Every year, there are a million new, hot 22-year-olds walking into bars and call me \"glass-half-full\"... but I think they're getting dumber."
+  },
+  {
+    "id": 413,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted, no! You never break up a girl fight! Never!"
+  },
+  {
+    "id": 414,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "My arm hasn't been this sore, since I was 13 years old and figured out how to lock a bathroom."
+  },
+  {
+    "id": 415,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"The tiniest little burger joint you ever saw. Tucked between a taxidermist and a XXX bookstore.\"Barney: \"Name two places where things get stuffed.\""
+  },
+  {
+    "id": 416,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Stella: \"Ted, you're staring at my breasts.\"Ted: \"In fairness... they were staring at me.\""
+  },
+  {
+    "id": 417,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "This is New York City, don't get close to the neighbours. You nod at them politely in the hall, you call the cops if you haven't seen them in a while and you smell something funny and that's it!"
+  },
+  {
+    "id": 418,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Jelly beans, fluffernutter, Gummi Bears, ginger snap... this is a grocery list!\"Robin: \"For who? A witch building a house in the forest?\"Marshall: \"Sugar helps me study.\"Barney: \"This is like the shopping a ten-year-old does when his parents leave him alone for the weekend.\"Lily: \"What parent leaves a ten-year-old alone for the weekend?\"Barney: \"And your mom was perfect.\""
+  },
+  {
+    "id": 419,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Brother, you're driving the \"I-wanna-have-sex-with-her-truck\" and its got a huge blind spot."
+  },
+  {
+    "id": 420,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I appreciate your help, but there's a reason your name is \"Robin\", not \"Batman\"."
+  },
+  {
+    "id": 421,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I met a girl last night. So perky and full of life and not at all fake.\"Ted: \"You're talking about her boobs, right?\"Barney: \"Si. And that wasn't Spanish, that was cup size. What up?!\""
+  },
+  {
+    "id": 422,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"Neither of you guys has any game, right? Or else you'd be married. Like me. If dating is the game, then marriage is winning the game.\"Ted: \"Yeah, if you're playing in the women's league!\""
+  },
+  {
+    "id": 423,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Where some choose to look at this bra half-empty, I choose to look at this bra half-full."
+  },
+  {
+    "id": 424,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You wanna know what line doesn't work on a harp player? \"Hey baby, wanna pluck?\""
+  },
+  {
+    "id": 425,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I guess, if we're splitting hairs, then technically... there was a plurality to the times I've lied to women for sex-having-purposes."
+  },
+  {
+    "id": 426,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"All my friends from high-school, they're here with their wifes or kids. My date for the night is a sticky magazine...\"Robin: \"Sounds like high-school all over again!\""
+  },
+  {
+    "id": 427,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall really took a two-flusher on that one!"
+  },
+  {
+    "id": 428,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted, your throwing your life away. This girl is blinding you with her shiny hair and her boob-shaped boobs!"
+  },
+  {
+    "id": 429,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"I thought you said you got rid of everything your ex-boyfriends gave you?\"Robin: \"Well yeah, but not my dogs.\"Ted: \"You said everything.\"Robin: \"But not living things.\"Ted: \"Tell that to the rare bolivian cactus i threw away!\""
+  },
+  {
+    "id": 430,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I'll help you study. We're gonna stay up all night long. I'm gonna drill you and then we're gonna study. No, seriously. We're gonna do some cramming and then we're gonna study. No, seriously. We're gonna bone up on..."
+  },
+  {
+    "id": 431,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Freeways have exits, so do relationships. The first exit, my personal favourite, is six hours in: You meet, you talk, you have sex, you exit when she's in the shower."
+  },
+  {
+    "id": 432,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Discouraging premarital sex is against my religion."
+  },
+  {
+    "id": 433,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"That's Dirty Dancing!\"Ted: \"It was on last night.\"Marshall: \"No, it was two nights ago. 'She's Like the Wind' has been stuck in my brain for about 40 hours. I just got it out; now it's back in. Damn you, Swayze!\""
+  },
+  {
+    "id": 434,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"[to Marshall, lying next to him] Marshall, are you still thinking about Lily?\"Marshall: \"Yeah.\"Ted: \"Please stop!\""
+  },
+  {
+    "id": 435,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There's kids playing hockey in the back. It's like you want us to make fun of you!"
+  },
+  {
+    "id": 436,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "If one of the Vancouver Canucks walked in here, my panties would drop so hard, there would be a hole in the floor halfway to China."
+  },
+  {
+    "id": 437,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Dude, ditch Tiffany and join the Barnacle in the Pharma-Girl-Free-For-All. Side effects may include: loss of clothing, rug burns, shortness of breath and soar abdominals the next morning. What in the world is up!"
+  },
+  {
+    "id": 438,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Well, Amanda is going to make Lily a cake, she's a chef! We met when I was at a restaurant last week and I sent some soup back. Luckily she's got such pretty hair I didn't mind eating a little bit of it."
+  },
+  {
+    "id": 439,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Have you been arrested in a mall?Dumped in a mall?Turned out you're Canadian in a mall?"
+  },
+  {
+    "id": 440,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Woman: \"You know this isn't Vegas, right?\"\nRobin: \"Well sure, in Vegas the casinos pump in oxygen, in Atlantic City it looks like everyone brought their own.\""
+  },
+  {
+    "id": 441,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"We're going to Atlantic City to elope - right now!\"\nBarney: \"Oh, congratulations Lily! Marshall, you're getting married? What the hell?\""
+  },
+  {
+    "id": 442,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm a genetic goldmine! No family history of diabetes or heart disease, everyone has non-porous teeth and perfect eyesight. I had one schizophrenic uncle, but even he had perfect vision. Which was unfortunate for the people around the bell tower he was in."
+  },
+  {
+    "id": 443,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Stacey, six kids in five years! The woman's basically a ride to the waterpark."
+  },
+  {
+    "id": 444,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Ted, it's a well-known statistic, that 83% of people, married longer than 6 months, are saving someone on the side.\"Ted: \"Do you know that when you make up a statistic, you always use 83% ?\""
+  },
+  {
+    "id": 445,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Whats your prescription, Dr. Estrogen? Eat Haagen-Dazs and watch \"Love... actually\" until your periods sync up?"
+  },
+  {
+    "id": 446,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Because were baseball, strippers and guns can't help, the only thing that can really heal a broken heart, is time."
+  },
+  {
+    "id": 447,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Know what time it is? It's do-o-clock, lets ride!"
+  },
+  {
+    "id": 448,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "\"Crutch down and bend over a little bit.\"\nBarney: \"Wow, It took five shots of tequila to have you in that position.\""
+  },
+  {
+    "id": 449,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"What do you say?\"Robin: \"Yes! No! I don't know...\"Ted: \"Those are the three options.\""
+  },
+  {
+    "id": 450,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Swear on the lifes of your unborn boy and girl!\"\nTed: \"I swear... on Luke and Leia!\""
+  },
+  {
+    "id": 451,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Talking to a woman that you have already had sex with, is like changing the oil on a rental car!"
+  },
+  {
+    "id": 452,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"This is one of those things you have to do before you turn 30.\"Ted: \"Sleep with a prostitute?!\"Barney: \"No, lose your virginity!... What up?\""
+  },
+  {
+    "id": 453,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Think about it, this is perfect.a) It'll make Robin insanly jealousb) You get to have sex with herc) Maybe by getting to know Mary, you'll come to see that cortisens are people tooand d) B! All night long!"
+  },
+  {
+    "id": 454,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Or it's a chance to mess with her head by showing up with someone hotter. Even better. Triple-threat: hotter and bigger boobs.\"Ted: \"That's only two?\"Barney: \"Count again!\""
+  },
+  {
+    "id": 455,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I don't feel so good. It's like my testicals mixed poprocks and soda."
+  },
+  {
+    "id": 456,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Sorry buddy, wish I could help you, but my hands are tied. Oh no wait, that was last night!"
+  },
+  {
+    "id": 457,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Very nice, Lily. You know, she is a guest in this country. So while you may choose to turn your back on her, I choose... to turn my front on her. What up!"
+  },
+  {
+    "id": 458,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Yes Barney, your submissions were recieved and no, we will not be attending any parties in your pants."
+  },
+  {
+    "id": 459,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"If economic sanctions and trade-restrictions aren't enforced, the destruction of the rainforest will continue and over a million species will be wiped out!\"Ted: \"So you don't want coffee?\""
+  },
+  {
+    "id": 460,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "It's the greatest samurai, who lets his sword rust in its scabbard."
+  },
+  {
+    "id": 461,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"What could she possibly have to say me, that she couldn't write in an email?\"Robin: \"I've cut out all my fingers?\""
+  },
+  {
+    "id": 462,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted, you know who's a million times hotter than the hottest girl I've ever slept with? Her okay-looking friend I haven't seen naked. Why? Because new is always better."
+  },
+  {
+    "id": 463,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "I thought you where vomit-free since nintythree... so that was a lie?"
+  },
+  {
+    "id": 464,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "This is my lucky St. Paddys Day suit. I have dry-cleaned many stain out of this baby."
+  },
+  {
+    "id": 465,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "The World is going to come to an end tonight. Yes think about it. End of the World, Nostradamus, Notre Dame, Fighting Irish, Irish, St. Patrick's Day. This is it Bro. Bro-calypse Now... Bro-Mageddon."
+  },
+  {
+    "id": 466,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"What the hell happened?\"\nBarney: \"I said no questions asked.\"\nMarshall: \"Star, clover, horseshoe... Barney, did you swallow real versions of all the Lucky Charms items?\"\nBarney: \"No questions asked! Now come on. Let's hit the bar. I'm buying. I just won 50 bucks from a little Irish guy on a dare.\""
+  },
+  {
+    "id": 467,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "That was the night I was born. I rose like a phoenix from her mentholated bosom and strode into the world, Armani-clad and fully awesome."
+  },
+  {
+    "id": 468,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"He's the awesomest, most best-lookingest, greatest guy ever!\"Lily: \"He's exactly like Barney.\"Barney: \"That's what I just said.\""
+  },
+  {
+    "id": 469,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Oh man, I am so excited that you're here! It has been forever since I have been around anyone even remotely fun![to Lily, Robin, Ted and Marshall] Huh... yes, offense!"
+  },
+  {
+    "id": 470,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Don't knock long-distance relationships, I really think they can work. I'm juggling four right now. There's Lisa in Madrid, there's Erica in Tokyo, there's Laura in Denmark. And Kelly on 34th street. The last thinks I'm a humble sheep-shearer from Kelani."
+  },
+  {
+    "id": 471,
+    "author": "Marshall Eriksen",
+    "series": "how_i_met_your_mother",
+    "quote": "Look at us, riding around in a limo, eating hot dogs... It's like we're the president."
+  },
+  {
+    "id": 472,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There are only two reasons to date a girl you've already dated: breast implants."
+  },
+  {
+    "id": 473,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ladys and Gentlemen, I have in my hand a copy of tonight's top 10 list. The category: Top 10 things i would have called my truck...Number 10 - 'The Winne-Bango'.Number 9 - 'The Pick-Up Truck'.Number 8 - 'The Ford Explore Her'.Number 7 - 'The You Scream Truck'. You Scream.Number 6 - 'Feels on Wheels!'. Hello!Number 5 - 'The Ride Her Truck'.Number 4 - 'The 18-Squeeler'.Number 3 - 'The Esca-Laid'. Ih-ih-ih!Number 2 - 'The Slam-Boney'.Aaand the number 1 thing I would've called my truck if Ted hadn't been a jerk and given it back...'The '69 Chevy'!"
+  },
+  {
+    "id": 474,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Airport bar! Flight attendants, they'll get your tray table in it's full upright position. Say what?"
+  },
+  {
+    "id": 475,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "The Captain: \"Guess it's just you, me, and six hours in frigid international waters.\"Ted: \"Or we could stay in dry land, hang out with some witnesses?\""
+  },
+  {
+    "id": 476,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"Her butt?\"Marshall: \"What is it, too much?\"Lily: \"Too low?\"Robin: \"Or ist it an issue of access?\""
+  },
+  {
+    "id": 477,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Woman: \"How can you not remember my name? it rhymes with your name?\"Barney: \"And I said my name was...?\""
+  },
+  {
+    "id": 478,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Here's the thing about me and tools: The only one I know how to use, is attached to me. And I'm not gonna try putting it in a TV... again."
+  },
+  {
+    "id": 479,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Anything sounds weird, if you say it a  undred times. Bowl. Bowl. Bowl..."
+  },
+  {
+    "id": 480,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "She had a nice face, her booty was in place, but Barney don't chase."
+  },
+  {
+    "id": 481,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Player play on - high V!"
+  },
+  {
+    "id": 482,
+    "author": "How I Met Your Mother",
+    "series": "how_i_met_your_mother",
+    "quote": "There is one difference between you and me: I'm not saying any of this to get in your pants."
+  },
+  {
+    "id": 483,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "February 13th. A magical night, where a ten has the self esteem of a four and the depraved enthusiasm of a two."
+  },
+  {
+    "id": 484,
+    "author": "Robin Scherbatsky",
+    "series": "how_i_met_your_mother",
+    "quote": "Desperation Day has come and gone and you have neither gone nor come."
+  },
+  {
+    "id": 485,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "I'd say hump her brain out, but somebody obviously already has."
+  },
+  {
+    "id": 486,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I like my testicles attached to my body, rather than rolling around next to some eyeliner in Robin's purse. Stinson out!"
+  },
+  {
+    "id": 487,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There are so many great things to do with the human mouth, why waste it on talking?"
+  },
+  {
+    "id": 488,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "One of the 24 similarities between women and fish are they're both attracted to shiny objects."
+  },
+  {
+    "id": 489,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "I'm sorry, can you repeat that? I don't speak \"I-never-get-laid\"."
+  },
+  {
+    "id": 490,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "There is a 83% correlation between times when men are wearing a boutonniere and when they are getting laid... proms, weddings, funerals... thanks for the redhead, grandma! By the way, did you know that \"boutonniere\" is french for \"booty is near\"?"
+  },
+  {
+    "id": 491,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "She really had a fat but: her fat butt!"
+  },
+  {
+    "id": 492,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Breast-feeding... hot!When those things swell up to three times their normal size, so do I."
+  },
+  {
+    "id": 493,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "You lie to your husband all the time...\n\"That shirt looks great on you.\"\n\"I love your mom.\"\n\"I never fantasize about Barney when we're doing it.\"\nSound familiar, Pinocchio?"
+  },
+  {
+    "id": 494,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"Anytime a single guy hangs out with a married woman there are rules that must be followed: Rule number one...\"Barney: \"Don't use the husband's condoms, that's just rude!\""
+  },
+  {
+    "id": 495,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Lily: \"I'm pregnant.\"Barney: \"I've never seen that woman before in my life! Sorry - force of habit, congratulations!\""
+  },
+  {
+    "id": 496,
+    "author": "Ted Mosby",
+    "series": "how_i_met_your_mother",
+    "quote": "Oh my god, you have a monocle! Is this real? Is this really happening? Good luck killing James Bond!"
+  },
+  {
+    "id": 497,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Marshall: \"You're really telling me, that when you watch 'The Karate Kid', you don't root for Daniel-san?\"Barney: \"Nope.\"Ted: \"Who do you root for in 'Die Hard'?\"Barney: \"Hans Gruber. Charming international bandit. At the end, he died hard. He's the title character.\"Lily: \"Okay, 'The Breakfast Club'?\"Barney: \"The teacher running detention. He's the only guy in the whole movie wearing a suit.\"Robin: \"I got one. 'Terminator'.\"Barney: \"What's the name of the movie, Robin? Who among us didn't shed a tear when his little red eye went out at the end, and he didn't get to kill these people?\""
+  },
+  {
+    "id": 498,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Never buy a girl flowers, 'cause giving her a living thing reminds her of babies."
+  },
+  {
+    "id": 499,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "He has got to go. You need to be like:You are the weakest link goodbye!Punchy, the tribe has spoken.Please pack up your knives and go.Your work of art, didn't work for me.You're times up.I have to ask you to leave the mansion.You must leave the chateau.Your tour ends here.You've been chopped!You've been evicted from the Big Brother house.Your desert just didn't measure up.Sashay away!Give me your jacket and leave Hell's kitchen!You did not get a rose.You have been eliminated from the race.You are no longer in the running to be America's Next Top Model.You're fired.Auf Wiedersehen."
+  },
+  {
+    "id": 500,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Give it a week, you'll get her back. And her front.\nOh! Did you feel that? I think we just had a \"what up?\"-quake!"
+  },
+  {
+    "id": 501,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Barney: \"I only smoke in certain situations. Postcoital, when I'm with Germans, sometimes those two overlap, coital, birthdays, to annoy my mom, precoital, on a sailboat, the day the Mets are mathematically eliminated every year and pregnancy scares.\"Ted: \"Why are you smoking right now?\"Barney: \"I'm always precoital, Ted.\""
+  },
+  {
+    "id": 502,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted: \"She was 15?!\"Barney: \"No. A 15. Like in blackjack.\"Ted: \"As in.. not sure whether you'd hit it?\"Barney: \"Exactly!\""
+  },
+  {
+    "id": 503,
+    "author": "Barney Stinson",
+    "series": "how_i_met_your_mother",
+    "quote": "Ted, the only reason to wait a month for sex is if the girl is 17 years and 11 months old."
+  }
+]
+
+
 }

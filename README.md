@@ -13,7 +13,7 @@
 This API is currently hosted on deta
 
 ```url
-https://web-series-quotes-api.deta.dev
+https://api.seriesquotes.10cyrilc.me/quote/
 ```
 
 ## Features
@@ -21,7 +21,6 @@ https://web-series-quotes-api.deta.dev
 - Get quotes from various web series
 - Generate quote images with solid background
 - Generate quote images with image background
-
 
 ## Full Docs
 
